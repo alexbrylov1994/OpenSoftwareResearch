@@ -1,1 +1,16 @@
-git log  --after="2014-7-1" --before="2014-7-4" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --author="$name" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n %s\n", add, subs, loc,filename}' -;done
+# How to use:
+# Each individual git command 
+# Is a single line 
+# Because it's easier to paste into the gitbash prompt
+# You can put each line seperately (divided by semicolons)
+# And to run it all finish with done but that takes more time imo
+
+
+#Basic Command that gets the Lines of Code commited for janurary 2009 
+
+git log  --after="2009-1-1" --before="2014-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2014-1-31"  --author="$name"  --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n %s\n", add, subs, loc,filename}' -;done
+
+
+#Basic Command that gets the list of files changed per person for janurary 2009 
+
+git log  --after="2009-1-1" --before="2014-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2014-1-31"  --author="$name"  --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3","}  END { printf "%s\n",filename}' -;done
