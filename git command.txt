@@ -27,6 +27,5 @@ git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | whil
 #Gets the relative distribution of  LOC changes per commit per directory (component) per person. Displays Commit ID. 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\n"; git log --after="2009-1-1" --before="2009-1-31" --author="$name" --pretty=tformat:%H --dirstat=0 ; done
 
-#Gets the Total LOC per commit within month range. Display Commit ID. 
-git log  --after="2014-7-1" --before="2014-7-4" --format='%H' | sort -u | while read name; do echo -en "$name\t";git log $name --pretty=tformat: --numstat| awk '{ loc += $1 - $2;} END { printf "%s\n", loc }' -;done
-
+#Gets the Total LOC of project per commit within month range. Display Commit ID. 
+git log  --after="2014-7-1" --before="2014-7-4" --format='%H' | sort -u | while read name; do echo -en "$name\n";git log $name --pretty=tformat: --numstat| awk '{ loc += $1 - $2;} END { printf "%s\n", loc }' -;done
