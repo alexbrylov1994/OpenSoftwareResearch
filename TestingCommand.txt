@@ -7,3 +7,10 @@ Testing 2) git log --pretty=format:%ae| gawk -- '{ ++c[$0]; } END { for(cc in c)
 Testing 3) git log  --after="2014-7-1" --before="2014-7-4" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --author="$name" --pretty=tformat: --numstat | awk '{if($3== "src/mongo/tools/tool.cpp") {add += $1; subs += $2; loc += $1 - $2;}}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n %s\n", add, subs, loc;}' -;done
 
 git log  --after="2014-7-1" --before="2014-7-4" --format='%aN' | sort -u | while read name; do echo -en "$name\t";git log --author="$name" --pretty=tformat:%H --numstat| gawk '{ add += $1; subs += $2; loc += $1 - $2;} END { printf "added lines: %s removed lines: %s total lines: %s\n", add, subs, loc }' -;done
+
+
+
+git log --after="2009-1-1" --before="2009-1-30" --no-merges --format='%H' | while read name; do echo -en "$name\n"; git log -1 $name --no-merges --pretty=tformat: --oneline --numstat| awk '{ add += $1; subs += $2; loc += $1 - $2;} END { printf "added lines: %s removed lines: %s total lines: %s\n", add, subs, loc }' -;done
+
+
+git log --after="2009-1-1" --before="2009-1-30" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --oneline --numstat |gawk '{ add = $1; subs += $2; loc = $1 - $2;} END { printf "added lines: %s removed lines: %s total lines: %s\n", add, subs, loc }' -; added lines: 26 removed lines: 26 total lines: 0

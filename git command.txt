@@ -15,7 +15,6 @@
 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2009-1-31"  --author="$name"  --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n %s\n", add, subs, loc,filename}' -;done
 
-
 #Gets the list of files changed per person for janurary 2009 delimited for commas.
 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2009-1-31"  --author="$name"  --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3","}  END { printf "%s\n",filename}' -;done
@@ -28,4 +27,7 @@ git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | whil
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\n"; git log --after="2009-1-1" --before="2009-1-31" --author="$name" --pretty=tformat:%H --dirstat=0 ; done
 
 #Gets the Total LOC of project per commit within month range. Display Commit ID. 
-git log  --after="2014-7-1" --before="2014-7-4" --format='%H' | sort -u | while read name; do echo -en "$name\n";git log $name --pretty=tformat: --numstat| awk '{ loc += $1 - $2;} END { printf "%s\n", loc }' -;done
+git log  --after="2014-7-1" --before="2014-7-4" --no-merges --format='%H' | sort -u | while read name; do echo -en "$name\n";git log $name --pretty=tformat: --numstat| awk '{ loc += $1 - $2;} END { printf "%s\n", loc }' -;done
+
+#Gets the Add LOC, Sub LOC, Total LOC per commit within a month range. Displays commit ID. Comma delimters
+git log --after="2009-1-1" --before="2009-1-31" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --numstat |gawk '{ add += $1; subs += $2; loc = $1 - $2;} END { printf "   %s,%s,%s\n", add, subs, loc }' -; done
