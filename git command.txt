@@ -8,9 +8,18 @@
 # And to run it all finish with done but that takes more time imo
 ====================================
 #Saving output into .txt document
-# [insert git command here] > ~/OutsideSourceCodeFolder/Data.txt
+# [insert git command here] > ~/NameSomeFolder/NameData.txt
 
 ==============================================================================================
+
+#Gets the relative distribution of  LOC changes per commit per directory (component) per person. Displays Commit ID. 
+git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\n"; git log --after="2009-1-1" --before="2009-1-31" --author="$name" --pretty=tformat:%H --dirstat=0 ; done
+
+#Gets the Add LOC, Sub LOC, Total LOC per commit within a month range. Displays commit ID. Comma delimters
+git log --after="2009-1-1" --before="2009-1-31" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --numstat |gawk '{ add += $1; subs += $2; loc = $1 - $2;} END { printf "   %s,%s,%s\n", add, subs, loc }' -; done
+
+
+############### NO LONGER NEEDED SINCE WE'RE NOT DEALING WITH FILES. MIGHT USE AS REFERENCE ###########
 #Gets the Lines of Code commited and changed per person for janurary 2009 
 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2009-1-31"  --author="$name"  --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n %s\n", add, subs, loc,filename}' -;done
@@ -22,12 +31,3 @@ git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | whil
 #Gets the changes made per month for a file (NOT what we want!)
 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2009-1-31" --author="$name" --pretty=tformat: --numstat | awk '{if($3== "src/mongo/tools/tool.cpp") {add += $1; subs += $2; loc += $1 - $2;}}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc;}' -;done
-
-#Gets the relative distribution of  LOC changes per commit per directory (component) per person. Displays Commit ID. 
-git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\n"; git log --after="2009-1-1" --before="2009-1-31" --author="$name" --pretty=tformat:%H --dirstat=0 ; done
-
-#Gets the Total LOC of project per commit within month range. Display Commit ID. 
-git log  --after="2014-7-1" --before="2014-7-4" --no-merges --format='%H' | sort -u | while read name; do echo -en "$name\n";git log $name --pretty=tformat: --numstat| awk '{ loc += $1 - $2;} END { printf "%s\n", loc }' -;done
-
-#Gets the Add LOC, Sub LOC, Total LOC per commit within a month range. Displays commit ID. Comma delimters
-git log --after="2009-1-1" --before="2009-1-31" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --numstat |gawk '{ add += $1; subs += $2; loc = $1 - $2;} END { printf "   %s,%s,%s\n", add, subs, loc }' -; done
