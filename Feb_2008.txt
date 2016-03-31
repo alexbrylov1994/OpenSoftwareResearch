@@ -1,4 +1,4 @@
-Author:Dwight,
+Author: Dwight ,
 c2e932245f2e4fb00f1abbb94fa0b4a4a69636df
 
  100.0% db/
@@ -136,7 +136,7 @@ ab8490242865014b2ad50e4db50d830e0faf4b62
 
   87.5% db/
    3.8% util/
-Author:Eliot Horowitz,
+Author: Eliot Horowitz ,
 803b7e32d9669807260c8a6549fcf7fe54ab0859
 
  100.0% util/
@@ -160,7 +160,7 @@ dfd1aaafb8709c416783916200d51fcaea6a7564
 4df9632b6a9a8147e4354f5bd586c211d332b7ff
 
  100.0% db/
-Author:yellow,
+Author: yellow ,
 64cf047baf3ebc7532d1d21c77cbddcda0059723
 
 67f1992ff03992235b50cb2f4ca7d226919651b2
