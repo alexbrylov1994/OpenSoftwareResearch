@@ -18,7 +18,7 @@ git log  --after="2008-2-1" --before="2008-2-29" --format='%aN' | sort -u | whil
 git log --after="2008-1-1" --before="2008-1-31" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --numstat |gawk '{ add += $1; subs += $2; loc = $1 - $2;} END { printf "   %s,%s,%s\n", add, subs, loc }' -; done
 
 #Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
-git log --after="2008-2-1" --before="2008-2-29" --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2;} END { printf "%s,\n",loc }' -; done
+git log --after="2010-1-1" --before="2010-1-31" --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2;} END { printf "%s,\n",loc }' -; done
 
 
 

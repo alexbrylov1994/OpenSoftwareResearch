@@ -1,0 +1,32 @@
+Author:Aaron,
+2fc5cd666f9906911fc66f7c18ac9c397989bc5b
+
+ 100.0% db/
+Author:dwight,
+05d80f56d8f5edbc77cc3f1a896c055739e7c92e
+
+ 100.0% util/
+Author:Dwight,
+5661edfcef3644af3f2fbadba7b4171b3d523e61
+Author:Eliot Horowitz,
+75fd1d625740d9d3dced353e003a379cd31dd84f
+
+ 100.0% db/
+Author:Kristina Chodorow,
+fd05bdf2225ddf3219e4eafc570d603a6ef6c9c4
+
+ 100.0% jstests/
+Author:Mathias Stearn,
+2cea986a7373497bdb2670b2ea1f82ce656c3880
+
+ 100.0% scripting/
+Author:Mike Dirolf,
+5e387405ebc1752fb63a2b3bcab54f82581addc0
+
+ 100.0% tools/
+Author:Richard Kreuter,
+bb4e3ea5ba744f614f9ad7b848c6ab41aacc4087
+
+ 100.0% rpm/
+Author:unknown,
+0556be40804a549bc5eb5c85a061b4cbfa6c3b33

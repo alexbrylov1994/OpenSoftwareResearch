@@ -1,0 +1,53 @@
+Author:Aaron,
+691de0d1ba21a0b53a17684414021c709eda7c2d
+
+ 100.0% db/
+Author:dwight,
+3e5a7a1d4484de6a8682cccc833bfd67119dab16
+
+  62.4% client/
+  37.5% jstests/repl/
+Author:Dwight,
+8657d88065db9d5ff600fb76bea83cc2a8b81262
+
+  93.3% db/
+   6.6% util/
+Author:Eliot Horowitz,
+440388c0de9c4324e7eb7d507c034d7ef7d68866
+
+  62.6% db/
+  37.3% util/
+Author:Guillaume Delannoy,
+1f655abccbc34708e14f7c90b35627d4f112a283
+
+ 100.0% db/
+Author:Kristina Chodorow,
+a6c0d8735dfb461966014470959b49a66c51cc2d
+
+ 100.0% s/
+Author:Kyle Banker,
+7b69199a3760840ffefed21f15e60c6ccba52e03
+
+ 100.0% db/
+Author:Ludovic Bellière,
+d52baa2858499d40c8e1374eec29b7a9fd7381c7
+
+  67.4% buildscripts/
+  32.5% rpm/
+Author:Mathias Stearn,
+a050b7a0a81b0e74a1b6261a911bb686aca3d652
+
+  56.8% db/
+  43.1% jstests/
+Author:Mike Dirolf,
+253462a33883162f10cd3bdadade0b0a7cbd44f6
+
+ 100.0% dbtests/
+Author:Richard Kreuter,
+bdcd6683e7400db0d695a80104431204ee6b362a
+
+ 100.0% debian/
+Author:yellow,
+863ccc38bf375627ceb16969d406e866be8efae0
+
+ 100.0% client/

@@ -1,0 +1,37 @@
+Author:Aaron,
+5d59f644691cee9998295472d8d85adf4fefd934
+
+ 100.0% shell/
+Author:dwight,
+b845f5e28eeebb5895e134472279bcee471f1b92
+Author:Dwight,
+e966d1031d3a2d7d701509c3155d44a110a87580
+Author:Dwight Merriman,
+10287f9e036b79870b58a3cc171df2f55f02d68d
+Author:Eliot Horowitz,
+63b5f7e470fc2d63603bd7b49f8057052f4826e6
+
+ 100.0% shell/
+Author:Ilya Martynov,
+eefff3bcc434183574f99a0d77a1baba80e33724
+
+Author:Mathias Stearn,
+11c49cb19526c02fb7411ea0efa2d608879feed1
+
+  21.5% client/
+  78.4% dbtests/
+Author:Mike Dirolf,
+14ad5c3e5f444cb58d00587124740d586aa0e074
+
+ 100.0% tools/
+Author:Richard Kreuter,
+6ebe1c95328a55d01cf2bd0feaf12a34dd922e6e
+
+ 100.0% debian/
+Author:Richard M Kreuter,
+c7a4a0eec8e05e255655ae3ed8698256fa4b3492
+
+Author:yellow,
+5d823a9049927c8fec88d198f2deeffc675f2262
+
+ 100.0% jstests/auth/

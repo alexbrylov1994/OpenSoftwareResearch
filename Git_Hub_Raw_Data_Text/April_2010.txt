@@ -1,0 +1,46 @@
+Author:Aaron,
+6e84f86d59068fa139725a5e7e3c36553365d4fd
+
+ 100.0% jstests/
+Author:Aaron Staple,
+217860f1f19b1d976ebac1a3c4f1ade7468b4431
+
+  52.1% db/
+  47.8% dbtests/
+Author:dwight,
+3894aa4c52378b0ac3834a9312ef5d7dbfe4c05c
+
+  50.2% db/
+  43.8% dbtests/
+   5.8% s/
+Author:Dwight,
+3894aa4c52378b0ac3834a9312ef5d7dbfe4c05c
+
+  50.2% db/
+  43.8% dbtests/
+   5.8% s/
+Author:Dwight Merriman,
+3894aa4c52378b0ac3834a9312ef5d7dbfe4c05c
+
+  50.2% db/
+  43.8% dbtests/
+   5.8% s/
+Author:Eliot Horowitz,
+8df6518e62d98201aa281dc500d28f9901228283
+
+ 100.0% s/
+Author:Jay Ridgeway,
+2d818b6e4fee62bcfd69a440e83472a7c872a000
+
+ 100.0% shell/
+Author:Mathias Stearn,
+226b6f8ad6deac7ce67e19642911d59274083566
+
+ 100.0% shell/
+Author:Mike Dirolf,
+d9a9c71fdd76358e6e773cb6e760e196128b1429
+
+Author:Richard Kreuter,
+663c3a7682c16ba07f99ccf1ed0bf3a6341b228e
+
+ 100.0% rpm/
