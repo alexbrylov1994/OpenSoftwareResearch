@@ -11,6 +11,7 @@
 # [insert git command here] > ~/NameSomeFolder/NameData.txt
 
 ==============================================================================================
+
 #Gets the relative distribution of  LOC changes per commit per directory (component) per person. Displays Commit ID. 
 git log  --after="2008-2-1" --before="2008-2-29" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2008-2-1" --before="2008-2-29" --author="$name" --pretty=tformat:%n%H --dirstat=0; done
 
@@ -20,6 +21,8 @@ git log --after="2008-1-1" --before="2008-1-31" --no-merges --format='%H' | whil
 #Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
 git log --after="2010-1-1" --before="2010-1-31" --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2;} END { printf "%s,\n",loc }' -; done
 
+#Gets the list of unique contributors delimited by commas. Proves useful in excel formatting.
+git log  --after="2008-2-1" --before="2008-2-29" --format='%aN' | sort -u | while read name; do echo -en "$name,";done;
 
 
 ############### NO LONGER NEEDED SINCE WE'RE NOT DEALING WITH FILES. MIGHT USE AS REFERENCE ###########
