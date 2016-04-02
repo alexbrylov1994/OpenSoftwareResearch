@@ -17,7 +17,7 @@ git log  --after="2010-4-1" --before="2010-4-30" --format='%aN' | sort -u | whil
 
 
 #Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
-git log --after="2010-4-1" --before="2010-4-30"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2;} END { printf "%s,\n",loc }' -; done
+git log --after="2010-4-1" --before="2010-4-30"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done
 
 #Gets the list of unique contributors delimited by commas. Proves useful in excel formatting.
 git log  --after="2010-4-1" --before="2010-4-30"  --format='%aN,' | sort -u
