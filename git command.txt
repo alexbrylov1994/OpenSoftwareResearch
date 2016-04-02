@@ -13,16 +13,14 @@
 ==============================================================================================
 
 #Gets the relative distribution of  LOC changes per commit per directory (component) per person. Displays Commit ID. 
-git log  --after="2010-2-1" --before="2010-2-29" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2010-2-1" --before="2010-2-29" --author="$name" --pretty=tformat:%n%H --dirstat=0; done
+git log  --after="2010-3-1" --before="2010-3-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2010-3-1" --before="2010-3-31" --author="$name" --pretty=tformat:%n%H --dirstat=0; done
 
-#Gets the Add LOC, Sub LOC, Total LOC per commit within a month range. Displays commit ID. Comma delimters
-git log --after="2010-2-1" --before="2010-2-29" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --numstat |gawk '{ add += $1; subs += $2; loc = $1 - $2;} END { printf "   %s,%s,%s\n", add, subs, loc }' -; done
 
 #Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
-git log --after="2010-2-1" --before="2010-2-29" --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2;} END { printf "%s,\n",loc }' -; done
+git log --after="2010-3-1" --before="2010-3-31" --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2;} END { printf "%s,\n",loc }' -; done
 
 #Gets the list of unique contributors delimited by commas. Proves useful in excel formatting.
-git log  --after="2010-2-1" --before="2010-2-29" --format='%aN' | sort -u
+git log  --after="2010-3-1" --before="2010-3-31" --format='%aN' | sort -u
 
 
 ############### NO LONGER NEEDED SINCE WE'RE NOT DEALING WITH FILES. MIGHT USE AS REFERENCE ###########
@@ -37,3 +35,6 @@ git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | whil
 #Gets the changes made per month for a file (NOT what we want!)
 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2009-1-31" --author="$name" --pretty=tformat: --numstat | awk '{if($3== "src/mongo/tools/tool.cpp") {add += $1; subs += $2; loc += $1 - $2;}}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc;}' -;done
+
+#Gets the Add LOC, Sub LOC, Total LOC per commit within a month range. Displays commit ID. Comma delimters
+git log --after="2010-3-1" --before="2010-3-31" --no-merges --format='%H' | while read name; do echo -en "$name\n";git log -1 $name --no-merges --pretty=tformat: --numstat |gawk '{ add += $1; subs += $2; loc = $1 - $2;} END { printf "   %s,%s,%s\n", add, subs, loc }' -; done
