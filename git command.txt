@@ -1,3 +1,7 @@
+I have come to realization, unless someone wants to prove me wrong, that this team does not have the capability+patience required
+to complete these collection. Not that it is anyone fault, it's just REALLY TIME-CONSUMIMG.. 
+
+
 # How to use:
 ======================
 #Running the commands:
@@ -17,12 +21,16 @@ git log  --after="2010-3-1" --before="2010-3-31" --format='%aN' | sort -u | whil
 
 
 #Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
-git log --after="2010-4-1" --before="2010-4-30"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done
+git log --after="2011-3-1" --before="2011-3-31"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |gawk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done
 
 #Gets the list of unique contributors delimited by commas. Proves useful in excel formatting.
-git log  --after="2010-4-1" --before="2010-4-30"  --format='%aN,' | sort -u
+git log  --after="2010-9-1" --before="2010-4-30"  --format='%aN,' | sort -u
 
 ############### NO LONGER NEEDED SINCE WE'RE NOT DEALING WITH FILES. MIGHT USE AS REFERENCE ###########
+
+#Gets # of commits in a month
+git log --after="2010-5-1" --before="2010-5-30" --pretty=format:'' | wc -l
+
 #Gets the Lines of Code commited and changed per person for janurary 2009 
 
 git log  --after="2009-1-1" --before="2009-1-31" --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --after="2009-1-1" --before="2009-1-31"  --author="$name"  --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2;filename=$3}  END { printf "added lines: %s, removed lines: %s, total lines: %s\n %s\n", add, subs, loc,filename}' -;done
