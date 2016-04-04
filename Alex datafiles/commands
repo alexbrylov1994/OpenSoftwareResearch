@@ -1,0 +1,39 @@
+per person. Displays Commit ID. 
+
+git log  --after="2011-1-1" --before="2011-1-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-1-1" --before="2011-1-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Jan.txt
+
+git log  --after="2011-2-1" --before="2011-2-28" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-2-1" --before="2011-2-28"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Feb.txt
+
+git log  --after="2011-3-1" --before="2011-3-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-3-1" --before="2011-3-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1March.txt
+
+git log  --after="2011-4-1" --before="2011-4-30" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-4-1" --before="2011-4-30"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1April.txt
+
+git log  --after="2011-5-1" --before="2011-6-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-5-1" --before="2011-5-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1May.txt
+
+git log  --after="2011-6-1" --before="2011-6-30" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-6-1" --before="2011-6-30"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1June.txt
+
+git log  --after="2011-7-1" --before="2011-7-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-7-1" --before="2011-7-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1July.txt
+
+git log  --after="2011-8-1" --before="2011-8-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-8-1" --before="2011-8-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Aug.txt
+
+git log  --after="2011-9-1" --before="2011-9-30" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-9-1" --before="2011-9-30"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Sep.txt
+
+git log  --after="2011-10-1" --before="2011-10-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-10-1" --before="2011-10-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Oct.txt
+
+git log  --after="2011-11-1" --before="2011-11-30" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-11-1" --before="2011-11-30"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Nov.txt
+
+git log  --after="2011-12-1" --before="2011-12-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-12-1" --before="2011-12-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done > ~/Desktop/datafiles/c1Dec.txt
+
+
+
+#Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
+
+git log --after="2011-1-1" --before="2011-1-31"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |awk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done > ~/Desktop/datafiles/c2Jan.txt
+
+
+git log --after="2011-2-1" --before="2011-2-28"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |awk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done > ~/Desktop/datafiles/c2Feb.txt
+
+git log --after="2011-3-1" --before="2011-3-31"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |awk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done > ~/Desktop/datafiles/c2March.txt
+
+git log --after="2011-4-1" --before="2011-4-30"  --format='%H' | while read name; do echo -en "hash:$name,";git log -1 $name --pretty=tformat: --numstat |awk '{loc = $1 + $2+loc;} END { printf "%s,\n",loc }' -; done > ~/Desktop/datafiles/c2April.txt
+

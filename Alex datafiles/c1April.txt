@@ -1,0 +1,1927 @@
+Author:Aaron,
+4916ede8e55f41d9c1424ef0d6ba4460bdefffb1
+
+ 100.0% jstests/
+
+ef0cae716fe0a1433ec7531ffa1a4f746d8336c4
+
+ 100.0% jstests/
+
+13ee281c4cc9b806092a2b13ee4772a0cc47d989
+
+ 100.0% db/
+
+3af50f5b941a07b0f290c7f8ee2726c85e2d0699
+
+  92.6% db/
+   7.1% dbtests/
+   0.2% s/
+
+06b905b0fd11021444ba964d70ee012b81684bd2
+
+ 100.0% jstests/
+
+71735ebc866ea664f16543e6ad8dca66c5cb8fe2
+
+ 100.0% jstests/
+
+8e92ba9ac0dfba5865810a1a26f5934d69e70fe3
+
+ 100.0% jstests/
+
+870fedc9e1dea57532d109782b2a31378b32f16c
+
+ 100.0% jstests/
+
+f799371da9b38f65b68abec09d4b9738fe6d1c66
+
+   9.7% db/geo/
+  90.2% db/
+
+a22732613243b36d91170d2ba6d5b492f36f3722
+
+  50.7% db/
+  48.5% dbtests/
+   0.7% s/
+
+2df2fe89910ae0c0c78f85e1533c49dfb765a2d0
+
+  98.7% db/
+
+76d3ea758e0faa4e161c7e4bf677aa94d88cc880
+
+ 100.0% jstests/
+
+7d1b34670099329c8dac435219d5c6050b0b72b3
+
+ 100.0% scripting/
+
+acbc6b1fc443a0c262ab76a23e28bee627e8ec2e
+
+ 100.0% jstests/
+
+af93c8bb91d4a7a2ce25d8b81bc08a01f52cdc46
+
+ 100.0% jstests/
+
+27f6f7827aa4c791ebdef26f4c8929bf663f93e5
+
+  42.2% buildscripts/
+  57.7% jstests/
+
+e50a02fa1e3cdb4856c89f1f0144b8f2ab6cd88e
+
+ 100.0% db/
+
+e1f8ea459eaeb70622679d35736a035f81b8edb2
+
+ 100.0% jstests/
+
+4c66fe26c74839682e72ee3ec704f85834a63380
+
+  65.2% db/
+  11.6% dbtests/
+  17.4% jstests/repl/
+   5.6% jstests/
+
+5b25538d15a980c985907ea09f115cb87431793f
+
+ 100.0% db/
+
+e5fc58773bd4dd68e1e26ccc6d0e3be65f72cc99
+
+ 100.0% db/
+
+ff395882d2aa4c85d6023c58ade489b3e38fe617
+
+ 100.0% db/
+
+0b9d3a5c226d9171241dacfff573465134206230
+
+ 100.0% db/
+
+8511c5702b44aeb044a508b0ea39ba446f2cab42
+
+ 100.0% db/
+
+65096208afda527b3a2c6017d667041492c35669
+
+  40.2% db/
+  59.7% dbtests/
+
+9d9275dc62b14334ed737bba7df9f305fd90315f
+
+ 100.0% jstests/
+
+098e605f532360c8247bf220d360d1c226d8290f
+
+ 100.0% db/
+
+0fdd9cf2efa0a84926b28c25a364e0c97a9c3a43
+
+ 100.0% db/
+
+c245d7d3634ffce22986f8ef49a275a0a855733b
+
+ 100.0% db/
+
+85ffb652ff4f1ee8d9804d8f72b5e5cc4a91c700
+
+ 100.0% db/
+
+bf43709ad26c22c7dcc007f7b22c7237e08ca335
+
+ 100.0% db/
+
+4c981f252999738777e9c6bf1743aea22941861c
+
+ 100.0% jstests/
+
+bcf7d73d917d11279ae75828c63b39715a0bd3d2
+
+ 100.0% jstests/
+
+64f3b082265bb0cd19d258ab25fd1c3296fd739f
+
+ 100.0% jstests/
+
+d0854da68d379acbfaf12ae58014ffb273b97566
+
+ 100.0% jstests/
+
+4a773a43b3f2d4da2c6cdf2af533ce2055c2dc39
+
+  60.8% db/
+  39.1% jstests/
+
+1e7801efab0f26d0e73ae83c02028abb5eefc53d
+
+ 100.0% jstests/
+
+3a5326d9b4a54f6df5d4307f4fc73bcc94212d43
+
+  41.8% db/
+  58.1% jstests/
+
+a7360cc67fffc5951f1f5e898f90e2fc3575e396
+
+  15.6% db/
+  84.3% jstests/
+
+f97863227992f5e25ebe0882875d54cc5cc5937a
+
+  65.4% db/
+  34.5% jstests/
+
+daee9aca49e99a09bee882c1843fd8b0e419602e
+
+ 100.0% db/
+
+a29f3931af3b208f515b0546e1facc4a679e689c
+
+ 100.0% db/
+
+78aeb2e1120766785cb85517735e6c1dd45c1851
+
+  22.4% db/
+  77.5% jstests/
+
+74086c6f40a39a34b3ba034ed82b695cc4758f37
+
+ 100.0% jstests/
+Author:Brian Gianforcaro,
+ec2af8b55aaed263b875943bd73be2bc7ba3d780
+
+  79.6% db/geo/
+  20.3% jstests/
+Author:Dwight,
+21050ef6aeb61770ab31316ab11b5caf08758951
+
+ 100.0% util/concurrency/
+
+fee2092cc0aacfe7f32421fbb06274c43514ee56
+
+  44.2% db/
+  55.7% util/
+
+6d659f8a97b7c98199b69d3c0a286f552f6df5bf
+
+ 100.0% util/concurrency/
+
+0195c538dd270b905241d9eef3c36dc65fcad069
+
+ 100.0% db/repl/
+
+79c9a7906481d0f20568054aef63892203a6a87b
+
+ 100.0% util/
+
+02048643945239f7e17795b0707481cd11f947c4
+
+  75.6% db/
+  24.3% util/
+
+52ea89ab4753084e2d4231c9105a68ef95a78ae7
+
+  99.3% db/
+   0.6% util/
+
+846a7a0bc516f80659fb10db4bb6b2f54ca1d791
+
+  11.3% db/geo/
+  84.7% db/
+   3.8% s/
+
+a6cceefeb794c2fd38384c54e6b3299b628e7f08
+
+   4.4% db/geo/
+  90.1% db/
+   3.3% dbtests/
+   1.9% s/
+
+ede44430d1000badf520ee3292a37bb306a66bd2
+
+   2.3% bson/util/
+  67.0% db/
+  30.5% dbtests/
+
+4f2f00bba00b997949d9acb2e9de49e9f583b976
+
+  79.7% db/
+  20.2% dbtests/
+
+6c9fe3bbfdd7f66f96cba82c029904671b54bf05
+
+4f8f0c6a9f4b5ee2e9aa22f373fc903d9b75a81e
+
+ 100.0% db/
+
+32e07991c0b0ad639dae3d418d955555219c3543
+
+ 100.0% db/
+
+41891d55591399d10bb011249243ca7a282cd58f
+
+ 100.0% db/
+
+f3fee9740dec7b316e92d8da718da4b80ba32f2b
+
+ 100.0% db/
+
+e749ff2ff61748480c35abe7a4f80eb6f28f187a
+
+94f581c1a1d274224e137b32fc46e69eab823c57
+
+ 100.0% db/
+
+cc2afee21dd9dbe7469a64672db86aab1263638e
+
+ 100.0% db/
+
+0e00d068f4a99b4e68aa8d6f9b23a2a4678c0ddb
+
+ 100.0% s/
+
+4ee9302fd7ad125b555cac9fdb9199b21c9b76f5
+
+a92aef4e153f675d77ef0cc01816803cb9145df2
+
+ 100.0% db/
+
+67fdfce7913f4e9222bb13374acf5eafcf07afc8
+
+ 100.0% db/
+
+8e57783af6a01ab2304c47bb82bcbd9ea00dcf14
+
+fbc032038dc6bb113da9261716e53448a9972f07
+
+ 100.0% db/
+
+39c5cbdbf72ad8baaebb90180bcc698013ac1f36
+
+  60.0% s/
+  40.0% shell/
+
+d65b438a5f78864a4a124374e732930160305753
+
+ 100.0% shell/msvc/
+
+fbc1a0d20f5c3be61f76a8196668e5e7787d5048
+
+  50.2% db/
+  49.7% util/
+
+7e257b5a299362d223acd08b3063dfdb1e6fb87b
+
+b66adf88283ac4c234eb41db4e1b5f9f6d6e6fb0
+
+ 100.0% db/
+
+a463ddb5f7a946c102c79a7eb7d1ef92f03f4ca4
+
+ 100.0% db/
+
+fbc4032a8ac5f71f2fd4877f55208c007aed393c
+
+ 100.0% db/
+
+76b168785fa1f9b1fa92a1c7eea6f12ad299071d
+
+  52.1% bson/
+  47.8% db/
+
+bab2182780cd415fd8a25a225501578e534e74ac
+
+   1.1% bson/util/
+  66.9% db/
+  31.8% dbtests/
+
+79b8999754e29af242d411507003ac8f9f8bde4a
+
+ 100.0% bson/
+
+f605cadf54c5890740967c29c8bc9915bb0f9d07
+
+9c8515d27a22948d198a5e42366b847e5597da9b
+
+ 100.0% db/
+
+f8b902ebc6bbf351cc2c424f20955493656b5446
+
+ 100.0% db/
+
+a354d60a16e401d5303270e960b511fd2f07448c
+
+  23.1% db/
+  39.1% jstests/
+  37.7% util/
+
+f86fd65d66b92d0d0f6b524641f9084ab8446f3d
+
+  48.4% db/
+  51.5% util/
+
+d3df83bf029a8ca06d9fe1d461a5fe57748ec7ba
+
+
+4ea7daa56983d67ebe6010ffb8599349942237a0
+
+ 100.0% s/
+
+73126163cc233828fa724d12ff0d197dcf3b41e3
+
+ 100.0% db/
+
+7c986e64325acda9c4b9bbf82e7f451c112fc714
+
+   1.2% bson/
+   3.5% db/geo/
+  91.7% db/
+   3.4% dbtests/
+
+d0b2bdad87b142f9ef4a1bc541c94a68cd49b484
+
+b7b5886d979c9211de791e75b025cb0c1a70d276
+
+ 100.0% db/
+
+6e7ac4a037f13da15bb964623a9e14a36c10fe25
+
+ 100.0% db/
+
+b7162f455f67d331765ffe6c8a902a60dec86edf
+
+ 100.0% db/
+
+1c896c3e22ec871f944084897af5623718e2e6f4
+
+ 100.0% db/
+
+dcca06c478d85cd64a094c41041c2984e14790aa
+
+ 100.0% db/
+
+6ee3bfed9acb7e8726a668889f5ea3e89e7522b1
+
+b1298d7b4a9e00d199100a74c121817da8b27a2b
+
+ 100.0% db/
+
+cde9219f84d73da65e19c6db45fa7175050aaf86
+
+fcffeb2ad659b0914d2000acae3ad0952c018695
+
+ 100.0% util/concurrency/
+
+eb647131e683c0d718c34432d82b9ea6f6ac5d94
+
+ 100.0% util/concurrency/
+
+10c58a626db967c54fcd5a4d47fad47a74c9074e
+
+ 100.0% s/
+
+51f681328feb3dac52c27b9bb5c0d5b9a5cd671e
+
+ 100.0% jstests/
+
+4d9e44c1ee31aff9a51d352bac9321bc3bf3bdaa
+
+ 100.0% db/
+
+54dc72c6474738d3b1cc05ead0032350518ff29d
+
+ 100.0% jstests/
+
+5c8f497d6c8970e47a45055d9298ebea54a49034
+
+ 100.0% util/
+
+09795ae38a6b5814f6797c5d102f60382b4b944b
+
+ 100.0% s/
+
+c4c8745b44f358dc263a3547aaf179a9ffdcd071
+
+ 100.0% db/
+
+0d2ca3e2c188604f0bfa6533f719ffebca8b5df4
+
+  64.5% db/
+  35.4% dbtests/
+
+d8f79a52f2461d15849b5f363fd2079870a8e7d2
+
+ 100.0% db/
+
+9c65e3ed8bed2eedb171cdfee6569d05c62a869e
+
+ 100.0% db/
+
+baa419929fdf795a188b5b08a12e0458393bd997
+
+  39.1% db/
+  60.8% jstests/
+
+c30ad9b2385622569468bf0e494bcc7a971a7b63
+
+ 100.0% db/repl/
+
+200b9ea5def492c74cc7e68b300c1d3e982efabd
+
+ 100.0% jstests/
+
+6e400fee9fdf356e9193c8719186e2c24700eb46
+
+ 100.0% db/
+
+7b9d59116242a955bd2e20c58429c1f72ae3ccf2
+
+  96.4% db/
+   3.5% jstests/
+
+1d3134107f60faa46977e04731587a95714e79d2
+
+ 100.0% db/
+
+1e3afd84eb17473a43d44928c8d84fadc0283ad2
+
+ 100.0% shell/
+
+1b9b77cfdc0fb7fce28355bbdca549dc57ad20c1
+
+ 100.0% shell/msvc/
+Author:Eliot Horowitz,
+227e25c55ef47c54fb899579e2325a41782d8b7a
+
+  76.2% dbtests/
+  23.7% util/concurrency/
+
+c574959c57f3f66dcdd41a244f08b687ca03480b
+
+  14.8% jstests/sharding/
+  85.1% shell/
+
+1183afb5c661d6fa34f69e75fb7c5d522bc1a8b9
+
+ 100.0% s/
+
+5ae781d54cd57ce7af23623be5acd7e4988a8f16
+
+ 100.0% s/
+
+2b76720b72c92f14b6dc60e6727a84db785dbfcd
+
+ 100.0% s/
+
+77f533612ca7eaa54b9c0718e18462bae541c0f9
+
+ 100.0% client/examples/
+
+dd1877599f6e8cd383ab102816f38388e4516069
+
+ 100.0% util/
+
+6cdeee14b96378e9082dc18914ac2478c5901174
+
+ 100.0% client/
+
+6543ca6e0f5c060f80e5945b190406c24a3a7677
+
+ 100.0% s/
+
+18abbfe85c6fa1a0eea95b44d5cfc1eb0d486cf6
+
+ 100.0% jstests/sharding/
+
+61c601a678cc9408c7d629e055331c3eed98f879
+
+ 100.0% db/repl/
+
+336a1db69131635d33f3b7cf8a7a31353d10407c
+
+ 100.0% jstests/replsets/
+
+2a4fc317fc1a274d0de84673eeda3b8f3b5a74b8
+
+ 100.0% client/
+
+0e6200e16dad433a8e22529668706dc4fc146313
+
+ 100.0% db/repl/
+
+18cad05feaa1d008fdef93b52d8e5fc22a393fbf
+
+  42.5% jstests/
+  57.4% s/
+
+552c03201a5aff6dffa2d6755f897e368176e4d7
+
+ 100.0% jstests/
+
+b661f15b4d10920eecaa4fc659f2f2a4b8d14b1a
+
+ 100.0% buildscripts/
+
+c46900cf81ec39d5ae8f52e5a7daa322118647f9
+
+ 100.0% jstests/
+
+42942893e1661595d81022b82e3d5a05a27fee67
+
+ 100.0% s/
+
+6598de203916e07d07807a7e40da98b8ee937894
+
+ 100.0% db/
+
+1733f391c97e8aba5db5c5803bf98691c939f961
+
+ 100.0% dbtests/
+
+32afd00ca76f7358a9e52fb15b0c5a00bfc17cb0
+
+ 100.0% distsrc/client/
+
+d6997cbf795353e2edb2f62500a1853bfd9dc0eb
+
+  92.5% dbtests/
+   7.4% util/concurrency/
+
+9a3d756d9f436552f80f2159b3bb4c0dc4bb10b7
+
+ 100.0% jstests/slowNightly/
+
+372fb80637099d28e459519eb384a485c1ab9f76
+
+ 100.0% jstests/slowNightly/
+
+03d6d9247502e394660c62268c68847becbe5e5c
+
+ 100.0% s/
+
+fe868a35f3631b0b603ab2f7c8c09421084eab6e
+
+ 100.0% jstests/slowNightly/
+
+4106745747711f48bae0e80ad691c7bf52ae1620
+
+ 100.0% client/
+
+f939069509315a0a30bc28ad97fa08d84332e394
+
+ 100.0% client/
+
+11bb6c6cae66e63d10a9c6af295dc876e6f2103d
+
+ 100.0% client/
+
+ae53a3a0ce855ed5319eb591ed1eae7ac189ac7c
+
+ 100.0% shell/
+
+5f6e63338f436b55dede57c6dc7b5f8b1e5e6cac
+
+ 100.0% client/
+
+40b607d051ec57e226dbdf9ee9745991154a183e
+
+ 100.0% client/
+
+516600ebbd7831b5056a989cab5c59e919b42304
+
+  77.2% client/
+  22.7% s/
+
+b291d96b0a536a5832bb89fb08d209128d5d5c97
+
+  50.5% scripting/
+  49.4% shell/
+
+57f9a4ad592cd6f4b8046e7215582c5074f446b0
+
+ 100.0% s/
+
+5967f52eef079cce50e5de2a75a817452434bdf9
+
+ 100.0% util/
+
+df30db031cd1531705f23fa6ed75a88e2116568f
+
+ 100.0% db/commands/
+
+f8cb1e292c1e7e80ba5627468705cbf0130c82af
+
+  65.4% jstests/slowNightly/
+  34.5% s/
+
+157ab952e51c0c08e9c6534541ee276a4d9b4292
+
+ 100.0% s/
+
+3835614864ee5f28b8de96af0dc6f6c629515d88
+
+ 100.0% shell/
+
+9d9e85d7e2b092853a284101340e68e0b254a6e1
+
+ 100.0% s/
+
+d2bd72c3e4821c389beb4719e5dc7f8580b20ad1
+
+ 100.0% shell/
+
+0ecbdc0702ea297edb7ef42001eb2e2743a01ce6
+
+ 100.0% jstests/slowNightly/
+
+ad187ed5c4f330e1d7a1ce38c3c36690f57bec37
+
+ 100.0% s/
+
+002288b50bbcb9808cac8319db133847cac52ecc
+
+ 100.0% s/
+
+138040ccc03885b30e55e7b560e3de446c033701
+
+  10.2% buildscripts/
+  19.0% db/
+  41.8% s/
+   9.3% shell/
+  19.4% util/
+
+33f4bb08bc988956d4a73c66f0fc5277a71cb5b5
+
+ 100.0% s/
+
+1e60b2904c7b8af3a2c0adc655e04bb60c2c4364
+
+ 100.0% jstests/
+
+bf09b1cc49bb2bff684dff1bf97043063d764016
+
+ 100.0% shell/
+
+e46920d6b39a327b05f52d27061548b55316ca9f
+
+   3.7% scripting/
+  78.3% shell/
+
+6d4891d676f1a4c16a35180a9225baee24e67b0e
+
+ 100.0% db/
+
+7efbe7b79959dd80c1d6ede22819fb2cfffd9f9d
+
+ 100.0% scripting/
+
+780539fe551c38aa68701e073bbe10f0972d13cb
+
+ 100.0% tools/
+
+fbbd3785a8bd14465347169e07c3cdc0edc55649
+
+ 100.0% scripting/
+
+5ad8d4b8ff49e3e08c4020c2438dc624f75b41c6
+
+ 100.0% jstests/repl/
+
+3ef6632eb95b232973aade1076fcc0428a7db426
+
+ 100.0% jstests/repl/
+
+c7805762227bafa4059750d11ee4718205d26cc1
+
+ 100.0% s/
+
+8b035652c1292998ae2b60af0134f6a4db7e8456
+
+ 100.0% s/
+
+d81c86870cc4d4a47e122453319f7088db99240f
+
+ 100.0% util/
+
+9e05a4eddbc81ff59a2e1f06ddc1939c00244b45
+
+ 100.0% db/
+
+df64416280682223cd51fc2dfeb0358841188922
+
+ 100.0% db/
+
+efaaadb7f73d7b63219725b52e2f752e943806d2
+
+ 100.0% util/
+
+651d142fdf64b14f697cab5dd7c32b0e6222fa43
+
+ 100.0% util/
+
+01a776ec9992b1f60aeb1d6af827e04da1d4eda9
+
+ 100.0% db/
+
+23dae53f75eaba0e3ad40fe37ca3e780c4a893c3
+
+  22.0% dbtests/
+  77.9% util/concurrency/
+
+56daba0d4870a9e83739de88afacbe0b46cc975f
+
+  60.9% jstests/sharding/
+  39.0% s/
+
+9e354f7caa3aae058a27b640c700f41d1db3fd42
+
+ 100.0% jstests/slowNightly/
+
+7526ddae279ae64a1cb22914e7ec4300c76215d9
+
+ 100.0% s/
+
+c7bc8fd06cf668ce2648a1aa8d840d1b86cc54de
+
+ 100.0% util/
+
+767131fdb2c48034300591be9edc08193868aceb
+
+ 100.0% jstests/slowNightly/
+
+90e5a91851c36235656a8882888c19a71be7d138
+
+ 100.0% db/
+
+df27479b68e03d52f6332042e39c1dd9ffab19e8
+
+ 100.0% tools/
+
+c4b09ea4d20b1b70b562e0e63f478ed19a714ba5
+
+  15.4% client/
+  84.5% db/
+
+75aec1061eed172f31caf57159344d434d41ab9b
+
+  94.2% db/
+   5.7% util/
+
+f9237e3cb634a70fbb64631253cffd1f91c6aa87
+
+   1.5% db/repl/
+  58.1% db/
+   5.7% s/
+  34.5% util/
+
+e7786d70b5384f306a9ce7d171cb8faa243781ae
+
+ 100.0% db/
+Author:Greg Studer,
+ef042e49915d2699049fc94caf386c58d1548842
+
+ 100.0% jstests/replsets/
+
+ac9c6a7f9aa86be1fcd619c85e6a7c296185e0a6
+
+ 100.0% tools/
+
+2e31fc98690ab90611f0c0c6b55e4f8e76c2a0ab
+
+ 100.0% jstests/sharding/
+
+a4467c4849e2032f682598e06ba5437e843d1125
+
+ 100.0% db/repl/
+
+65abee1492381fb4358c9a0c59e414b2e8f6511f
+
+ 100.0% db/repl/
+Author:Kristina,
+c889977329906d86aaf3464fc77b1000c3b89fc1
+
+  37.1% jstests/replsets/
+  62.8% shell/
+
+81c200c85483848e01e87b69b1b051e3fe949fd5
+
+ 100.0% db/repl/
+
+b39582c84eb6257d970ec33515572d488b3c0b48
+
+ 100.0% db/repl/
+
+982fb4e66f54b29d30dbd4d0ba30cc652c300c1d
+
+ 100.0% jstests/replsets/
+
+e16d89f20a048f35888864b541c814427d5bee85
+
+ 100.0% db/repl/
+
+55cbefc22dfd2dc338990654deb71da48596c738
+
+260f7852722d5937900e40c362976ce2a71b105d
+
+ 100.0% db/repl/
+
+12c745e38735feabcd26df60bb900e792502c633
+
+ 100.0% db/repl/
+
+5a7c53cb5c01f7e16c0f6f64b71ecbcc310931fd
+
+ 100.0% jstests/replsets/
+
+81d192dff01d80ac89ef4a021f729eb377d5bc33
+
+   5.1% db/repl/
+  94.8% jstests/replsets/
+
+9d8740619600d754389632a1e3fe8063bdea9784
+
+ 100.0% jstests/replsets/
+
+fd33c673ab6c69a96470f14f795fde5a7bddd08c
+
+ 100.0% jstests/replsets/
+
+1c9e34bcd8bed3e7c5cb6ea364c0686530061598
+
+  53.5% jstests/sharding/
+  46.4% s/
+
+41631ef969129a604a0185eb96dc35fa1de54294
+
+ 100.0% db/repl/
+
+4762b2074ebac4a95000e06b69d9649fac14b705
+
+  66.1% db/repl/
+  33.8% jstests/replsets/
+
+71d062e682583e19b8ab51ec4f2f8203ce19900d
+
+ 100.0% db/repl/
+
+831eee02a5564354c600535ffa14803bcf27534d
+
+  19.4% db/repl/
+  80.5% jstests/replsets/
+
+c126846c24a1d43179490226a3c63097d1eacd75
+
+ 100.0% db/repl/
+
+cc938790f2b274043f92917e77dc8db624e95943
+
+ 100.0% db/repl/
+
+c5fe61a71945d062b9d0c656ba3cb69d2c90467d
+
+100af667b2b9342ba7385b5ac1e5fdb81edea0e8
+
+ 100.0% jstests/replsets/
+
+0e2ef15e9c5f54575754abac77e6e9d579b83785
+
+ 100.0% jstests/replsets/
+
+10d687fc18fc4314ab209a0b71f4c54ae7142e31
+
+  86.6% db/repl/
+  13.3% jstests/replsets/
+
+cd89ae05d7fe9bcbbf44e919a55e7b60c1e476bc
+
+ 100.0% db/repl/
+
+746af4a2747a6c09bd9298d3f99c8294cef37e68
+
+ 100.0% db/repl/
+
+49f94ae22f9ba6c57a655cfe7441e8c14a2bafa0
+
+ 100.0% db/repl/
+
+6af8365495692b330f1ec8a93c5f172817f7a7c3
+
+  53.3% db/repl/
+  46.6% jstests/replsets/
+
+c5b38d88eb92b0b32697578be45499062ea5aebb
+
+ 100.0% shell/
+Author:Kristina Chodorow,
+e16d89f20a048f35888864b541c814427d5bee85
+
+ 100.0% db/repl/
+Author:Mathias Stearn,
+1c69e7b64e732d86468a825260c641bfad954efb
+
+ 100.0% third_party/linenoise/
+
+9047007b4ca3f5db0546768a6660b3a568403f6c
+
+ 100.0% third_party/linenoise/
+
+c1fda2b61d311af694678de2603d07d73040afa8
+
+ 100.0% util/
+
+61b5b745084a12ab07ae30f889d89c36a1757d60
+
+ 100.0% jstests/slowNightly/
+
+a2739c03995a15866991ae2d5d5db4288aa6578d
+
+ 100.0% jstests/slowNightly/
+
+e2ff53f6931ed0af937492a2e45bd2e6db27afa6
+
+ 100.0% dbtests/
+
+d7d2ce01f56510a792d53982ced313318a1f5ce4
+
+ 100.0% tools/
+
+e8031de33421e267c8b106e102d42c4f3a45ce89
+
+ 100.0% dbtests/
+
+e8ab9155c4325355e9a24a7f400bbca053c19ecd
+
+ 100.0% s/
+
+9c98a92af0e93f8e0b1af412225b7c120b5d2887
+
+ 100.0% third_party/linenoise/
+
+b81192b775c11e985876bbc34c2e635c6c311499
+
+ 100.0% third_party/linenoise/
+
+d3574a11cb6930aaaa1915ad5965426d492f3b7a
+
+ 100.0% third_party/linenoise/
+
+2892c6daf9d6c5a9686805380cc8b1457db19faf
+
+ 100.0% third_party/linenoise/
+
+e0d7cc9432caba15e5c61f097ba099674b93ea59
+
+ 100.0% third_party/linenoise/
+
+002c71ed7a3e97683815cf36db92f529c375a854
+
+ 100.0% db/
+
+07502672a2f8883081b20ec811fb86664d8ad3bb
+
+  24.0% db/
+  75.9% jstests/
+
+fa79ec7ba8af80e13a56d478d0ff49a72a1b4302
+
+ 100.0% db/
+
+ea8e6863e2a07adee2986e536b15f600a76e80ee
+
+ 100.0% dbtests/
+
+450cc4282aa62d2b12be0eaf1add07b01e1918f8
+
+ 100.0% util/
+
+5e6f75b1c554f02c361500ee1afc2c680023cc75
+
+ 100.0% util/
+
+cb89d4b543dd6e600ad7f593828952ad9f55139f
+
+ 100.0% db/commands/
+
+c5f2988fd091a68890d7f740728105fe855a8d37
+
+ 100.0% tools/
+
+6cab62d6cea02d6b48ef9d017225232d07bfaacc
+
+ 100.0% db/
+
+63943c6541e94a28d9dbe31058c027872b06b37d
+
+ 100.0% util/
+
+30792b84a37510eda7f4b02b99b895be207e5293
+
+  42.8% db/
+  57.1% jstests/disk/
+
+c68392bfe824cc4c8bae24fd9622d8872a05f98a
+
+ 100.0% third_party/linenoise/
+
+fc0500e539ef912002631d9deb23a3f153b81c44
+
+ 100.0% third_party/linenoise/
+
+7dee30b39fc0b69914923f029811c77a22dae141
+
+ 100.0% third_party/linenoise/
+
+220d4139069d5eed73a457a0c1f22463c9e660d1
+
+ 100.0% third_party/linenoise/
+
+ae79f44dd289e67b5b68adf931312e96c2dd2e2d
+
+  27.7% shell/
+
+00c383f6c0551f5b1748a29d00a8a77b52d72a16
+
+ 100.0% third_party/linenoise/
+
+8eb72fe373dd9f6aa3e8d1c6c335e84d010660de
+
+ 100.0% db/
+
+3cff88123ec7a00a8addcc0f61d0f9b73eabf261
+
+  76.6% db/
+  23.3% jstests/
+
+1ecf07317a45a1f546cfaa040ec051167457d853
+
+ 100.0% shell/
+
+b7817b8986c958e426a5740810e0347f6a25aa2b
+
+  47.0% jstests/
+  52.9% shell/
+
+1f364244cb8cf63cab4705231a13fab1cdaff889
+
+ 100.0% jstests/
+
+3fb147f515b83896b0de17490aa7da4e1b261690
+
+ 100.0% util/
+
+d2fbf3f5c313765092d6cf6feb5af8e17e090b66
+
+ 100.0% bson/
+
+b40989ef278602b556eaa9af7301ff4b44579d1a
+
+ 100.0% tools/
+
+98ce52215780e1d5675d0874bd61102ec8f2213e
+
+  42.4% db/
+   8.3% jstests/sharding/
+  49.2% s/
+
+eb899a2cb52c7099c52bcdb7d88a3741039685fd
+
+ 100.0% util/
+
+0407e1d4d20c302aff34fe85c97418b311d130ac
+
+ 100.0% util/
+
+98c7a81e67a5c445cba99195177ec86a1ac1f009
+
+ 100.0% util/
+
+0a1b0214b68b9cdeb409adb5343eafd5f37121fc
+
+ 100.0% util/
+
+7c1a9cec152baff49b12697d5e502fa680dc7fc1
+
+ 100.0% dbtests/perf/
+
+ec093cc5accdc0ef6f5272e84b2930044cbf4d01
+
+  38.3% client/examples/
+  61.6% client/
+
+fa7fbbb1f66ec5e189f6deba58564b72c2e4cbef
+
+  73.2% db/
+  26.7% shell/
+
+af792b80100a0320f241ae88d9cf7a9705bbe975
+
+  35.8% jstests/sharding/
+  64.1% s/
+
+e73c3aac9d5a594b0e1bf23643b2b48e025bf51a
+
+ 100.0% db/
+
+72ee3c3ef7ed3ccbdd37a3df1b280b2a8d46ad2a
+
+ 100.0% db/
+
+ee79aa11f63f2e20692fe80a510b08cacbac2a55
+
+ 100.0% db/
+
+31970cf322438a6ecf50f0d9f3015fcc8c0a7dca
+
+ 100.0% shell/
+
+ee4780794884ff0e5914078ed1673c2e46a03d01
+
+ 100.0% db/commands/
+
+700b3394b1132c185031c6ce6dcab235c0aa62f2
+
+ 100.0% db/commands/
+
+82896bee571519a1640f60fcf733cba178dd2700
+
+ 100.0% db/commands/
+
+c2992ef1080d355717826c04fb5b8d6a694ddfe4
+
+ 100.0% db/
+
+dafb88648f5148b940290b6c6ba0d0c11ce2ca07
+
+ 100.0% util/
+
+9d84427c622a26ea6a30bba6978ea20c114054ea
+
+ 100.0% util/
+
+63aa80450c64ea44d07ad0d2afddf99d950edda3
+
+ 100.0% db/
+
+64151ca41ac480805add7603320ca2a8adcba98c
+
+ 100.0% tools/
+
+a1689f68472f55a11b5dd02ab087c7c091762170
+
+ 100.0% shell/
+
+270996933d24a60cfc3803908cc5b639f77b6923
+
+ 100.0% db/
+
+69546ff082de7f44fbba41ae319b61c994424bea
+
+  18.8% db/
+  81.1% util/
+
+33f74634e47c7f31e8df6b8d971ba43348e540b2
+
+  29.7% bson/
+  70.2% db/
+
+6d52227ae7493d9d806e1dd2a0e71c4026638082
+
+ 100.0% bson/
+
+2b23df9f52979c20c1548cc01f580f1c413d9c34
+
+ 100.0% bson/
+
+bf9a5c23a32f17affd8cd17c3edc95159bfec03a
+
+ 100.0% bson/
+
+244b1621119d8291c73411bcc8b3d9d92bdda2fa
+
+  76.8% bson/
+   3.9% db/
+   3.6% dbtests/
+   3.3% s/
+   9.9% scripting/
+   2.2% tools/
+
+a67334a28675ac44c15f99c7814d851152b0365a
+
+ 100.0% dbtests/perf/
+
+fa7cd65e480d80ba1cd196bdcec8f4714e361e8e
+
+  44.6% db/
+  11.0% dbtests/
+   9.7% shell/
+  17.0% tools/
+  17.5% util/
+Author:Testo,
+cd972a701d67dcc3110bf69db44b97ddee7f6583
+
+ 100.0% third_party/linenoise/
+Author:U-telluscwestin,Author:agirbal,
+c75b2cbae1b0d6315324cd94a11d4ea460676047
+
+ 100.0% scripting/
+
+6a9fad1b2c19e0216fcae6e27a884a086038785c
+
+ 100.0% scripting/
+
+d2219e9bfc6563b7effb3e87014781c1c0dd2e04
+
+ 100.0% scripting/
+
+b6913e34171b2e7b32d8cc7f0ff8b696dc062ef7
+
+ 100.0% scripting/
+
+1e6220e3af05724f563e58f4b835ca3e37160dd2
+
+ 100.0% scripting/
+Author:dwight,
+287981ace2ec0fc5bb9930afe9061b47fc54d474
+
+ 100.0% distsrc/client/
+
+55c95ec3f08cdb7382ffdb5861edafc9577f1d71
+
+ 100.0% util/concurrency/
+
+633150e7a15bccc957d1635ff5ec9762f1b251f2
+
+  36.5% db/
+  33.7% dbtests/
+  29.7% s/
+
+1773ba2f5e6c7358e200450f93900b787179132b
+
+  63.2% dbtests/
+  36.7% util/concurrency/
+
+5f3694fb9a560e466d32c5e6011662b276b6d5ce
+
+  67.6% db/
+  32.3% s/
+
+d04022b31f5d8c8b79386c4fc58946a7324e8643
+
+2221ad4eea656016858a51cc8ced07597683d15a
+
+ 100.0% s/
+
+f46e1873013ba477896148f385dc3656d444df1d
+
+  67.9% db/
+  19.3% shell/
+  12.7% util/
+
+0797232ce9144257dae4f7ddc5e97b07ff0dd9b8
+
+21050ef6aeb61770ab31316ab11b5caf08758951
+
+ 100.0% util/concurrency/
+
+fee2092cc0aacfe7f32421fbb06274c43514ee56
+
+  44.2% db/
+  55.7% util/
+
+6d659f8a97b7c98199b69d3c0a286f552f6df5bf
+
+ 100.0% util/concurrency/
+
+eb964f15842390f4790ad0572107fa40fd98f6c1
+
+0195c538dd270b905241d9eef3c36dc65fcad069
+
+ 100.0% db/repl/
+
+79c9a7906481d0f20568054aef63892203a6a87b
+
+ 100.0% util/
+
+02048643945239f7e17795b0707481cd11f947c4
+
+  75.6% db/
+  24.3% util/
+
+2d176b320aed5c2f301723fa370bdb59096307a6
+
+ 100.0% db/
+
+19ac38c82309268e2af59b1f58d13cf56dfe4161
+
+ 100.0% util/
+
+5a9fe69f840f814a81ecb462f2542370eb143d54
+
+  34.0% db/
+  37.8% dbtests/
+  28.1% s/
+
+87ab46c3a49ea857dba6dad8c60f51e974139cdf
+
+ 100.0% s/
+
+ffb3f37978dec9125438f88935ca41b77664463c
+
+ 100.0% db/
+
+16aa2fd807c0fd8f40ea5ceb48e819cff90cb951
+
+ 100.0% db/
+
+c8de43c161b4e46df89e361e301904c21bc4e797
+
+ 100.0% db/
+
+1a4bc082866ccdde9926ca2070c92e9f5c886e76
+
+ 100.0% db/
+
+c335ebcd0f97788740995e7aeed4c39c7eb8607d
+
+   0.3% db/
+  99.6% dbtests/
+
+e47072ed136cdba167d3d41a4e5003817be63818
+
+ 100.0% db/
+
+ac1f4dfe9a939b085ca0d872517a93c944af4d49
+
+ 100.0% client/
+
+52ea89ab4753084e2d4231c9105a68ef95a78ae7
+
+  99.3% db/
+   0.6% util/
+
+846a7a0bc516f80659fb10db4bb6b2f54ca1d791
+
+  11.3% db/geo/
+  84.7% db/
+   3.8% s/
+
+a6cceefeb794c2fd38384c54e6b3299b628e7f08
+
+   4.4% db/geo/
+  90.1% db/
+   3.3% dbtests/
+   1.9% s/
+
+ede44430d1000badf520ee3292a37bb306a66bd2
+
+   2.3% bson/util/
+  67.0% db/
+  30.5% dbtests/
+
+138c60541a203569feefb5cc536143480391821d
+
+ 100.0% db/
+
+ac86734a43cb7ee8e8710dea30b3e54070a12db7
+
+ 100.0% db/
+
+a7040fc63455fc472a107932b5aa3d19578fa53b
+
+ 100.0% db/
+
+6b6dd6e45d1a933ff646c1b6c3175881be0bc9d5
+
+ 100.0% dbtests/
+
+78f525a937c6c34a6e32d8b9f9f07ed8784e463b
+
+ 100.0% shell/
+
+4f2f00bba00b997949d9acb2e9de49e9f583b976
+
+  79.7% db/
+  20.2% dbtests/
+
+6c9fe3bbfdd7f66f96cba82c029904671b54bf05
+
+4f8f0c6a9f4b5ee2e9aa22f373fc903d9b75a81e
+
+ 100.0% db/
+
+f32e60a157208ba5b40eff34a46abc3a710e639a
+
+6d6d6e4309e6921b09f6c650f03951f277c758b8
+
+ 100.0% db/
+
+ec0533d973e40911b41e65577f3df797469294fc
+
+43e19abd0921d1b47cb462fc43b285005b3a5b97
+
+ 100.0% db/
+
+b1b247e2714bee5b124ed93f6cc96f1b17b9d63a
+
+ 100.0% util/
+
+0e34fc9b58899fa8aa15c19249865937cbe224b8
+
+ 100.0% tools/
+
+f8d7c352f747fda8dd0c34569207b626317e1e18
+
+4f969e112abf5a30b0e2bfde170b0c868d79bde5
+
+  88.7% db/
+   2.0% dbtests/
+   1.5% tools/
+   1.2% util/concurrency/
+   6.4% util/
+
+736733e95784d1344592e76e6d7921d59008827d
+
+ 100.0% util/
+
+4cccc1232c4ee3063a0b5d315d827ddee1054d6b
+
+ 100.0% db/
+
+a49c6b5b6b40984ee3744f82742d358bc1cb9d76
+
+ 100.0% util/mongoutils/
+
+32e07991c0b0ad639dae3d418d955555219c3543
+
+ 100.0% db/
+
+41891d55591399d10bb011249243ca7a282cd58f
+
+ 100.0% db/
+
+f3fee9740dec7b316e92d8da718da4b80ba32f2b
+
+ 100.0% db/
+
+e749ff2ff61748480c35abe7a4f80eb6f28f187a
+
+94f581c1a1d274224e137b32fc46e69eab823c57
+
+ 100.0% db/
+
+cc2afee21dd9dbe7469a64672db86aab1263638e
+
+ 100.0% db/
+
+24626e831f6aed3bdb159c0e8ad3b4655509657e
+
+4e3a3e90ce59f5020ba7a3bc8fdbe912322484bb
+
+ 100.0% dbtests/
+
+17892972aa45c2abdd15c353c37ae4ebdb5daf1e
+
+ 100.0% db/
+
+feb266b1a9e28cbaa3275fde46679a32af4f6600
+
+ 100.0% db/
+
+3d1f0d67835a0ce4a3213dd0514fe58df3010d56
+
+ 100.0% db/
+
+0e00d068f4a99b4e68aa8d6f9b23a2a4678c0ddb
+
+ 100.0% s/
+
+4ee9302fd7ad125b555cac9fdb9199b21c9b76f5
+
+a92aef4e153f675d77ef0cc01816803cb9145df2
+
+ 100.0% db/
+
+67fdfce7913f4e9222bb13374acf5eafcf07afc8
+
+ 100.0% db/
+
+90372ab038501b527f40d67c581694a78e73a837
+
+3126e58f01431cecac6cba704acde51e858bbaa8
+
+ 100.0% client/
+
+66eddbed7ae154ea306d8f91d84b4a20eb4e7961
+
+ 100.0% client/
+
+4a4103a9b8f069f155f91cc3e65073a59e5f65cc
+
+ 100.0% db/
+
+a46e54d9b1b8a9e82988d0ee4ca68129b95727ee
+
+9a6697dc2daf9e00ebe2d5c72c01dc4d7ba36d0f
+
+ 100.0% db/repl/
+
+8e57783af6a01ab2304c47bb82bcbd9ea00dcf14
+
+fbc032038dc6bb113da9261716e53448a9972f07
+
+ 100.0% db/
+
+39c5cbdbf72ad8baaebb90180bcc698013ac1f36
+
+  60.0% s/
+  40.0% shell/
+
+d65b438a5f78864a4a124374e732930160305753
+
+ 100.0% shell/msvc/
+
+fbc1a0d20f5c3be61f76a8196668e5e7787d5048
+
+  50.2% db/
+  49.7% util/
+
+7e257b5a299362d223acd08b3063dfdb1e6fb87b
+
+b66adf88283ac4c234eb41db4e1b5f9f6d6e6fb0
+
+ 100.0% db/
+
+a463ddb5f7a946c102c79a7eb7d1ef92f03f4ca4
+
+ 100.0% db/
+
+fbc4032a8ac5f71f2fd4877f55208c007aed393c
+
+ 100.0% db/
+
+76b168785fa1f9b1fa92a1c7eea6f12ad299071d
+
+  52.1% bson/
+  47.8% db/
+
+7e2c810dc6bbf16ad8dbdd6f0310afaf51f833a1
+
+  74.8% db/
+  25.1% dbtests/
+
+9bb89d382f6c8bdde0269899df289c6cc0850473
+
+ 100.0% db/
+
+4f5efa53d478157a62a5131e65ea5afafa2a7b1a
+
+1369f8f3c478170c52f066829476ad7bc61fddbc
+
+ 100.0% shell/
+
+bab2182780cd415fd8a25a225501578e534e74ac
+
+   1.1% bson/util/
+  66.9% db/
+  31.8% dbtests/
+
+79b8999754e29af242d411507003ac8f9f8bde4a
+
+ 100.0% bson/
+
+f605cadf54c5890740967c29c8bc9915bb0f9d07
+
+9c8515d27a22948d198a5e42366b847e5597da9b
+
+ 100.0% db/
+
+f8b902ebc6bbf351cc2c424f20955493656b5446
+
+ 100.0% db/
+
+a354d60a16e401d5303270e960b511fd2f07448c
+
+  23.1% db/
+  39.1% jstests/
+  37.7% util/
+
+f86fd65d66b92d0d0f6b524641f9084ab8446f3d
+
+  48.4% db/
+  51.5% util/
+
+d3df83bf029a8ca06d9fe1d461a5fe57748ec7ba
+
+
+4ea7daa56983d67ebe6010ffb8599349942237a0
+
+ 100.0% s/
+
+c440cb9ddaa9cde91f58f35f24d6ac4d2583a016
+
+ 100.0% jstests/slowNightly/
+
+73126163cc233828fa724d12ff0d197dcf3b41e3
+
+ 100.0% db/
+
+7c986e64325acda9c4b9bbf82e7f451c112fc714
+
+   1.2% bson/
+   3.5% db/geo/
+  91.7% db/
+   3.4% dbtests/
+
+d0b2bdad87b142f9ef4a1bc541c94a68cd49b484
+
+b7b5886d979c9211de791e75b025cb0c1a70d276
+
+ 100.0% db/
+
+6e7ac4a037f13da15bb964623a9e14a36c10fe25
+
+ 100.0% db/
+
+b7162f455f67d331765ffe6c8a902a60dec86edf
+
+ 100.0% db/
+
+1c896c3e22ec871f944084897af5623718e2e6f4
+
+ 100.0% db/
+
+dcca06c478d85cd64a094c41041c2984e14790aa
+
+ 100.0% db/
+
+6ee3bfed9acb7e8726a668889f5ea3e89e7522b1
+
+b1298d7b4a9e00d199100a74c121817da8b27a2b
+
+ 100.0% db/
+
+cde9219f84d73da65e19c6db45fa7175050aaf86
+
+fcffeb2ad659b0914d2000acae3ad0952c018695
+
+ 100.0% util/concurrency/
+
+eb647131e683c0d718c34432d82b9ea6f6ac5d94
+
+ 100.0% util/concurrency/
+
+ff71aead201ace7d99ba2d3c9e12b1ea7e8b55aa
+
+ 100.0% db/
+
+6d7bae1006d09332d65c76d7da192ecd98be4027
+
+10c58a626db967c54fcd5a4d47fad47a74c9074e
+
+ 100.0% s/
+
+51f681328feb3dac52c27b9bb5c0d5b9a5cd671e
+
+ 100.0% jstests/
+
+4d9e44c1ee31aff9a51d352bac9321bc3bf3bdaa
+
+ 100.0% db/
+
+54dc72c6474738d3b1cc05ead0032350518ff29d
+
+ 100.0% jstests/
+
+5c8f497d6c8970e47a45055d9298ebea54a49034
+
+ 100.0% util/
+
+09795ae38a6b5814f6797c5d102f60382b4b944b
+
+ 100.0% s/
+
+c4c8745b44f358dc263a3547aaf179a9ffdcd071
+
+ 100.0% db/
+
+0d2ca3e2c188604f0bfa6533f719ffebca8b5df4
+
+  64.5% db/
+  35.4% dbtests/
+
+967a77495d2741fc114ed7875963d0803a090ce0
+
+9f570ea7feedbce4b2e0935bb42668a0fb2c6d1f
+
+ 100.0% jstests/
+
+d8f79a52f2461d15849b5f363fd2079870a8e7d2
+
+ 100.0% db/
+
+9c65e3ed8bed2eedb171cdfee6569d05c62a869e
+
+ 100.0% db/
+
+baa419929fdf795a188b5b08a12e0458393bd997
+
+  39.1% db/
+  60.8% jstests/
+
+c30ad9b2385622569468bf0e494bcc7a971a7b63
+
+ 100.0% db/repl/
+
+20342f2b9d85fef0941b3461daae2198f1c06e40
+
+e58648e3a58467ab39e9ebf6bbd7cbbfa9cbe62e
+
+ 100.0% jstests/
+
+200b9ea5def492c74cc7e68b300c1d3e982efabd
+
+ 100.0% jstests/
+
+6e400fee9fdf356e9193c8719186e2c24700eb46
+
+ 100.0% db/
+
+7b9d59116242a955bd2e20c58429c1f72ae3ccf2
+
+  96.4% db/
+   3.5% jstests/
+
+0ff487c7d1763c8639c1d02a00882a1571ebd1d5
+
+  25.0% db/
+  40.3% jstests/
+
+1d3134107f60faa46977e04731587a95714e79d2
+
+ 100.0% db/
+
+fab72a5400d184b9b449824a9d48904d4b226bd9
+
+8ed14365df474d324a0da10b89281408e72bc584
+
+1d46a7e4baa781c32e770988f6cafa803f3ef190
+
+   0.5% db/repl/
+  91.8% db/
+   2.9% jstests/
+   0.7% third_party/linenoise/
+   3.9% util/
+
+1e3afd84eb17473a43d44928c8d84fadc0283ad2
+
+ 100.0% shell/
+
+1b9b77cfdc0fb7fce28355bbdca549dc57ad20c1
+
+ 100.0% shell/msvc/
+Author:gregs,
+64e8cca9c9d8048dfe6580635e2e83739caf0a0d
+
+ 100.0% jstests/slowNightly/
+
+6e59ddcc7a0d4682786a91b391e156a41eade48c
+
+ 100.0% db/repl/
+
+5273d66937cbcb25bb1790d1ae8042a514404fcd
+
+ 100.0% db/repl/
+
+a27401fa5639758df6a2711b5135e21e3a2511cb
+
+ 100.0% db/repl/
+
+8659088c682099c0ffc98c9d17371d8841f9f0d5
+
+ 100.0% tools/
+
+2b922d909798a4b3eb48bca5dd4771bc428cfee5
+
+ 100.0% client/
+
+627048913de2aff9ef9ddd717adb6b953058391e
+
+ 100.0% client/
+
+ee92cf98824cbaa6f5692a2fdcc89932c396cd40
+
+ 100.0% db/repl/
+
+aa0495a4b62428d0c0d6d2633c65a2e2128d55af
+
+ 100.0% jstests/sharding/
+
+47e15ceb886f2565e8431638510e21e5fd302442
+
+ 100.0% jstests/
+
+52fdfd097f5dca5a83de85b9a7f47e3d206d068e
+
+ 100.0% db/geo/
+
+da438f85bca6e4b9e2e12d678c754441aee47eab
+
+  52.7% db/geo/
+  47.2% jstests/
+
+380c6217af2a847d90ba688f7eaf37633e04aa14
+
+ 100.0% jstests/
+
+845eb8c9d8924f990ae36f81bf50a12dc38458e8
+
+  79.2% db/geo/
+  20.7% jstests/
+
+bba87960d05de77e29e002048fe28131bc703365
+
+ 100.0% db/geo/
+
+46363cf5f2a46cec5add6ffcf784881d45e3322b
+
+ 100.0% db/geo/
+
+678dd045058bdef50c217a6c6ca8a254401416cb
+
+ 100.0% jstests/
+
+c05b16d7711ff5d5b63b60e7d9ccb049eb08b379
+
+ 100.0% db/geo/
+
+4e4a1c2b282d071568553f92e9c40f3db7c71ff0
+
+  72.8% db/geo/
+  12.5% jstests/slowNightly/
+  14.5% jstests/
+
+9193ff5d00829dccffc9572eb15a446bd4d2309e
+
+  48.3% db/
+  51.6% jstests/
+
+a3b7bb6b8339433b7926477307f0c3c185beb48f
+
+   3.7% db/commands/
+  75.2% db/
+  20.9% jstests/
+
+822efa3ffa7494743e727184c5964c39da303455
+
+ 100.0% db/geo/
+
+92784f6872db87173683387a5088ec5832438039
+
+  10.1% db/geo/
+  89.8% jstests/
+
+b994faa86717f780fe8e88e67dbbe49ba455b01d
+
+ 100.0% db/geo/
