@@ -17,7 +17,7 @@ to complete these collection. Not that it is anyone fault, it's just REALLY TIME
 ==============================================================================================
 
 #Gets the relative distribution of  LOC changes per commit per directory (component) per person. Displays Commit ID. 
-git log  --after="2010-3-1" --before="2010-3-31" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2010-3-1" --before="2010-3-31"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done
+git log  --after="2011-1-1" --before="2011-11-30" --format='%aN' | sort -u | while read name; do echo -en "Author:$name,"; git log --after="2011-3-1" --before="2011-3-30"  --author="$name" --pretty=tformat:%n%H --dirstat=0; done
 
 
 #Gets ONLY Total LOC per commit within a month range. Displays commit ID.Newline delimters
