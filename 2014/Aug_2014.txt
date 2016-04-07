@@ -1,0 +1,2125 @@
+Author:Adam Midvidy,
+735b528437eb4042dcc92f2d8f2a55c30176b5d0
+
+ 100.0% src/mongo/util/
+
+4752092258fd5868147b8cece636d2fd41c79305
+
+ 100.0% src/mongo/client/
+
+c18aa8e2560b266bf5806310d67a7f2bed2d43d3
+
+  27.5% buildscripts/
+  68.8% src/mongo/util/
+   2.6% src/mongo/
+
+d8612542111d9af6b99c5f6ad3cd8e0c4b43cea1
+
+  27.7% buildscripts/
+  69.1% src/mongo/util/
+   2.2% src/mongo/
+
+f60c7f9003ec815c5e4c37decb6ae48a80bf84ec
+
+ 100.0% src/mongo/db/
+
+2c56cc550c8f3894e8631fd9862220352b255ab5
+
+ 100.0% src/mongo/db/
+
+08873e79890885f83d0a9ae1de7ea9f4769cd83d
+
+ 100.0% src/mongo/db/repl/
+
+daab6fae496e1aca6b8f7c709bd18307745df1dd
+
+  30.5% src/mongo/db/commands/
+  67.9% src/mongo/db/repl/
+   0.1% src/mongo/
+Author:Alex Kleiman,
+e970e918c5300a13360edb57a88871b02dbe5982
+
+ 100.0% src/mongo/db/storage/rocks/
+
+0f5849fd4d4bf9f398c14e21fc4c9f9be123f0aa
+
+   2.0% src/mongo/db/storage/mmap_v1/btree/
+  97.9% src/mongo/db/storage/mmap_v1/
+
+0d3349ce115b14a9e5cd2b7438f1e796067043e0
+
+   0.0% buildscripts/
+   0.4% src/mongo/db/catalog/
+   4.3% src/mongo/db/storage/heap1/
+  87.8% src/mongo/db/storage/rocks/
+   7.2% src/mongo/db/storage/
+   0.0% src/mongo/
+Author:Alexis Midon,
+fb1e82a243bc7c2b96ea1cfa78370f08a4c59bc6
+
+ 100.0% rpm/
+Author:Andreas,
+807f8b61127670c57ed65ffa5bc9ccafed4f26d3
+
+ 100.0% src/mongo/db/auth/
+
+6250f6da8b0713759a402caef66c110822361390
+
+ 100.0% src/mongo/db/auth/
+
+e6a8e256ca73e7596d9f8b7b3a3b00d8c08f6554
+
+   1.1% jstests/auth/
+  98.8% src/mongo/db/auth/
+
+6cd4941a088d9fd378012dfdd7269788b57e58eb
+
+ 100.0% jstests/libs/
+Author:Andreas Nilsson,
+807f8b61127670c57ed65ffa5bc9ccafed4f26d3
+
+ 100.0% src/mongo/db/auth/
+
+6cd4941a088d9fd378012dfdd7269788b57e58eb
+
+ 100.0% jstests/libs/
+Author:Andrew Morrow,
+c40a73d76c1c27a74b9cbf44db49a93008bb6624
+
+ 100.0% src/third_party/
+
+f585b865685f4c29619a7a7ea61463b8e25c67cc
+
+  13.2% src/mongo/db/query/
+  12.0% src/mongo/s/
+  74.6% src/mongo/
+
+cc54386515d70ac012910b969fc893aa3282e16b
+
+ 100.0% src/mongo/bson/
+
+6354bcfdd21c632c7578745bd4b794aaf16b491a
+
+  96.0% src/mongo/bson/
+   3.9% src/mongo/s/
+
+84110130c0de9aa17c5a26ecf21ee75828838b0a
+
+ 100.0% src/mongo/bson/
+
+fae7c52d21cacdc97c898d17b95e4322f8a9bb87
+
+   2.1% src/mongo/db/repl/
+   5.1% src/mongo/db/storage/mmap_v1/
+  92.6% src/mongo/util/concurrency/
+
+99e76fcc67198289d2913d667df6cf9e274bd427
+
+   3.1% src/mongo/db/storage/mmap_v1/
+   1.0% src/mongo/db/
+  95.2% src/mongo/util/concurrency/
+   0.4% src/mongo/
+
+f3bcadd173c368efbfdbe8900bf4bdb31bb5ac9c
+
+ 100.0% src/mongo/bson/
+
+931f48190b276dd783d76ae4071228d6ab1f0bfd
+
+  30.3% src/mongo/bson/util/
+   3.0% src/mongo/client/examples/
+   1.8% src/mongo/db/commands/
+   5.5% src/mongo/db/concurrency/
+   1.8% src/mongo/db/repl/
+   1.5% src/mongo/db/sorter/
+  18.4% src/mongo/db/stats/
+  14.5% src/mongo/db/
+   5.5% src/mongo/dbtests/
+  13.9% src/mongo/s/
+   1.9% src/mongo/shell/
+   1.4% src/mongo/util/concurrency/
+Author:Andy Schwerin,
+60d77fd541a1748f16ced5b790fa979633c325df
+
+ 100.0% src/mongo/db/repl/
+
+68f84244953ed2ade6a00d61baf3f70d51f0d890
+
+ 100.0% src/mongo/db/repl/
+
+4ae7190ecc4a24f271e6be134c951335500b4f6f
+
+ 100.0% src/mongo/db/repl/
+
+86be883456bddff9ce3c283c9d740e70d62eb22f
+
+ 100.0% src/mongo/db/repl/
+
+3e5da05ed36c38eb9b13b5d6c81bb390273abf25
+
+ 100.0% src/mongo/db/repl/
+
+ab5de8df2d7a9aa220fc138ce8fa16fbc519af7e
+
+ 100.0% src/mongo/db/repl/
+
+1760e651f2c4ed5b26e37a54de8b0d42f6cf8616
+
+ 100.0% src/mongo/db/repl/
+
+312aa1b308c775e3bafec3ac1570f5c195956dbd
+
+ 100.0% src/mongo/db/
+
+3913d118f4cb0296dda50b8ba52e4c9f21583be9
+
+ 100.0% src/mongo/db/repl/
+
+a31db51d525fab001ac9b213cfc4a96b23ae7c16
+
+ 100.0% src/mongo/db/repl/
+
+20689033eb7f0350902b191d432ed9ae6a8e2677
+
+ 100.0% src/mongo/db/repl/
+
+f9a0f6380d1858bb8c8feeb008276c680d68d7ba
+
+ 100.0% src/mongo/db/repl/
+
+090f23992082e349e65c6bd3e2f7c5264fa1d1b3
+
+ 100.0% src/mongo/db/repl/
+
+1232c89874a8763375b65c438680e8441f65f021
+
+  96.1% src/mongo/db/repl/
+   3.8% src/mongo/db/
+
+972264abaf49c46b0726841e4fa2444cd3f3d737
+
+  18.7% src/mongo/db/repl/
+  81.2% src/mongo/util/concurrency/
+
+88cc54431e112cd2edaa9042b3b20ba1b10fce82
+
+ 100.0% src/mongo/db/repl/
+
+48b0eb5b87ed6037541a0db3dac32b09b79c0bc2
+
+  97.5% src/mongo/db/repl/
+   2.4% src/mongo/
+
+a88395dff3cc8bc3beec8356b8b25869d9c6cfe4
+
+ 100.0% src/mongo/unittest/
+
+eaac0152f37484f7e581be6fc1d838eb6001ddfb
+
+   2.6% src/mongo/unittest/
+  95.5% src/mongo/util/
+   1.7% src/mongo/
+
+5aa26641648876ee10dcfc8ff7256dd46efc8b9c
+
+ 100.0% src/mongo/db/repl/
+
+50789ae076281da32412ef6bdf3145fc4b070f16
+
+ 100.0% src/mongo/db/repl/
+Author:Anil Kumar,
+e5659ef4dde0724a4c4eace6f1ca8d54bb17e04f
+
+  87.3% src/mongo/db/repl/
+  12.6% src/mongo/dbtests/mock/
+Author:Benety Goh,
+79626bc249484368fe4d9369ec52f7df70e6a726
+
+ 100.0% src/mongo/scripting/
+
+166b061a60bd3399e60009934e1898e6006f4004
+
+ 100.0% src/mongo/scripting/
+
+ac6b4eac9d1fc33d357ee9264e4508f8a564d89d
+
+  21.9% jstests/core/
+  78.0% src/mongo/db/commands/
+
+1d46ac81bb65d8065f7667103d25abcef6fbf897
+
+ 100.0% src/mongo/logger/
+
+a8d7c7b8559e8a4fe85e13de459a961099e8a04d
+
+ 100.0% rpm/
+
+be05259d36ec5f44c821c8f2d103a4ee83ebaf53
+
+   4.8% src/mongo/bson/util/
+   1.6% src/mongo/bson/
+   1.1% src/mongo/client/examples/
+   5.7% src/mongo/client/
+   0.6% src/mongo/db/auth/
+   1.4% src/mongo/db/storage/mmap_v1/
+  25.3% src/mongo/dbtests/
+   4.3% src/mongo/util/net/
+  37.7% src/mongo/util/
+  16.9% src/mongo/
+
+256d9b8323080d84807b7f951134b61cb55169eb
+
+ 100.0% src/mongo/db/
+
+10827279fbc6380d4d7774837022b65b3204a988
+
+  16.8% src/mongo/db/auth/
+  14.3% src/mongo/db/commands/
+  27.1% src/mongo/db/repl/
+  33.5% src/mongo/db/
+   8.0% src/mongo/s/
+
+ce36d23ba2fe7962353668934c777c2f6263d078
+
+ 100.0% jstests/core/
+
+82e53c90774707a51e3f1b82c5b672a3e3700640
+
+ 100.0% src/mongo/scripting/
+
+6042e906fdd907d53b8231749422f786f19114d8
+
+ 100.0% src/mongo/scripting/
+
+7fb648f261973a7002d88e8405fc1e4661d0fbdd
+
+ 100.0% src/mongo/util/
+
+2644f32bc3e8aa2f0c68ad19b93ebb0b681471c1
+
+  31.3% src/mongo/db/
+  62.2% src/mongo/logger/
+   6.3% src/mongo/util/
+
+8a523f3bfd6e32cb6882d38e4eeff6adb6ea27c1
+
+   5.3% src/mongo/client/
+   1.4% src/mongo/db/auth/
+   5.7% src/mongo/db/catalog/
+   0.6% src/mongo/db/commands/write_commands/
+   5.2% src/mongo/db/commands/
+   1.1% src/mongo/db/exec/
+   0.6% src/mongo/db/fts/
+   0.6% src/mongo/db/geo/
+   1.3% src/mongo/db/index/
+   1.3% src/mongo/db/ops/
+   3.3% src/mongo/db/query/
+  15.3% src/mongo/db/repl/
+   0.6% src/mongo/db/storage/mmap_v1/btree/
+   1.3% src/mongo/db/storage/mmap_v1/catalog/
+   6.6% src/mongo/db/storage/mmap_v1/
+   0.3% src/mongo/db/storage/rocks/
+  14.0% src/mongo/db/
+   0.6% src/mongo/dbtests/
+   0.0% src/mongo/logger/
+   1.3% src/mongo/s/write_ops/
+  24.8% src/mongo/s/
+   1.3% src/mongo/scripting/
+   3.9% src/mongo/util/net/
+   2.0% src/mongo/util/
+
+850d2d0912e519e544f0c896583a6fbd5cceabce
+
+  83.3% src/mongo/logger/
+  16.6% src/mongo/util/
+
+a3845092f26955e6cbfca868fd136b7d5eefed9b
+
+   3.8% src/mongo/bson/
+   1.4% src/mongo/client/
+   0.2% src/mongo/db/auth/
+   0.0% src/mongo/db/catalog/
+   0.5% src/mongo/db/commands/
+   0.2% src/mongo/db/exec/
+   0.1% src/mongo/db/fts/
+   0.1% src/mongo/db/geo/
+   1.1% src/mongo/db/index/
+   0.0% src/mongo/db/matcher/
+   5.3% src/mongo/db/ops/
+  11.6% src/mongo/db/query/
+  19.2% src/mongo/db/repl/
+   0.0% src/mongo/db/sorter/
+   0.1% src/mongo/db/stats/
+   0.1% src/mongo/db/storage/heap1/
+   4.8% src/mongo/db/storage/mmap_v1/btree/
+  11.6% src/mongo/db/storage/mmap_v1/catalog/
+   1.9% src/mongo/db/storage/mmap_v1/
+   0.0% src/mongo/db/storage/rocks/
+   2.0% src/mongo/db/
+   0.4% src/mongo/dbtests/
+   0.0% src/mongo/s/commands/
+   4.7% src/mongo/s/
+  14.0% src/mongo/scripting/
+   0.1% src/mongo/shell/
+   0.1% src/mongo/tools/
+   0.4% src/mongo/util/concurrency/
+   3.1% src/mongo/util/net/
+   8.5% src/mongo/util/
+   1.0% src/mongo/
+   1.8% src/third_party/s2/base/
+
+fe950f19e616a86fdea70da66eda658d64489a5e
+
+  37.3% src/mongo/logger/
+  62.6% src/third_party/s2/base/
+
+adc36ff6450b1ee493b9acd26d3e79bd4facf953
+
+ 100.0% src/mongo/util/
+Author:daveh86,
+1f5428d02542074a49e054172f4dac46b06fd97b
+
+ 100.0% src/mongo/s/
+
+cf2917a1e94959a696642407425f89fe14ccb1b4
+
+ 100.0% src/mongo/s/
+Author:David Storch,
+b365799cde89ffcb255d1950057298f6f724d0c8
+
+   7.2% jstests/core/
+  92.7% src/mongo/db/query/
+
+c1cfdabdf0ed0fd2abfa24faa243b9d4a00a987c
+
+   8.6% src/mongo/db/exec/
+  91.3% src/mongo/dbtests/
+
+ab45fd3e0c3ea06a5c093e826862618ae3b6205a
+
+ 100.0% jstests/noPassthroughWithMongod/
+
+c1901441f0e9c73d5457d3169145fb55a65c7307
+
+ 100.0% src/mongo/db/pipeline/
+
+c184143fa4d8a4fdf4fdc684404d4aad3e55794b
+
+  44.3% src/mongo/db/exec/
+  35.6% src/mongo/db/ops/
+   5.7% src/mongo/db/query/
+  14.1% src/mongo/dbtests/
+
+4f5703ae45f05576fac5261dc985aabd142a0a78
+
+   1.1% src/mongo/db/matcher/
+  98.8% src/mongo/db/query/
+Author:Davide Italiano,
+efd7c52925f0d2030fa7462b358d7b8faffe5b4c
+
+ 100.0% src/mongo/shell/
+Author:Eliot Horowitz,
+f0bb5123f50bb617eb9499539f01779c6e9f5e95
+
+   0.0% src/mongo/db/auth/
+  14.2% src/mongo/db/catalog/
+   2.3% src/mongo/db/commands/
+   9.8% src/mongo/db/exec/
+   0.1% src/mongo/db/geo/
+   1.2% src/mongo/db/index/
+   0.6% src/mongo/db/ops/
+   2.9% src/mongo/db/query/
+   0.8% src/mongo/db/repl/
+   3.7% src/mongo/db/storage/heap1/
+  17.0% src/mongo/db/storage/mmap_v1/btree/
+   5.1% src/mongo/db/storage/mmap_v1/catalog/
+   2.7% src/mongo/db/storage/mmap_v1/
+  12.4% src/mongo/db/storage/rocks/
+   9.6% src/mongo/db/storage/
+   2.6% src/mongo/db/
+  12.6% src/mongo/dbtests/
+   1.1% src/mongo/s/
+   0.3% src/mongo/tools/
+
+93ba91bdf9ce4721a5467e5d35118b16f04c2577
+
+ 100.0% jstests/core/
+
+e42a4603f7812286bea6b1e2df704d9781f75679
+
+ 100.0% jstests/core/
+
+602639ffa6d8fbbbcfa6cfec4ff2a5a37158d88f
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+6499f50b1fb6333096b8c358deededb920738f7e
+
+ 100.0% src/mongo/db/storage/heap1/
+
+6b534d4275b913eb8eaa31ffdacc7e25b5494afa
+
+ 100.0% src/mongo/db/storage/
+
+19df2e7d6a25345f0f751212e5fab190b4e016ee
+
+ 100.0% src/mongo/db/commands/
+
+addfc302ecf617dfe46e4ce09d629e6bf8367f85
+
+  54.8% jstests/core/
+  45.1% jstests/mmap_v1/
+
+5d311d9f0583e3d74ce1aa47c66965cd0b39276f
+
+  52.8% jstests/core/
+  39.9% jstests/mmap_v1/
+   7.1% src/mongo/db/storage/heap1/
+
+aa86da1011b6fc9559f0ccc94639335de8b37301
+
+  50.0% jstests/core/
+  50.0% jstests/mmap_v1/
+
+c6572b24bd0dfaaf926a2027131fab283f6df701
+
+  39.7% src/mongo/db/catalog/
+  60.2% src/mongo/db/storage/mmap_v1/
+
+670e6a31600dceddfd7dc356a639a3251a94a6ca
+
+ 100.0% jstests/core/
+
+e44e8071067865b7eebc6c6827fdcc7c051a60c5
+
+   9.1% src/mongo/db/catalog/
+  33.4% src/mongo/db/storage/heap1/
+  38.4% src/mongo/db/storage/mmap_v1/
+  13.1% src/mongo/db/storage/
+   5.7% src/mongo/db/
+
+568f6de65c6e9a88a26aa2e10b12cb68ae0f1b06
+
+  10.5% src/mongo/db/catalog/
+  22.6% src/mongo/db/storage/heap1/
+  59.9% src/mongo/db/storage/mmap_v1/
+   6.8% src/mongo/db/storage/
+
+f8003b264fe6c7a73fdfefd969983a885ef52958
+
+  67.8% src/mongo/db/catalog/
+   2.3% src/mongo/db/storage/mmap_v1/
+  29.7% src/mongo/db/
+Author:Eric Milkie,
+9a770ca1ce8d5c7fcad7efffe562abaa8dd4b138
+
+  46.6% src/mongo/client/
+  37.2% src/mongo/db/repl/
+   7.7% src/mongo/dbtests/
+   8.4% src/mongo/tools/
+
+0fbd416c565ec4af11990e64cab887af12fbf76f
+
+ 100.0% src/mongo/db/repl/
+
+4763ed8e758149413b214f3788cb053589ab76c5
+
+ 100.0% src/mongo/db/repl/
+
+dcd1540dd9149702dee70f5f9536f03ed49685eb
+
+ 100.0% src/mongo/db/
+
+7fd6a30edd7c3406de3712d14ad395784c478a45
+
+ 100.0% src/mongo/db/repl/
+
+7b1fb9c442e6c97df18d0ecba47a21adaaf1d65b
+
+ 100.0% src/mongo/db/repl/
+
+2779fc44168384bf5c87790ae7e2a1653c57e87c
+
+ 100.0% src/mongo/db/repl/
+
+4064ced405a51bedcb9da9d90f0320023e23728c
+
+  99.1% src/mongo/db/repl/
+   0.8% src/mongo/db/
+
+17a8a00da6e9ac5fe09a658499c071a3879d45a8
+
+ 100.0% src/mongo/db/repl/
+
+559d29efb349606850cd195b0af4cda28035806b
+
+ 100.0% src/mongo/db/repl/
+
+9593c2ee9546f2d9ea2d24ff56743a70b4af2a01
+
+ 100.0% src/mongo/db/repl/
+
+6a81ce76079c72b7f7c78170ac33f7a7c2772922
+
+  92.4% src/mongo/db/repl/
+   7.5% src/mongo/db/
+
+8130d43a0dbc51413fd460efc4bb27108c1ea315
+
+ 100.0% src/mongo/db/repl/
+
+9b0b7f0eeb9eec34b3d6ba48c3a7ccf7d6f32503
+
+ 100.0% src/mongo/db/repl/
+Author:Ernie Hershey,
+e4c72a04f7dab7ab747f59306cabd36cff3f3e16
+
+  54.7% rpm/
+  25.7% src/mongo/util/
+
+2966c35b20416d55c3d481e5f254a9befb1b2338
+
+  54.7% rpm/
+  25.7% src/mongo/util/
+
+4b03f988e91c4991ab60f5f8edc933cee5640796
+
+ 100.0% src/mongo/installer/msi/wxs/
+Author:Greg Studer,
+6e90ddf91fdbbc578e499fcb736365498e47f55a
+
+  22.8% jstests/core/
+  77.1% src/mongo/db/query/
+
+0f0e24f5dce718bd1d54f7ca3762d3f4cb13db2f
+
+  49.6% jstests/sharding/
+   0.4% src/mongo/base/
+  48.8% src/mongo/s/
+   0.9% src/mongo/shell/
+
+ec9576707a7c54abc53dfb75bea3c7c502b6a2d3
+
+ 100.0% src/mongo/db/
+
+88e30849b29c0e2050bba768545daefa170be927
+
+ 100.0% src/mongo/s/
+
+c328d06c22c9b693e66dcdf020b3642fb147b8ac
+
+  26.6% jstests/sharding/
+  73.3% src/mongo/client/
+Author:Hari Khalsa,
+b76ab679c9fa567f1b26638c9f0415dc94917393
+
+ 100.0% src/mongo/db/
+
+caf2557cbefcf3d129d9a6c3a1a9b649dfdef82f
+
+  24.4% src/mongo/db/storage/heap1/
+  75.5% src/mongo/db/storage/rocks/
+
+522347375e6859b9dbafdc4f0bbdd462f98321fa
+
+ 100.0% src/mongo/db/storage/heap1/
+
+2c403aab664bb25704d984c48583d80701a5267b
+
+  12.0% src/mongo/db/storage/heap1/
+  16.1% src/mongo/db/storage/mmap_v1/
+  50.8% src/mongo/db/storage/
+  17.4% src/mongo/db/
+   1.4% src/mongo/dbtests/
+   1.5% src/mongo/tools/
+   0.5% src/mongo/
+
+fd9306a5955b04a19dbeb5d8eddceb21d0beb79f
+
+ 100.0% src/mongo/db/storage/
+Author:Jason Carey,
+dc9e090dba1f17467520eca13571512c621d503f
+
+   3.3% src/mongo/client/
+   0.9% src/mongo/db/catalog/
+   8.5% src/mongo/db/query/
+  29.0% src/mongo/db/
+   1.9% src/mongo/dbtests/
+   7.7% src/mongo/s/
+   9.0% src/mongo/tools/
+  37.7% src/mongo/util/net/
+   1.6% src/mongo/util/
+
+8d0bf7dfbfafd09b9465feec3651cdd31aeb0dcc
+
+  42.0% src/mongo/base/
+  57.1% src/mongo/platform/
+Author:Jason Rassi,
+15a025f43ff3b038c17fce40b7d0802a58ab4e3b
+
+  54.9% jstests/aggregation/bugs/
+  45.0% src/mongo/db/catalog/
+
+2c510c5c06b4e557efb680d57694d24f1c028464
+
+   3.8% src/mongo/db/exec/
+  96.1% src/mongo/dbtests/
+
+71277e8a5d072fbfa956a74f3c0295f69ead120f
+
+ 100.0% src/mongo/db/matcher/
+
+b3b6a1a9da2417ce61b2654f9ac5cc2685bc87ad
+
+ 100.0% src/mongo/db/fts/
+
+caa6c9411ba9e3b2b0e9056a0e194009298e4ed8
+
+  16.1% jstests/core/
+   2.2% src/mongo/db/exec/
+  79.8% src/mongo/db/fts/
+   1.7% src/mongo/db/query/
+
+a1042b421b4a1f046a0228ef316c95f001a4781b
+
+  42.7% jstests/core/
+  57.2% src/mongo/db/catalog/
+
+6e7a8ef675dd9a6f43dc191bfa35c550ddee7368
+
+ 100.0% jstests/core/
+
+d7133440dc8f05f0514d2b056d8605513b6e4d1b
+
+ 100.0% src/mongo/db/
+Author:Jonathan,
+69397200432a6cf33890e00f7e50039f3b82b6df
+
+  70.0% src/mongo/installer/msi/wxs/
+  29.9% src/mongo/installer/msi/
+
+9144f84e621f5e1ffde55579851180be5f8653ab
+
+  70.0% src/mongo/installer/msi/wxs/
+  29.9% src/mongo/installer/msi/
+
+ced73c084c0d391ca49b9b6aa271b6cea6636de0
+
+ 100.0% jstests/tool/
+
+c55d103b02fabe2e7b00d950bef5f8c4b8012fab
+
+ 100.0% src/mongo/db/
+
+c13eefdea68c0d493892014d42d8c4bbe687d4c3
+
+ 100.0% jstests/sharding/
+Author:Jonathan Reams,
+69397200432a6cf33890e00f7e50039f3b82b6df
+
+  70.0% src/mongo/installer/msi/wxs/
+  29.9% src/mongo/installer/msi/
+
+9144f84e621f5e1ffde55579851180be5f8653ab
+
+  70.0% src/mongo/installer/msi/wxs/
+  29.9% src/mongo/installer/msi/
+
+ced73c084c0d391ca49b9b6aa271b6cea6636de0
+
+ 100.0% jstests/tool/
+
+c55d103b02fabe2e7b00d950bef5f8c4b8012fab
+
+ 100.0% src/mongo/db/
+Author:Jose Sebastian Battig,
+e2a58d5fd4e3f0d64bb5ba10de87ca48365617fc
+
+ 100.0% src/mongo/util/
+Author:Kaloian Manassiev,
+3af53b365e5fd67df35134f4190202b4f0c4c6a0
+
+   4.5% src/mongo/db/auth/
+  95.4% src/mongo/s/
+
+6f2e6b46bf9c0b8b6042c821a56edf8968c24f4b
+
+   0.6% src/mongo/db/catalog/
+   1.8% src/mongo/db/commands/
+   1.9% src/mongo/db/concurrency/
+   1.8% src/mongo/db/repl/
+   4.2% src/mongo/db/storage/heap1/
+   4.2% src/mongo/db/storage/mmap_v1/
+   7.8% src/mongo/db/
+   2.5% src/mongo/dbtests/
+   2.0% src/mongo/shell/
+   4.8% src/mongo/tools/
+  67.9% src/mongo/util/
+
+a9cd3f0964e4cec1efd3360d2fbaffae495737c0
+
+ 100.0% src/mongo/db/
+
+155d994c632e4f0498bd592e9b18e09eeda6a030
+
+ 100.0% src/mongo/db/storage/mmap_v1/catalog/
+
+c069fc13a91204940c82a90f7c2c2f09b80c3428
+
+   0.5% src/mongo/db/concurrency/
+  98.6% src/mongo/db/
+   0.7% src/mongo/
+
+052175eb9e0b793de19575fea37a7fdd95126a50
+
+   0.4% src/mongo/db/commands/write_commands/
+  97.9% src/mongo/db/concurrency/
+   0.3% src/mongo/db/
+   1.2% src/mongo/dbtests/
+
+eacc825ccae11f81a3d06513ceced054b9562ef6
+
+ 100.0% src/mongo/db/concurrency/
+
+a9f9040c76e2927aa801728578b86541336c2fa2
+
+ 100.0% src/mongo/bson/util/
+
+4f5580004184c576f7ad5c1ea738c73681cd4e48
+
+ 100.0% src/mongo/bson/util/
+
+d1767c999d4371fc1aa1eb85f5f8b58c0b5f4848
+
+ 100.0% src/mongo/bson/util/
+
+c610cfe5c58d1f4301f5535d3e166d5d4332bc87
+
+   0.0% src/mongo/db/auth/
+   0.2% src/mongo/db/catalog/
+   0.2% src/mongo/db/commands/
+  48.9% src/mongo/db/concurrency/
+   0.1% src/mongo/db/repl/
+   0.0% src/mongo/db/stats/
+   0.0% src/mongo/db/storage/mmap_v1/catalog/
+   0.4% src/mongo/db/storage/mmap_v1/
+  49.3% src/mongo/db/
+   0.1% src/mongo/dbtests/
+   0.1% src/mongo/s/
+   0.1% src/mongo/util/
+   0.1% src/mongo/
+
+920a4a18b00f5831f644934671e64174186b164f
+
+ 100.0% src/mongo/db/
+
+d261864e9156af7ecc3d0491111dffa0161e9d0d
+
+ 100.0% src/mongo/s/
+
+7d3048502184e1b89d502302c12da4dcbde2e221
+
+ 100.0% src/mongo/db/
+Author:Kamran Khan,
+0adbb451f7393c633686d65fd77b77ddc1161fe4
+
+ 100.0% src/mongo/db/pipeline/
+Author:Mark Benvenuto,
+746e8835b0b841235b767628d6ae0382a85bdab0
+
+ 100.0% src/mongo/util/
+
+b983d2b0858507009c1ef1589853cf9aec8dba33
+
+ 100.0% src/mongo/util/
+
+1243bf4edfa8c3b184b8fca1b7feb863c45e96dd
+
+  86.3% src/mongo/util/
+
+6792a5035e18f23ebb4d2eb958a84953fcdb9ee1
+
+
+0dcc9c14f5d8f0f26c174676fa770b18f4aa122c
+
+   0.2% src/third_party/boost-1.55.0/boost/algorithm/cxx11/
+   0.0% src/third_party/boost-1.55.0/boost/algorithm/cxx14/
+   0.0% src/third_party/boost-1.55.0/boost/algorithm/searching/detail/
+   0.1% src/third_party/boost-1.55.0/boost/algorithm/searching/
+   0.4% src/third_party/boost-1.55.0/boost/algorithm/string/detail/
+   0.0% src/third_party/boost-1.55.0/boost/algorithm/string/std/
+   1.0% src/third_party/boost-1.55.0/boost/algorithm/string/
+   0.1% src/third_party/boost-1.55.0/boost/algorithm/
+   0.3% src/third_party/boost-1.55.0/boost/archive/detail/
+   0.3% src/third_party/boost-1.55.0/boost/archive/impl/
+   0.2% src/third_party/boost-1.55.0/boost/archive/iterators/
+   0.6% src/third_party/boost-1.55.0/boost/archive/
+   0.0% src/third_party/boost-1.55.0/boost/assign/
+   1.6% src/third_party/boost-1.55.0/boost/atomic/detail/
+   0.0% src/third_party/boost-1.55.0/boost/atomic/
+   0.7% src/third_party/boost-1.55.0/boost/bind/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/detail/inlined/mac/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/detail/inlined/posix/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/detail/inlined/win/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/detail/inlined/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/detail/no_warning/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/detail/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/io/utility/
+   0.6% src/third_party/boost-1.55.0/boost/chrono/io/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/io_v1/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/typeof/boost/chrono/
+   0.0% src/third_party/boost-1.55.0/boost/chrono/typeof/boost/
+   0.3% src/third_party/boost-1.55.0/boost/chrono/
+   0.0% src/third_party/boost-1.55.0/boost/concept/detail/
+   0.0% src/third_party/boost-1.55.0/boost/concept/
+   0.0% src/third_party/boost-1.55.0/boost/config/abi/
+   0.3% src/third_party/boost-1.55.0/boost/config/compiler/
+   0.0% src/third_party/boost-1.55.0/boost/config/no_tr1/
+   0.1% src/third_party/boost-1.55.0/boost/config/platform/
+   0.1% src/third_party/boost-1.55.0/boost/config/stdlib/
+   0.3% src/third_party/boost-1.55.0/boost/config/
+   1.2% src/third_party/boost-1.55.0/boost/container/detail/
+   3.5% src/third_party/boost-1.55.0/boost/container/
+   0.4% src/third_party/boost-1.55.0/boost/date_time/gregorian/
+   0.2% src/third_party/boost-1.55.0/boost/date_time/local_time/
+   0.2% src/third_party/boost-1.55.0/boost/date_time/posix_time/
+   1.9% src/third_party/boost-1.55.0/boost/date_time/
+   0.0% src/third_party/boost-1.55.0/boost/detail/winapi/
+   0.7% src/third_party/boost-1.55.0/boost/detail/
+   0.1% src/third_party/boost-1.55.0/boost/exception/detail/
+   0.1% src/third_party/boost-1.55.0/boost/exception/
+   0.0% src/third_party/boost-1.55.0/boost/filesystem/detail/
+   0.3% src/third_party/boost-1.55.0/boost/filesystem/
+   0.0% src/third_party/boost-1.55.0/boost/format/detail/
+   0.4% src/third_party/boost-1.55.0/boost/format/
+   0.0% src/third_party/boost-1.55.0/boost/function/detail/
+   0.3% src/third_party/boost-1.55.0/boost/function/
+   0.0% src/third_party/boost-1.55.0/boost/functional/hash/detail/
+   0.1% src/third_party/boost-1.55.0/boost/functional/hash/
+   0.0% src/third_party/boost-1.55.0/boost/functional/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/adapted/mpl/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/adapted/mpl/
+   0.1% src/third_party/boost-1.55.0/boost/fusion/adapted/struct/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/adapted/struct/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/adapted/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/algorithm/transformation/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/container/generation/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/container/list/detail/preprocessed/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/container/list/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/container/list/
+   5.8% src/third_party/boost-1.55.0/boost/fusion/container/vector/detail/preprocessed/
+   0.1% src/third_party/boost-1.55.0/boost/fusion/container/vector/detail/
+   0.1% src/third_party/boost-1.55.0/boost/fusion/container/vector/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/include/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/iterator/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/iterator/mpl/
+   0.1% src/third_party/boost-1.55.0/boost/fusion/iterator/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/mpl/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/comparison/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/comparison/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/intrinsic/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/intrinsic/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/io/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/io/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/sequence/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/support/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/support/
+   3.5% src/third_party/boost-1.55.0/boost/fusion/tuple/detail/preprocessed/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/tuple/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/tuple/
+   0.1% src/third_party/boost-1.55.0/boost/fusion/view/iterator_range/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/view/iterator_range/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/view/joint_view/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/view/joint_view/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/view/single_view/detail/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/view/single_view/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/view/
+   0.0% src/third_party/boost-1.55.0/boost/fusion/
+   0.0% src/third_party/boost-1.55.0/boost/integer/
+   0.1% src/third_party/boost-1.55.0/boost/interprocess/allocators/detail/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/allocators/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/containers/
+   1.2% src/third_party/boost-1.55.0/boost/interprocess/detail/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/indexes/
+   0.1% src/third_party/boost-1.55.0/boost/interprocess/mem_algo/detail/
+   0.2% src/third_party/boost-1.55.0/boost/interprocess/mem_algo/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/smart_ptr/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/streams/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/sync/posix/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/sync/spin/
+   0.0% src/third_party/boost-1.55.0/boost/interprocess/sync/windows/
+   0.1% src/third_party/boost-1.55.0/boost/interprocess/sync/
+   0.6% src/third_party/boost-1.55.0/boost/interprocess/
+   0.6% src/third_party/boost-1.55.0/boost/intrusive/detail/
+   5.1% src/third_party/boost-1.55.0/boost/intrusive/
+   0.0% src/third_party/boost-1.55.0/boost/io/detail/
+   0.0% src/third_party/boost-1.55.0/boost/io/
+   0.0% src/third_party/boost-1.55.0/boost/iterator/detail/
+   0.2% src/third_party/boost-1.55.0/boost/iterator/
+   1.1% src/third_party/boost-1.55.0/boost/lambda/detail/
+   0.0% src/third_party/boost-1.55.0/boost/lambda/
+   0.2% src/third_party/boost-1.55.0/boost/math/constants/
+   0.1% src/third_party/boost-1.55.0/boost/math/distributions/detail/
+   1.0% src/third_party/boost-1.55.0/boost/math/distributions/
+   0.2% src/third_party/boost-1.55.0/boost/math/policies/
+   1.5% src/third_party/boost-1.55.0/boost/math/special_functions/detail/
+   2.9% src/third_party/boost-1.55.0/boost/math/special_functions/
+   3.3% src/third_party/boost-1.55.0/boost/math/tools/detail/
+   0.3% src/third_party/boost-1.55.0/boost/math/tools/
+   0.0% src/third_party/boost-1.55.0/boost/math/
+   0.0% src/third_party/boost-1.55.0/boost/move/detail/
+   0.1% src/third_party/boost-1.55.0/boost/move/
+   0.1% src/third_party/boost-1.55.0/boost/mpl/aux_/config/
+   0.9% src/third_party/boost-1.55.0/boost/mpl/aux_/preprocessed/gcc/
+   1.0% src/third_party/boost-1.55.0/boost/mpl/aux_/preprocessed/no_ctps/
+   0.9% src/third_party/boost-1.55.0/boost/mpl/aux_/preprocessed/no_ttp/
+   0.9% src/third_party/boost-1.55.0/boost/mpl/aux_/preprocessed/plain/
+   0.1% src/third_party/boost-1.55.0/boost/mpl/aux_/preprocessor/
+   0.7% src/third_party/boost-1.55.0/boost/mpl/aux_/
+   0.0% src/third_party/boost-1.55.0/boost/mpl/limits/
+   0.2% src/third_party/boost-1.55.0/boost/mpl/list/aux_/preprocessed/plain/
+   0.0% src/third_party/boost-1.55.0/boost/mpl/list/aux_/
+   0.0% src/third_party/boost-1.55.0/boost/mpl/list/
+   0.0% src/third_party/boost-1.55.0/boost/mpl/set/aux_/
+   0.0% src/third_party/boost-1.55.0/boost/mpl/set/
+   1.5% src/third_party/boost-1.55.0/boost/mpl/vector/aux_/preprocessed/no_ctps/
+   1.2% src/third_party/boost-1.55.0/boost/mpl/vector/aux_/preprocessed/plain/
+   0.2% src/third_party/boost-1.55.0/boost/mpl/vector/aux_/preprocessed/typeof_based/
+   0.1% src/third_party/boost-1.55.0/boost/mpl/vector/aux_/
+   0.0% src/third_party/boost-1.55.0/boost/mpl/vector/
+   0.8% src/third_party/boost-1.55.0/boost/mpl/
+   0.5% src/third_party/boost-1.55.0/boost/multi_index/detail/
+   0.3% src/third_party/boost-1.55.0/boost/multi_index/
+   0.2% src/third_party/boost-1.55.0/boost/numeric/conversion/detail/preprocessed/
+   0.2% src/third_party/boost-1.55.0/boost/numeric/conversion/detail/
+   0.0% src/third_party/boost-1.55.0/boost/numeric/conversion/
+   0.1% src/third_party/boost-1.55.0/boost/optional/
+   0.0% src/third_party/boost-1.55.0/boost/parameter/aux_/
+   0.0% src/third_party/boost-1.55.0/boost/pending/
+   0.0% src/third_party/boost-1.55.0/boost/predef/architecture/x86/
+   0.1% src/third_party/boost-1.55.0/boost/predef/architecture/
+   0.0% src/third_party/boost-1.55.0/boost/predef/detail/
+   0.0% src/third_party/boost-1.55.0/boost/predef/library/c/
+   0.0% src/third_party/boost-1.55.0/boost/predef/os/bsd/
+   0.0% src/third_party/boost-1.55.0/boost/predef/os/
+   0.0% src/third_party/boost-1.55.0/boost/predef/other/
+   0.0% src/third_party/boost-1.55.0/boost/predef/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/arithmetic/detail/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/arithmetic/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/array/
+   0.2% src/third_party/boost-1.55.0/boost/preprocessor/comparison/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/config/
+   0.2% src/third_party/boost-1.55.0/boost/preprocessor/control/detail/dmc/
+   0.2% src/third_party/boost-1.55.0/boost/preprocessor/control/detail/edg/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/control/detail/msvc/
+   0.2% src/third_party/boost-1.55.0/boost/preprocessor/control/detail/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/control/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/debug/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/detail/dmc/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/detail/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/facilities/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/iteration/detail/bounds/
+   2.1% src/third_party/boost-1.55.0/boost/preprocessor/iteration/detail/iter/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/iteration/detail/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/iteration/
+   0.2% src/third_party/boost-1.55.0/boost/preprocessor/list/detail/dmc/
+   0.8% src/third_party/boost-1.55.0/boost/preprocessor/list/detail/edg/
+   0.3% src/third_party/boost-1.55.0/boost/preprocessor/list/detail/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/list/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/logical/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/punctuation/
+   0.3% src/third_party/boost-1.55.0/boost/preprocessor/repetition/detail/dmc/
+   0.2% src/third_party/boost-1.55.0/boost/preprocessor/repetition/detail/edg/
+   0.1% src/third_party/boost-1.55.0/boost/preprocessor/repetition/detail/msvc/
+   0.3% src/third_party/boost-1.55.0/boost/preprocessor/repetition/detail/
+   0.4% src/third_party/boost-1.55.0/boost/preprocessor/repetition/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/seq/detail/
+   1.3% src/third_party/boost-1.55.0/boost/preprocessor/seq/
+   0.3% src/third_party/boost-1.55.0/boost/preprocessor/slot/detail/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/slot/
+   0.5% src/third_party/boost-1.55.0/boost/preprocessor/tuple/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/variadic/
+   0.0% src/third_party/boost-1.55.0/boost/preprocessor/
+   0.1% src/third_party/boost-1.55.0/boost/program_options/detail/
+   0.3% src/third_party/boost-1.55.0/boost/program_options/
+   0.2% src/third_party/boost-1.55.0/boost/random/detail/
+   1.5% src/third_party/boost-1.55.0/boost/random/
+   0.0% src/third_party/boost-1.55.0/boost/range/algorithm/
+   0.0% src/third_party/boost-1.55.0/boost/range/detail/vc6/
+   0.2% src/third_party/boost-1.55.0/boost/range/detail/
+   0.3% src/third_party/boost-1.55.0/boost/range/
+   0.0% src/third_party/boost-1.55.0/boost/ratio/detail/mpl/
+   0.1% src/third_party/boost-1.55.0/boost/ratio/detail/
+   0.0% src/third_party/boost-1.55.0/boost/ratio/mpl/
+   0.2% src/third_party/boost-1.55.0/boost/ratio/
+   0.0% src/third_party/boost-1.55.0/boost/regex/config/
+   0.1% src/third_party/boost-1.55.0/boost/regex/pending/
+   2.6% src/third_party/boost-1.55.0/boost/regex/v4/
+   0.2% src/third_party/boost-1.55.0/boost/regex/
+   0.1% src/third_party/boost-1.55.0/boost/serialization/detail/
+   0.6% src/third_party/boost-1.55.0/boost/serialization/
+   0.6% src/third_party/boost-1.55.0/boost/smart_ptr/detail/
+   0.5% src/third_party/boost-1.55.0/boost/smart_ptr/
+   0.1% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/composite/impl/
+   0.3% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/composite/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/impl/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/non_terminal/impl/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/non_terminal/
+   0.1% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/primitives/impl/
+   0.1% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/primitives/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/scanner/impl/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/scanner/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/core/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/debug/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/meta/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/utility/impl/chset/
+   0.1% src/third_party/boost-1.55.0/boost/spirit/home/classic/utility/impl/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/utility/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/home/classic/
+   0.0% src/third_party/boost-1.55.0/boost/spirit/include/
+   0.1% src/third_party/boost-1.55.0/boost/system/
+   0.0% src/third_party/boost-1.55.0/boost/test/detail/
+   1.0% src/third_party/boost-1.55.0/boost/test/impl/
+   0.0% src/third_party/boost-1.55.0/boost/test/included/
+   0.0% src/third_party/boost-1.55.0/boost/test/output/
+   0.1% src/third_party/boost-1.55.0/boost/test/utils/basic_cstring/
+   0.0% src/third_party/boost-1.55.0/boost/test/utils/iterator/
+   0.0% src/third_party/boost-1.55.0/boost/test/utils/runtime/cla/detail/
+   0.0% src/third_party/boost-1.55.0/boost/test/utils/runtime/cla/iface/
+   0.3% src/third_party/boost-1.55.0/boost/test/utils/runtime/cla/
+   0.0% src/third_party/boost-1.55.0/boost/test/utils/runtime/env/
+   0.0% src/third_party/boost-1.55.0/boost/test/utils/runtime/
+   0.3% src/third_party/boost-1.55.0/boost/test/utils/
+   0.6% src/third_party/boost-1.55.0/boost/test/
+   0.5% src/third_party/boost-1.55.0/boost/thread/detail/
+   0.5% src/third_party/boost-1.55.0/boost/thread/pthread/
+   0.1% src/third_party/boost-1.55.0/boost/thread/v2/
+   0.6% src/third_party/boost-1.55.0/boost/thread/win32/
+   1.5% src/third_party/boost-1.55.0/boost/thread/
+   0.0% src/third_party/boost-1.55.0/boost/timer/
+   0.0% src/third_party/boost-1.55.0/boost/tr1/detail/
+   0.0% src/third_party/boost-1.55.0/boost/tr1/tr1/
+   0.0% src/third_party/boost-1.55.0/boost/tr1/
+   0.2% src/third_party/boost-1.55.0/boost/tuple/detail/
+   0.0% src/third_party/boost-1.55.0/boost/tuple/
+   2.0% src/third_party/boost-1.55.0/boost/type_traits/detail/
+   0.1% src/third_party/boost-1.55.0/boost/type_traits/msvc/
+   1.4% src/third_party/boost-1.55.0/boost/type_traits/
+   0.0% src/third_party/boost-1.55.0/boost/typeof/msvc/
+   1.1% src/third_party/boost-1.55.0/boost/typeof/
+   0.6% src/third_party/boost-1.55.0/boost/unordered/detail/
+   0.4% src/third_party/boost-1.55.0/boost/unordered/
+   0.0% src/third_party/boost-1.55.0/boost/utility/detail/
+   0.4% src/third_party/boost-1.55.0/boost/utility/
+   2.1% src/third_party/boost-1.55.0/boost/
+   0.0% src/third_party/boost-1.55.0/libs/atomic/src/
+   0.0% src/third_party/boost-1.55.0/libs/bind/
+   0.0% src/third_party/boost-1.55.0/libs/chrono/src/
+   0.1% src/third_party/boost-1.55.0/libs/date_time/data/
+   0.0% src/third_party/boost-1.55.0/libs/date_time/src/gregorian/
+   0.0% src/third_party/boost-1.55.0/libs/date_time/src/posix_time/
+   0.0% src/third_party/boost-1.55.0/libs/exception/src/
+   0.5% src/third_party/boost-1.55.0/libs/filesystem/src/
+   0.4% src/third_party/boost-1.55.0/libs/program_options/src/
+   0.0% src/third_party/boost-1.55.0/libs/random/src/
+   0.6% src/third_party/boost-1.55.0/libs/regex/src/
+   0.5% src/third_party/boost-1.55.0/libs/serialization/src/
+   0.0% src/third_party/boost-1.55.0/libs/smart_ptr/src/
+   0.0% src/third_party/boost-1.55.0/libs/system/src/
+   0.1% src/third_party/boost-1.55.0/libs/thread/src/pthread/
+   0.1% src/third_party/boost-1.55.0/libs/thread/src/win32/
+   0.0% src/third_party/boost-1.55.0/libs/thread/src/
+   0.0% src/third_party/boost-1.55.0/libs/timer/src/
+   0.0% src/third_party/boost-1.55.0/
+
+9998efd1b20de152ae098f69714e1578ae92a5ca
+
+ 100.0% src/third_party/boost-1.56.0/boost/
+
+2d5d662a834fab72ee1431e3bb0a5ed5a0826177
+
+   1.4% src/mongo/db/repl/
+  16.2% src/mongo/db/storage/mmap_v1/
+   5.5% src/mongo/db/storage/
+   1.1% src/mongo/shell/
+  17.6% src/mongo/stdx/
+
+351523db3169a6c5e2df96f83eacea31978bea3d
+
+  93.0% src/third_party/boost-1.56.0/
+
+0d1d5016b57c59817fa0619e5cf4c6df046b28c3
+
+   0.0% src/third_party/boost-1.56.0/boost/accumulators/framework/accumulators/
+   0.0% src/third_party/boost-1.56.0/boost/accumulators/framework/parameters/
+   0.1% src/third_party/boost-1.56.0/boost/accumulators/framework/
+   0.0% src/third_party/boost-1.56.0/boost/accumulators/numeric/detail/
+   0.1% src/third_party/boost-1.56.0/boost/accumulators/numeric/functional/
+   0.1% src/third_party/boost-1.56.0/boost/accumulators/numeric/
+   0.0% src/third_party/boost-1.56.0/boost/accumulators/statistics/
+   0.0% src/third_party/boost-1.56.0/boost/accumulators/
+   0.1% src/third_party/boost-1.56.0/boost/algorithm/cxx11/
+   0.0% src/third_party/boost-1.56.0/boost/algorithm/cxx14/
+   0.0% src/third_party/boost-1.56.0/boost/algorithm/searching/detail/
+   0.1% src/third_party/boost-1.56.0/boost/algorithm/searching/
+   0.3% src/third_party/boost-1.56.0/boost/algorithm/string/detail/
+   0.0% src/third_party/boost-1.56.0/boost/algorithm/string/std/
+   0.8% src/third_party/boost-1.56.0/boost/algorithm/string/
+   0.1% src/third_party/boost-1.56.0/boost/algorithm/
+   0.0% src/third_party/boost-1.56.0/boost/align/detail/
+   0.0% src/third_party/boost-1.56.0/boost/align/
+   0.3% src/third_party/boost-1.56.0/boost/archive/detail/
+   0.2% src/third_party/boost-1.56.0/boost/archive/impl/
+   0.1% src/third_party/boost-1.56.0/boost/archive/iterators/
+   0.4% src/third_party/boost-1.56.0/boost/archive/
+   1.3% src/third_party/boost-1.56.0/boost/asio/detail/impl/
+   2.4% src/third_party/boost-1.56.0/boost/asio/detail/
+   0.0% src/third_party/boost-1.56.0/boost/asio/generic/detail/impl/
+   0.0% src/third_party/boost-1.56.0/boost/asio/generic/detail/
+   0.0% src/third_party/boost-1.56.0/boost/asio/generic/
+   0.7% src/third_party/boost-1.56.0/boost/asio/impl/
+   0.0% src/third_party/boost-1.56.0/boost/asio/ip/detail/impl/
+   0.0% src/third_party/boost-1.56.0/boost/asio/ip/detail/
+   0.0% src/third_party/boost-1.56.0/boost/asio/ip/impl/
+   0.2% src/third_party/boost-1.56.0/boost/asio/ip/
+   0.0% src/third_party/boost-1.56.0/boost/asio/local/detail/impl/
+   0.0% src/third_party/boost-1.56.0/boost/asio/local/detail/
+   0.0% src/third_party/boost-1.56.0/boost/asio/local/
+   0.1% src/third_party/boost-1.56.0/boost/asio/posix/
+   0.0% src/third_party/boost-1.56.0/boost/asio/ssl/detail/impl/
+   0.1% src/third_party/boost-1.56.0/boost/asio/ssl/detail/
+   0.1% src/third_party/boost-1.56.0/boost/asio/ssl/impl/
+   0.1% src/third_party/boost-1.56.0/boost/asio/ssl/old/detail/
+   0.1% src/third_party/boost-1.56.0/boost/asio/ssl/old/
+   0.2% src/third_party/boost-1.56.0/boost/asio/ssl/
+   0.2% src/third_party/boost-1.56.0/boost/asio/windows/
+   2.8% src/third_party/boost-1.56.0/boost/asio/
+   0.0% src/third_party/boost-1.56.0/boost/assign/
+   1.1% src/third_party/boost-1.56.0/boost/atomic/detail/
+   0.0% src/third_party/boost-1.56.0/boost/atomic/
+   0.6% src/third_party/boost-1.56.0/boost/bind/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/detail/inlined/mac/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/detail/inlined/posix/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/detail/inlined/win/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/detail/inlined/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/detail/no_warning/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/detail/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/io/utility/
+   0.5% src/third_party/boost-1.56.0/boost/chrono/io/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/io_v1/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/typeof/boost/chrono/
+   0.0% src/third_party/boost-1.56.0/boost/chrono/typeof/boost/
+   0.2% src/third_party/boost-1.56.0/boost/chrono/
+   0.0% src/third_party/boost-1.56.0/boost/concept/detail/
+   0.0% src/third_party/boost-1.56.0/boost/concept/
+   0.0% src/third_party/boost-1.56.0/boost/config/abi/
+   0.3% src/third_party/boost-1.56.0/boost/config/compiler/
+   0.0% src/third_party/boost-1.56.0/boost/config/no_tr1/
+   0.1% src/third_party/boost-1.56.0/boost/config/platform/
+   0.1% src/third_party/boost-1.56.0/boost/config/stdlib/
+   0.2% src/third_party/boost-1.56.0/boost/config/
+   1.2% src/third_party/boost-1.56.0/boost/container/detail/
+   3.1% src/third_party/boost-1.56.0/boost/container/
+   0.0% src/third_party/boost-1.56.0/boost/context/detail/
+   0.0% src/third_party/boost-1.56.0/boost/context/
+   0.1% src/third_party/boost-1.56.0/boost/core/
+   0.4% src/third_party/boost-1.56.0/boost/coroutine/detail/
+   0.0% src/third_party/boost-1.56.0/boost/coroutine/posix/
+   0.0% src/third_party/boost-1.56.0/boost/coroutine/windows/
+   0.3% src/third_party/boost-1.56.0/boost/coroutine/
+   0.3% src/third_party/boost-1.56.0/boost/date_time/gregorian/
+   0.2% src/third_party/boost-1.56.0/boost/date_time/local_time/
+   0.2% src/third_party/boost-1.56.0/boost/date_time/posix_time/
+   1.5% src/third_party/boost-1.56.0/boost/date_time/
+   0.0% src/third_party/boost-1.56.0/boost/detail/winapi/
+   0.4% src/third_party/boost-1.56.0/boost/detail/
+   0.0% src/third_party/boost-1.56.0/boost/exception/detail/
+   0.1% src/third_party/boost-1.56.0/boost/exception/
+   0.0% src/third_party/boost-1.56.0/boost/filesystem/detail/
+   0.3% src/third_party/boost-1.56.0/boost/filesystem/
+   0.0% src/third_party/boost-1.56.0/boost/format/detail/
+   0.3% src/third_party/boost-1.56.0/boost/format/
+   0.0% src/third_party/boost-1.56.0/boost/function/detail/
+   0.2% src/third_party/boost-1.56.0/boost/function/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/config/
+   0.2% src/third_party/boost-1.56.0/boost/function_types/detail/classifier_impl/
+   0.4% src/third_party/boost-1.56.0/boost/function_types/detail/components_impl/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/detail/encoding/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/detail/pp_cc_loop/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/detail/pp_retag_default_cc/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/detail/pp_tags/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/detail/pp_variate_loop/
+   1.2% src/third_party/boost-1.56.0/boost/function_types/detail/synthesize_impl/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/detail/
+   0.0% src/third_party/boost-1.56.0/boost/function_types/
+   0.0% src/third_party/boost-1.56.0/boost/functional/hash/detail/
+   0.0% src/third_party/boost-1.56.0/boost/functional/hash/
+   0.0% src/third_party/boost-1.56.0/boost/functional/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/adapted/mpl/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/adapted/mpl/
+   0.1% src/third_party/boost-1.56.0/boost/fusion/adapted/struct/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/adapted/struct/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/adapted/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/algorithm/iteration/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/algorithm/iteration/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/algorithm/query/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/algorithm/query/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/algorithm/transformation/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/deque/detail/cpp03/preprocessed/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/deque/detail/cpp03/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/deque/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/generation/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/list/detail/preprocessed/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/list/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/list/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/map/detail/cpp03/preprocessed/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/map/detail/cpp03/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/map/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/map/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/set/detail/preprocessed/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/container/set/
+   6.6% src/third_party/boost-1.56.0/boost/fusion/container/vector/detail/preprocessed/
+   0.1% src/third_party/boost-1.56.0/boost/fusion/container/vector/detail/
+   0.1% src/third_party/boost-1.56.0/boost/fusion/container/vector/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/include/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/iterator/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/iterator/mpl/
+   0.1% src/third_party/boost-1.56.0/boost/fusion/iterator/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/mpl/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/mpl/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/comparison/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/comparison/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/intrinsic/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/intrinsic/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/io/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/io/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/sequence/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/support/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/support/
+   2.9% src/third_party/boost-1.56.0/boost/fusion/tuple/detail/preprocessed/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/tuple/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/tuple/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/filter_view/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/filter_view/
+   0.1% src/third_party/boost-1.56.0/boost/fusion/view/iterator_range/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/iterator_range/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/joint_view/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/joint_view/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/single_view/detail/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/single_view/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/view/
+   0.0% src/third_party/boost-1.56.0/boost/fusion/
+   0.0% src/third_party/boost-1.56.0/boost/integer/
+   0.1% src/third_party/boost-1.56.0/boost/interprocess/allocators/detail/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/allocators/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/containers/
+   1.0% src/third_party/boost-1.56.0/boost/interprocess/detail/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/indexes/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/mem_algo/detail/
+   0.1% src/third_party/boost-1.56.0/boost/interprocess/mem_algo/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/smart_ptr/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/streams/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/sync/detail/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/sync/posix/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/sync/spin/
+   0.0% src/third_party/boost-1.56.0/boost/interprocess/sync/windows/
+   0.1% src/third_party/boost-1.56.0/boost/interprocess/sync/
+   0.5% src/third_party/boost-1.56.0/boost/interprocess/
+   0.5% src/third_party/boost-1.56.0/boost/intrusive/detail/
+   4.2% src/third_party/boost-1.56.0/boost/intrusive/
+   0.0% src/third_party/boost-1.56.0/boost/io/detail/
+   0.0% src/third_party/boost-1.56.0/boost/io/
+   0.0% src/third_party/boost-1.56.0/boost/iterator/detail/
+   0.2% src/third_party/boost-1.56.0/boost/iterator/
+   0.8% src/third_party/boost-1.56.0/boost/lambda/detail/
+   0.0% src/third_party/boost-1.56.0/boost/lambda/
+   0.0% src/third_party/boost-1.56.0/boost/logic/
+   0.1% src/third_party/boost-1.56.0/boost/math/constants/
+   0.0% src/third_party/boost-1.56.0/boost/math/cstdfloat/
+   0.0% src/third_party/boost-1.56.0/boost/math/distributions/detail/
+   0.9% src/third_party/boost-1.56.0/boost/math/distributions/
+   0.2% src/third_party/boost-1.56.0/boost/math/policies/
+   1.1% src/third_party/boost-1.56.0/boost/math/special_functions/detail/
+   1.3% src/third_party/boost-1.56.0/boost/math/special_functions/
+   2.7% src/third_party/boost-1.56.0/boost/math/tools/detail/
+   0.3% src/third_party/boost-1.56.0/boost/math/tools/
+   0.0% src/third_party/boost-1.56.0/boost/math/
+   0.0% src/third_party/boost-1.56.0/boost/move/detail/
+   0.1% src/third_party/boost-1.56.0/boost/move/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/aux_/config/
+   0.7% src/third_party/boost-1.56.0/boost/mpl/aux_/preprocessed/gcc/
+   0.8% src/third_party/boost-1.56.0/boost/mpl/aux_/preprocessed/no_ctps/
+   0.7% src/third_party/boost-1.56.0/boost/mpl/aux_/preprocessed/no_ttp/
+   0.7% src/third_party/boost-1.56.0/boost/mpl/aux_/preprocessed/plain/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/aux_/preprocessor/
+   0.6% src/third_party/boost-1.56.0/boost/mpl/aux_/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/limits/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/list/aux_/preprocessed/plain/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/list/aux_/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/list/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/map/aux_/preprocessed/no_ctps/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/map/aux_/preprocessed/plain/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/map/aux_/preprocessed/typeof_based/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/map/aux_/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/map/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/set/aux_/preprocessed/plain/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/set/aux_/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/set/
+   1.2% src/third_party/boost-1.56.0/boost/mpl/vector/aux_/preprocessed/no_ctps/
+   1.0% src/third_party/boost-1.56.0/boost/mpl/vector/aux_/preprocessed/plain/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/vector/aux_/preprocessed/typeof_based/
+   0.1% src/third_party/boost-1.56.0/boost/mpl/vector/aux_/
+   0.0% src/third_party/boost-1.56.0/boost/mpl/vector/
+   0.7% src/third_party/boost-1.56.0/boost/mpl/
+   0.5% src/third_party/boost-1.56.0/boost/multi_index/detail/
+   0.3% src/third_party/boost-1.56.0/boost/multi_index/
+   0.1% src/third_party/boost-1.56.0/boost/numeric/conversion/detail/preprocessed/
+   0.2% src/third_party/boost-1.56.0/boost/numeric/conversion/detail/
+   0.0% src/third_party/boost-1.56.0/boost/numeric/conversion/
+   0.1% src/third_party/boost-1.56.0/boost/optional/
+   0.1% src/third_party/boost-1.56.0/boost/parameter/aux_/
+   0.1% src/third_party/boost-1.56.0/boost/parameter/
+   0.0% src/third_party/boost-1.56.0/boost/pending/
+   0.0% src/third_party/boost-1.56.0/boost/predef/architecture/x86/
+   0.0% src/third_party/boost-1.56.0/boost/predef/architecture/
+   0.1% src/third_party/boost-1.56.0/boost/predef/compiler/
+   0.0% src/third_party/boost-1.56.0/boost/predef/detail/
+   0.0% src/third_party/boost-1.56.0/boost/predef/language/
+   0.0% src/third_party/boost-1.56.0/boost/predef/library/c/
+   0.0% src/third_party/boost-1.56.0/boost/predef/library/std/
+   0.0% src/third_party/boost-1.56.0/boost/predef/library/
+   0.0% src/third_party/boost-1.56.0/boost/predef/os/bsd/
+   0.0% src/third_party/boost-1.56.0/boost/predef/os/
+   0.0% src/third_party/boost-1.56.0/boost/predef/other/
+   0.0% src/third_party/boost-1.56.0/boost/predef/platform/
+   0.0% src/third_party/boost-1.56.0/boost/predef/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/arithmetic/detail/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/arithmetic/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/array/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/comparison/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/config/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/control/detail/dmc/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/control/detail/edg/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/control/detail/msvc/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/control/detail/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/control/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/debug/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/detail/dmc/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/detail/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/facilities/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/iteration/detail/bounds/
+   1.7% src/third_party/boost-1.56.0/boost/preprocessor/iteration/detail/iter/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/iteration/detail/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/iteration/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/list/detail/dmc/
+   0.6% src/third_party/boost-1.56.0/boost/preprocessor/list/detail/edg/
+   0.3% src/third_party/boost-1.56.0/boost/preprocessor/list/detail/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/list/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/logical/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/punctuation/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/repetition/detail/dmc/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/repetition/detail/edg/
+   0.1% src/third_party/boost-1.56.0/boost/preprocessor/repetition/detail/msvc/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/repetition/detail/
+   0.3% src/third_party/boost-1.56.0/boost/preprocessor/repetition/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/seq/detail/
+   1.0% src/third_party/boost-1.56.0/boost/preprocessor/seq/
+   0.2% src/third_party/boost-1.56.0/boost/preprocessor/slot/detail/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/slot/
+   0.4% src/third_party/boost-1.56.0/boost/preprocessor/tuple/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/variadic/
+   0.0% src/third_party/boost-1.56.0/boost/preprocessor/
+   0.0% src/third_party/boost-1.56.0/boost/program_options/detail/
+   0.2% src/third_party/boost-1.56.0/boost/program_options/
+   0.1% src/third_party/boost-1.56.0/boost/random/detail/
+   1.3% src/third_party/boost-1.56.0/boost/random/
+   0.0% src/third_party/boost-1.56.0/boost/range/algorithm/
+   0.1% src/third_party/boost-1.56.0/boost/range/detail/
+   0.3% src/third_party/boost-1.56.0/boost/range/
+   0.0% src/third_party/boost-1.56.0/boost/ratio/detail/mpl/
+   0.1% src/third_party/boost-1.56.0/boost/ratio/detail/
+   0.0% src/third_party/boost-1.56.0/boost/ratio/mpl/
+   0.1% src/third_party/boost-1.56.0/boost/ratio/
+   0.0% src/third_party/boost-1.56.0/boost/regex/config/
+   0.1% src/third_party/boost-1.56.0/boost/regex/pending/
+   2.1% src/third_party/boost-1.56.0/boost/regex/v4/
+   0.1% src/third_party/boost-1.56.0/boost/regex/
+   0.0% src/third_party/boost-1.56.0/boost/serialization/detail/
+   0.5% src/third_party/boost-1.56.0/boost/serialization/
+   0.5% src/third_party/boost-1.56.0/boost/smart_ptr/detail/
+   0.4% src/third_party/boost-1.56.0/boost/smart_ptr/
+   0.1% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/composite/impl/
+   0.2% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/composite/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/impl/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/non_terminal/impl/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/non_terminal/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/primitives/impl/
+   0.1% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/primitives/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/scanner/impl/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/scanner/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/core/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/debug/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/meta/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/utility/impl/chset/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/utility/impl/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/utility/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/home/classic/
+   0.0% src/third_party/boost-1.56.0/boost/spirit/include/
+   0.0% src/third_party/boost-1.56.0/boost/system/detail/
+   0.0% src/third_party/boost-1.56.0/boost/system/
+   0.0% src/third_party/boost-1.56.0/boost/test/detail/
+   0.8% src/third_party/boost-1.56.0/boost/test/impl/
+   0.0% src/third_party/boost-1.56.0/boost/test/included/
+   0.0% src/third_party/boost-1.56.0/boost/test/output/
+   0.1% src/third_party/boost-1.56.0/boost/test/utils/basic_cstring/
+   0.0% src/third_party/boost-1.56.0/boost/test/utils/iterator/
+   0.0% src/third_party/boost-1.56.0/boost/test/utils/runtime/cla/detail/
+   0.0% src/third_party/boost-1.56.0/boost/test/utils/runtime/cla/iface/
+   0.2% src/third_party/boost-1.56.0/boost/test/utils/runtime/cla/
+   0.0% src/third_party/boost-1.56.0/boost/test/utils/runtime/env/
+   0.0% src/third_party/boost-1.56.0/boost/test/utils/runtime/
+   0.2% src/third_party/boost-1.56.0/boost/test/utils/
+   0.5% src/third_party/boost-1.56.0/boost/test/
+   0.0% src/third_party/boost-1.56.0/boost/thread/csbl/memory/
+   0.0% src/third_party/boost-1.56.0/boost/thread/csbl/
+   0.5% src/third_party/boost-1.56.0/boost/thread/detail/
+   0.1% src/third_party/boost-1.56.0/boost/thread/executors/
+   0.4% src/third_party/boost-1.56.0/boost/thread/pthread/
+   0.1% src/third_party/boost-1.56.0/boost/thread/v2/
+   0.5% src/third_party/boost-1.56.0/boost/thread/win32/
+   1.4% src/third_party/boost-1.56.0/boost/thread/
+   0.0% src/third_party/boost-1.56.0/boost/timer/
+   0.0% src/third_party/boost-1.56.0/boost/tr1/detail/
+   0.0% src/third_party/boost-1.56.0/boost/tr1/tr1/
+   0.1% src/third_party/boost-1.56.0/boost/tti/detail/
+   0.0% src/third_party/boost-1.56.0/boost/tti/gen/
+   0.1% src/third_party/boost-1.56.0/boost/tti/
+   0.1% src/third_party/boost-1.56.0/boost/tuple/detail/
+   0.0% src/third_party/boost-1.56.0/boost/tuple/
+   1.2% src/third_party/boost-1.56.0/boost/type_traits/detail/
+   1.0% src/third_party/boost-1.56.0/boost/type_traits/
+   0.0% src/third_party/boost-1.56.0/boost/typeof/msvc/
+   0.0% src/third_party/boost-1.56.0/boost/typeof/std/
+   0.9% src/third_party/boost-1.56.0/boost/typeof/
+   0.5% src/third_party/boost-1.56.0/boost/unordered/detail/
+   0.3% src/third_party/boost-1.56.0/boost/unordered/
+   0.0% src/third_party/boost-1.56.0/boost/utility/detail/
+   0.3% src/third_party/boost-1.56.0/boost/utility/
+   1.7% src/third_party/boost-1.56.0/boost/
+   0.0% src/third_party/boost-1.56.0/libs/atomic/src/
+   0.0% src/third_party/boost-1.56.0/libs/bind/
+   0.0% src/third_party/boost-1.56.0/libs/chrono/meta/
+   0.0% src/third_party/boost-1.56.0/libs/chrono/src/
+   0.0% src/third_party/boost-1.56.0/libs/chrono/stopwatches/include/boost/chrono/stopwatches/collectors/
+   0.0% src/third_party/boost-1.56.0/libs/chrono/stopwatches/include/boost/chrono/stopwatches/formatters/
+   0.0% src/third_party/boost-1.56.0/libs/chrono/stopwatches/include/boost/chrono/stopwatches/reporters/
+   0.1% src/third_party/boost-1.56.0/libs/chrono/stopwatches/include/boost/chrono/stopwatches/
+   0.0% src/third_party/boost-1.56.0/libs/chrono/stopwatches/include/boost/chrono/
+   0.9% src/third_party/boost-1.56.0/libs/container/src/
+   0.0% src/third_party/boost-1.56.0/libs/coroutine/src/detail/
+   0.0% src/third_party/boost-1.56.0/libs/coroutine/src/posix/
+   0.0% src/third_party/boost-1.56.0/libs/coroutine/src/windows/
+   0.0% src/third_party/boost-1.56.0/libs/coroutine/src/
+   0.1% src/third_party/boost-1.56.0/libs/date_time/data/
+   0.0% src/third_party/boost-1.56.0/libs/date_time/src/gregorian/
+   0.0% src/third_party/boost-1.56.0/libs/date_time/src/posix_time/
+   0.0% src/third_party/boost-1.56.0/libs/exception/src/
+   0.4% src/third_party/boost-1.56.0/libs/filesystem/src/
+   0.3% src/third_party/boost-1.56.0/libs/program_options/src/
+   0.0% src/third_party/boost-1.56.0/libs/random/src/
+   0.5% src/third_party/boost-1.56.0/libs/regex/src/
+   0.4% src/third_party/boost-1.56.0/libs/serialization/src/
+   0.0% src/third_party/boost-1.56.0/libs/smart_ptr/src/
+   0.0% src/third_party/boost-1.56.0/libs/system/src/
+   0.0% src/third_party/boost-1.56.0/libs/test/src/
+   0.1% src/third_party/boost-1.56.0/libs/thread/src/pthread/
+   0.1% src/third_party/boost-1.56.0/libs/thread/src/win32/
+   0.0% src/third_party/boost-1.56.0/libs/thread/src/
+   0.0% src/third_party/boost-1.56.0/libs/timer/src/
+   0.5% src/third_party/boost-1.56.0/libs/utility/
+
+4df93459d69b1536340047f9693f66763e001343
+
+ 100.0% src/mongo/db/
+
+488e855b797f1a61d6a5e08f812f85fcb2f03a51
+
+  16.5% src/mongo/db/
+  15.7% src/mongo/s/
+  67.7% src/mongo/util/
+
+35f827aef4ddfcf9acb9e4b90cb200ff29183b7c
+
+ 100.0% buildscripts/
+Author:Mathias Stearn,
+5486963a3549b69190a2e3adc584db312111abaf
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+87702f82174828817ce7128abd0a5df65ec6abd5
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+a4bb7f82119a113eba450d82be7b7aad89886562
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+b6a90b9ac8045665e5ba9024842493b1dce10fc7
+
+  14.9% src/mongo/db/storage/mmap_v1/catalog/
+  85.0% src/mongo/db/storage/mmap_v1/
+
+d2a83bba7da59ec601ec37617ce0d7ea7e2b79ac
+
+ 100.0% src/mongo/db/
+
+a464e00424995fcc696750d84b931f466b656911
+
+  46.4% src/mongo/db/storage/mmap_v1/
+  15.0% src/mongo/db/storage/
+  38.4% src/mongo/db/
+
+90d025ab9387d08cbb6b2bf369358653ae8977be
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+f055e0f661c44b4f73d0b901cbf1dc0de0d303db
+
+ 100.0% src/mongo/dbtests/
+
+3a0cd3faae366127d1a8f2099bdcd902bc18d0a1
+
+   6.3% src/mongo/db/catalog/
+   0.9% src/mongo/db/commands/
+   0.5% src/mongo/db/storage/heap1/
+  88.5% src/mongo/db/storage/mmap_v1/
+   2.0% src/mongo/db/storage/rocks/
+   1.5% src/mongo/db/storage/
+
+c2288ce0733566fc3717479beed2ace68d6111a1
+
+ 100.0% src/mongo/util/
+
+11abe6693bf9cd070ae8ac050396212f73397956
+
+  82.5% src/mongo/db/
+  17.4% src/mongo/scripting/
+
+562c8cb3faff5e9fc0acdc45db8dc2d498eb2000
+
+  14.9% src/mongo/db/catalog/
+  11.7% src/mongo/db/commands/
+   5.1% src/mongo/db/exec/
+  13.2% src/mongo/db/repl/
+  39.1% src/mongo/db/storage/mmap_v1/
+   2.6% src/mongo/db/
+  13.1% src/mongo/dbtests/
+
+081f11c248433f74806b7508555b212bc4ff0164
+
+   2.2% jstests/replsets/
+   9.4% src/mongo/db/commands/write_commands/
+   6.6% src/mongo/db/commands/
+  39.7% src/mongo/db/
+  41.8% src/mongo/s/
+
+4cec893ff09f7688c934c5b9a5792bf1c370974d
+
+   4.2% src/mongo/client/
+   4.2% src/mongo/db/commands/
+  42.0% src/mongo/db/
+   8.4% src/mongo/s/
+   4.8% src/mongo/shell/
+  10.2% src/mongo/unittest/
+  25.8% src/mongo/util/
+
+4f379f1c6689481b74d3672effdc7cd81a5f5d9a
+
+  28.8% jstests/core/
+  20.3% src/mongo/db/catalog/
+  13.7% src/mongo/db/index/
+   9.6% src/mongo/dbtests/
+  27.3% src/mongo/shell/
+
+e33a6c57607871f1b204bd5e1d8ea4a14ad06452
+
+   2.9% src/mongo/db/catalog/
+   1.6% src/mongo/db/commands/write_commands/
+  13.9% src/mongo/db/commands/
+   2.0% src/mongo/db/exec/
+   1.1% src/mongo/db/index/
+   6.5% src/mongo/db/repl/
+   2.0% src/mongo/db/storage/mmap_v1/
+  34.9% src/mongo/db/storage/rocks/
+   1.9% src/mongo/db/storage/
+  18.1% src/mongo/db/
+  13.8% src/mongo/dbtests/
+   0.6% src/mongo/s/
+
+00913e47de5aced5267e44e82ac9e976bbaac089
+
+   1.1% jstests/core/
+   2.5% jstests/gle/core/
+   1.6% jstests/repl/
+  34.8% src/mongo/db/catalog/
+   1.0% src/mongo/db/commands/write_commands/
+  19.8% src/mongo/db/commands/
+   2.4% src/mongo/db/index/
+   1.2% src/mongo/db/repl/
+   0.4% src/mongo/db/storage/heap1/
+   1.7% src/mongo/db/storage/mmap_v1/btree/
+   1.6% src/mongo/db/storage/mmap_v1/
+   0.0% src/mongo/db/storage/rocks/
+   0.6% src/mongo/db/storage/
+  20.7% src/mongo/db/
+   7.4% src/mongo/dbtests/
+   2.5% src/mongo/s/
+Author:matt dannenberg,
+966a1078a716694fd7e58892441546e7b1f5ce6b
+
+ 100.0% src/mongo/db/repl/
+
+29184d73866ba86a3893ae559a12da0d10de51fe
+
+ 100.0% src/mongo/db/repl/
+
+32643343be6e0100a887dae4a44d33f710dfd086
+
+ 100.0% src/mongo/db/repl/
+
+ec34e244f6e12780eba72fe83b3d21b08c1355aa
+
+ 100.0% src/mongo/db/repl/
+
+7cc768b403b9bec0c26afe9ad3c56034b6638961
+
+ 100.0% jstests/replsets/
+
+492d97468b1121228f208489a645759b390f023e
+
+ 100.0% jstests/slow2/
+
+f8097fb0f8c4c52bbf117e5d5aaa16f9008937c1
+
+ 100.0% src/mongo/db/repl/
+
+ba26e58774f11d1ca8ef234af461f601f75d4c0a
+
+ 100.0% src/mongo/db/repl/
+
+2a90d1e20230800f8dc5a01ea066873354fcd938
+
+ 100.0% jstests/replsets/
+
+796797ddf9bb6355bc7e2ffef52c7baaf9398c4c
+
+  15.1% src/mongo/bson/util/
+  84.8% src/mongo/db/repl/
+
+87fbf90ba0096550a32f6f9967f5daa44398e8c6
+
+  96.1% src/mongo/db/repl/
+   3.8% src/mongo/db/
+Author:Matt Kangas,
+f7d36a2f36f0239806b173f02f2ce8c5d4c453df
+
+ 100.0% buildscripts/
+
+2bf24b1bd81ee6739acbe088455db26a2cdb0cb5
+
+  91.0% buildscripts/
+   8.9% src/mongo/
+
+09a639ccacd8ead858beb34dad32b4348cf2d030
+
+ 100.0% src/mongo/shell/
+
+37ce554db0dacb275db937572d17b37acc10adf0
+
+ 100.0% src/mongo/db/
+Author:melissaosullivan,
+ff1c6fd66530866cd04e2a8e40e368b9f565ee34
+
+  29.2% src/mongo/db/commands/
+  70.7% src/mongo/util/net/
+
+1b1842be9b0b4500eb00b110841eaed41003b742
+
+ 100.0% jstests/ssl/
+Author:Mike MacCana,
+1663f45b4e33e058a0203a81f50574a870882c34
+
+ 100.0% rpm/
+Author:mike o'brien,
+afbdd2b7f5944b57d5fd1f597f67aa32883043ba
+
+ 100.0% src/mongo/db/storage/heap1/
+
+e1f14a9387f4a0e96039eb7cd1cb1273bac3e86a
+
+  27.7% buildscripts/
+  69.1% src/mongo/util/
+   2.2% src/mongo/
+
+2b711b7f65b5fc0faea088ae7040029afbec22dc
+
+   1.1% src/mongo/bson/
+  97.6% src/mongo/db/repl/
+   1.1% src/mongo/util/
+Author:Randolph Tan,
+2d9013370b27c86a253cefd1f99f828d18484fc5
+
+   0.1% src/mongo/db/commands/write_commands/
+   0.5% src/mongo/db/commands/
+   0.2% src/mongo/db/exec/
+   0.1% src/mongo/db/ops/
+   0.2% src/mongo/db/pipeline/
+   0.2% src/mongo/db/query/
+   0.2% src/mongo/db/repl/
+   0.6% src/mongo/db/
+   0.1% src/mongo/dbtests/
+  96.6% src/mongo/s/
+   0.2% src/mongo/scripting/
+   0.2% src/mongo/
+
+8b96732280e4a4ea445d564e051318e2a6dafca5
+
+   7.2% src/mongo/db/
+  92.6% src/mongo/s/
+   0.1% src/mongo/
+
+18dba6ed5bbe0d0177a81cbe660dcd93fcf18109
+
+ 100.0% src/mongo/client/
+
+ee60916e5f79471304e8fd15d6c5e9faa2e1a149
+
+ 100.0% src/mongo/s/
+
+a28db8f1c7d86ebb0eed1680ec3e2b4db7a57c4e
+
+   1.4% jstests/sharding/
+  30.3% src/mongo/dbtests/
+  68.1% src/mongo/s/
+
+f59224f64a5d48e7abf69cf681c33319a162b82f
+
+  99.6% jstests/multiVersion/
+   0.3% src/mongo/shell/
+
+144aa2a423424ba2da0b0c16ca91dcbbf6dfbf70
+
+   4.2% jstests/noPassthroughWithMongod/
+  34.8% jstests/sharding/
+  60.8% src/mongo/shell/
+
+fe11098d32f0e002349fd2513834f6c8928fe550
+
+   8.8% src/mongo/db/exec/
+  35.5% src/mongo/db/ops/
+  13.6% src/mongo/db/query/
+  42.0% src/mongo/s/
+
+8aa630d79699ff72fcb47e381c4caf318161f01e
+
+   3.4% src/mongo/db/commands/
+  77.2% src/mongo/db/
+  19.2% src/mongo/s/
+
+39d5795eab4da921e2c813b3c99ae52a0d913f6b
+
+  72.8% jstests/sharding/
+  27.1% src/mongo/s/
+
+0ea8cf462b48a1aeefb10fd4bba0b1e93b0e661e
+
+  53.2% src/mongo/db/
+  23.3% src/mongo/s/
+  23.3% src/mongo/util/
+
+8fab360707f1a88efd821a7b7981ca972a9cad35
+
+ 100.0% src/mongo/s/write_ops/
+
+e97e4f04874a10a3d427a23eb3de4f97234b8c89
+
+ 100.0% src/mongo/s/
+
+50601136fc8b9399a1832b84396e74e7bc9011c5
+
+ 100.0% src/mongo/s/
+
+9d1e5f95a2739a7672b697deb7d1da04ca8c4117
+
+  14.5% jstests/sharding/
+  84.0% src/mongo/s/
+   1.3% src/mongo/
+
+c30b981260e26dfeff315b766e2887d4f7404f89
+
+   0.4% src/mongo/base/
+  99.5% src/mongo/s/
+
+b3787777795434829a3b512c06b5a0a508d81467
+
+ 100.0% src/mongo/s/
+
+82dfdf0e635bd096e5f12180b550f9899b272692
+
+   1.5% jstests/noPassthroughWithMongod/
+  18.0% jstests/sharding/
+  80.0% src/mongo/s/
+   0.2% src/mongo/
+
+d1ea3910fc9acd03a4964a66ff9b27ef1112a5c5
+
+ 100.0% jstests/sharding/
+
+94d9e73102a3e7b623d57635573066fcb5b0be97
+
+  16.2% jstests/sharding/
+  83.7% src/mongo/s/
+
+b6f7a03697f160c965b467e8962f7f29934935c4
+
+  57.6% jstests/sharding/
+  42.3% src/mongo/s/
+Author:Sam Zaydel,
+8f9c2e19ae3131e1aebb64d8ab46ac9bb4a5eae3
+
+ 100.0% src/mongo/db/
+Author:Scott Hernandez,
+d720d0f759aa3183e5f5677abfbd009e578d31b8
+
+ 100.0% src/mongo/db/repl/
+
+13742a5b310a238fc1bf639b130202d5262ec443
+
+ 100.0% src/mongo/db/repl/
+
+60130db1dd4bf08138200041fa0403b2e2d90b9c
+
+ 100.0% src/mongo/db/repl/
+
+540fabf4d093044f1df23b21740059e2b6e00bb6
+
+ 100.0% src/mongo/db/repl/
+
+660e7a020ed7d497efbc6d8ef81089efdc4fce09
+
+ 100.0% src/mongo/db/repl/
+
+2fd6a449d0e56a99125949c0a317acd0655827c4
+
+ 100.0% src/mongo/db/repl/
+
+e931498da5d7b96babf2a72df413a5b8666cb228
+
+ 100.0% src/mongo/db/repl/
+
+8e986f6e55be93a3ba8b3ceee7fc7519b2ed5334
+
+ 100.0% src/mongo/db/repl/
+Author:sdong,
+6e98f5003ff06369aec221c9c9dda264d4dee013
+
+ 100.0% src/mongo/db/storage/rocks/
+
+4b3e0275c35e53505542c675bd2ef4a5e8a5a4da
+
+ 100.0% src/mongo/db/storage/rocks/
+Author:Siyuan Zhou,
+8dd902ab53e340aac9cf570f4b3c42f139694707
+
+  84.8% jstests/core/
+  15.1% src/mongo/db/geo/
+
+528ddd163be6d93f839d57cd068bd17ab55440cd
+
+   0.2% src/mongo/db/commands/
+   5.3% src/mongo/db/exec/
+  49.9% src/mongo/db/geo/
+   8.2% src/mongo/db/index/
+  30.6% src/mongo/db/matcher/
+   5.1% src/mongo/db/query/
+   0.3% src/mongo/
+
+4cdeada1cc17bdf3fec7b39b2ec66faf8b84054d
+
+  11.8% jstests/core/
+  88.1% src/mongo/db/geo/
+
+cd5c001c43b295ad601b0004f9c31f9d454f5d04
+
+  26.5% jstests/core/
+   1.4% src/mongo/db/exec/
+  68.9% src/mongo/db/geo/
+   0.7% src/mongo/db/index/
+   0.7% src/mongo/db/matcher/
+   1.5% src/mongo/db/query/
+
+712768556e72d1756995c6a7b020b875fb9d6ea9
+
+ 100.0% src/mongo/db/geo/
+
+0909916a337366eb316386ced7ee6c2ade86a89c
+
+  18.7% jstests/core/
+   7.1% jstests/noPassthrough/
+  31.1% src/mongo/db/exec/
+  42.8% src/mongo/db/query/
+Author:Spencer Jackson,
+df064a77f5bbf80396ce71c70f68eecc062d1b42
+
+   3.9% src/mongo/client/
+  15.7% src/mongo/db/commands/
+   2.4% src/mongo/db/
+  77.9% src/mongo/util/net/
+
+d07bd48ce773907d04a63bcedcc9e69283391a09
+
+ 100.0% jstests/libs/
+Author:Spencer T Brody,
+eca928dd6fdbca3b5a4e773af8f48333fee39409
+
+ 100.0% src/mongo/db/repl/
+
+3029d69baa13c229b85f3f18a161f892d15c69b5
+
+ 100.0% src/mongo/db/repl/
+
+9046897f16454fe70da150ef222443e7aa3482c4
+
+ 100.0% src/mongo/db/repl/
+
+bd50249db427f9dd5a0dcaa3b3fc0b139e108173
+
+ 100.0% src/mongo/db/repl/
+
+ca6a26760c2150736562f49201fcb7b4de5e53f1
+
+ 100.0% src/mongo/db/repl/
+
+4a31c97cd94f3767e206345b14f1bf7e1a661125
+
+ 100.0% src/mongo/db/
+
+cb3f5cfa43d9565675d2f36c4b0f7cecbad47a49
+
+ 100.0% src/mongo/db/repl/
+
+4dbd43172c39e13bae5a301c4cdfbeaf4c77b0e8
+
+ 100.0% src/mongo/db/repl/
+
+4e2b90f5d94b2b7194a67f6e7ca766f42c96eddd
+
+  89.1% src/mongo/db/repl/
+  10.8% src/mongo/db/
+
+8e0a7c273bf6ef02425fd406e6ac182bb716cc79
+
+ 100.0% src/mongo/db/repl/
+
+038b606d16d20055154697eca3e81caa6a2f229d
+
+ 100.0% src/mongo/db/repl/
+
+d35c9ee22833c2965ad5391d657dc38e96de20f4
+
+ 100.0% src/mongo/db/repl/
+
+f6490541d0bb400aec87064ead946dfc52309274
+
+ 100.0% src/mongo/db/repl/
+
+0029e2fb4d83c2fcacb6c4f190579f25f8652e8b
+
+ 100.0% src/mongo/db/repl/
+
+aa811c391648b83a338b7d86a961d1a72e70e86f
+
+  16.9% src/mongo/bson/
+  66.2% src/mongo/db/repl/
+  16.7% src/mongo/util/
+
+018b95b10a10cef1b2d1dc047a7b53282752a099
+
+ 100.0% src/mongo/db/repl/
+
+0b190a580c13ff8b96a10fd9c9e6b18e01e44631
+
+  99.2% src/mongo/db/repl/
+   0.7% src/mongo/
+
+1c5ba979202d53a35242c941e40bfc2b4f171bf3
+
+ 100.0% src/mongo/db/repl/
+
+945a11a2a07c2b5c6c1479880a415fb48a99836f
+
+   1.1% src/mongo/bson/
+  96.8% src/mongo/db/repl/
+   0.8% src/mongo/db/
+   1.1% src/mongo/util/
+
+ca9435b38321914ed154b6d6293d0f411d4db131
+
+ 100.0% src/mongo/db/repl/
+
+95e93e471d6a7852e4daa41214501474d4bd4866
+
+   1.1% src/mongo/bson/
+  97.6% src/mongo/db/repl/
+   1.1% src/mongo/util/
+
+7a1a0ce4ca6bbdf047adc7528310078ef7ca08f8
+
+ 100.0% src/mongo/db/repl/
+
+998ed782161c493ceb766e17deb2b0550dca2c7c
+
+ 100.0% buildscripts/
+
+ec23ec25b5b6aaae4611a87eee246c646df0361c
+
+ 100.0% src/mongo/db/repl/
+
+1cef2222eab85ec6b2c494116f4a576736516f7f
+
+ 100.0% src/mongo/db/repl/
+
+bdd3bc57d295d72e42af81ae6c9f3a8549fa44c1
+
+ 100.0% src/mongo/db/repl/
+
+48acc2079926e7bafabef9a69a6b5a4f8e1fae1e
+
+ 100.0% src/mongo/db/repl/
+
+7f42946e254d525697e58840d057c2bf3a0d93e2
+
+ 100.0% src/mongo/db/repl/
+
+38572a2535ad1174d26af539d710068204ab3bc4
+
+  58.3% src/mongo/db/repl/
+  41.6% src/mongo/dbtests/
+
+e4dc978189d4022e3f5e81b4de4d4eee061a8314
+
+ 100.0% src/mongo/db/repl/
+
+f7620276e1d7b97d73cad27bc67af6967c5edc91
+
+ 100.0% src/mongo/db/repl/
+
+0abad88721986ade3933ef5dfa07e0b371266d6c
+
+ 100.0% src/mongo/db/repl/
+
+e42f601194d67cfbde44bfcfb33af8284e68ecc3
+
+   4.7% src/mongo/db/auth/
+  50.7% src/mongo/db/repl/
+  44.4% src/mongo/db/

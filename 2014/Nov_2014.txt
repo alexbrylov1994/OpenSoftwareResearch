@@ -1,0 +1,2119 @@
+Author:A. Jesse Jiryu Davis,
+3ebd970fb88d0fb9494f894e3d78d66930ad71e2
+
+   5.8% jstests/multiVersion/libs/
+  49.6% jstests/multiVersion/
+  44.5% jstests/replsets/
+
+b144964acc83e3223900b09560edd8d8e025a625
+
+ 100.0% src/mongo/client/
+
+62dd588ef3d22480feaa4ae8339785e94f199bcf
+
+ 100.0% src/mongo/db/commands/
+
+f1655ad69b11abdde521d4bc2e7cfcd40e41eab3
+
+ 100.0% src/mongo/db/auth/
+
+6eccc037b1e6d22d60d0e7aec39dcc183a756790
+
+   5.8% jstests/multiVersion/libs/
+  49.6% jstests/multiVersion/
+  44.5% jstests/replsets/
+
+961cf3c785ba630694c9a95da4dd8e41158badf8
+
+ 100.0% jstests/multiVersion/
+
+b33b57af7f95ebf9e2d2400d1ef2866035e37d05
+
+ 100.0% src/mongo/shell/
+Author:Adam Midvidy,
+491a9728d381328ad2e0604eb31cec1590418755
+
+ 100.0% jstests/tool/
+
+e5f1fc03628815e3449a72e784e00d41dbb1d9ac
+
+ 100.0% jstests/tool/
+
+cf1280d2547eb95bd7020a885ce458ce26d968ba
+
+ 100.0% jstests/tool/
+
+6821e25b266d0c861b8dc8acceccf86a0f93c0ac
+
+ 100.0% jstests/tool/
+
+a2512e3b7e78fb26ce4369584f66fee9f2486de7
+
+ 100.0% jstests/tool/
+
+3af62b6af0bcca2adc67c2367debf43e6d99688f
+
+ 100.0% jstests/tool/
+Author:Amalia Hawkins,
+ba895ea2965bf99a14f16f2d94657417bf7c6ab1
+
+ 100.0% jstests/multiVersion/
+
+a779afc93c71d77da15ef6f2399904f4bc592481
+
+ 100.0% jstests/multiVersion/
+Author:Andreas Nilsson,
+e98a99d0a51b14dab253ec84eec9aa41f163c517
+
+ 100.0% src/mongo/shell/
+
+b46eacd87939064307695e681211fa874f82d3df
+
+ 100.0% src/mongo/db/auth/
+
+2882b7b7e6606f8d45941fd83d9707bb8a4b3f7d
+
+  86.4% src/mongo/db/auth/
+  13.5% src/mongo/db/
+
+dce1d2f0baca3d261a55c162f4c6539e3bdce968
+
+ 100.0% jstests/auth/lib/
+
+f91a45e1c0144b0795cd41f6d360cb6a6bded510
+
+ 100.0% jstests/auth/lib/
+
+525c5407c270b2e9050be9dd78b14dc7cab69eae
+
+ 100.0% src/mongo/shell/
+
+7c8b3c68da9dd93641c59e6cff7a47a264fd68b4
+
+ 100.0% src/mongo/db/auth/
+
+dc4aee38f7aa8a3aa27f5fbc7d00fdb25c5f35f4
+
+ 100.0% src/mongo/db/auth/
+
+2a741dfecb4fa1ee894ddbfc81b21f42687bc46f
+
+ 100.0% jstests/sharding/
+
+666d7d2af4c480bb5691eebde2b04a01e9366ea8
+
+  94.3% jstests/auth/
+   2.1% jstests/ssl/
+   3.5% src/mongo/db/auth/
+
+4026a60ee751a5190efb893539f65381bf173bc7
+
+  34.6% src/mongo/db/commands/
+  65.3% src/mongo/shell/
+Author:Andrew Morrow,
+ff4e5d39940f15f5fcc65e356ad3308859f68693
+
+ 100.0% src/mongo/base/
+
+d10ee8adc8265451d9fcbaae9669709618751311
+
+ 100.0% src/mongo/bson/
+
+5cd68e1a6846ebdd07e5a75753108baab2e4af11
+
+ 100.0% src/mongo/db/ops/
+
+eb1dc0918fc0a964ed7dbff31a0b815d0081e14c
+
+ 100.0% etc/
+
+14ca6bfd67d5efb10fc21778246442c2f223dc1e
+
+
+c3b92185d0a2f30e819aff44022e92230fb55b03
+
+  35.5% src/mongo/db/commands/write_commands/
+  64.4% src/mongo/db/
+
+87360c5dec1916fa033dfaaf4c369ed7912f331d
+
+ 100.0% src/mongo/db/
+
+adb1e5f25f3f5eacbbed382426542623b67632e5
+
+ 100.0% src/mongo/util/
+
+cac6d5db1b98a5a1bdd54a3ac75c3c859ceb5d30
+
+
+9eb7ba71ac9f3d056b7b1f41e384a9bb732078c0
+
+ 100.0% jstests/core/
+
+87480a2a2c12a75745ecc890aa7e01ff639b4c82
+
+Author:Andy Schwerin,
+2ad89b01762d57ee562dacb636f6eebed541581c
+
+ 100.0% src/mongo/db/repl/
+
+c6653bd908a98c3b98ca14a6769cb52da1ff0d19
+
+ 100.0% src/mongo/db/repl/
+
+1722a1f3ec981d2e6c3478685e527a34f9863f2e
+
+ 100.0% src/mongo/shell/
+
+056b9a0e411e83e19577ff814ac65eb677b05ae0
+
+ 100.0% src/mongo/db/repl/
+
+c93641756a1d8444876b9b79c3aa9a9635626891
+
+ 100.0% src/mongo/db/repl/
+
+9bfb7c3a805fb6151254389992548d22d08eed8c
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+cb82efb115f2bca1cc5d7274d1f7e67b2326846e
+
+ 100.0% src/mongo/db/repl/
+
+f95d813fba8b9a159ba10ffe5238a158caf29074
+
+  41.0% src/mongo/db/commands/write_commands/
+   0.2% src/mongo/db/commands/
+  58.6% src/mongo/db/
+
+d324cff2fccfd7f2f1397093e01a1eb4af9a3e52
+
+   0.6% src/mongo/client/
+  99.3% src/mongo/dbtests/
+
+852dc8839cebeb425fb668d2e043f23d7de67e54
+
+   1.7% buildscripts/
+  96.9% src/mongo/dbtests/perf/
+   1.1% src/mongo/
+
+5266e7f0f23b8cf305280719d3d0e34df800b9f5
+
+ 100.0% src/mongo/db/auth/
+Author:Benety Goh,
+8971aede7a00d0918645cb4fb0e579f153d737df
+
+ 100.0% src/mongo/db/
+
+bb8e5e6b28f31a0b4e9eefc5df52581073bf332d
+
+ 100.0% src/mongo/db/storage/
+
+b2122dd20ae8cd761312301e90e0e7ca429ec8db
+
+  18.1% buildscripts/
+  16.2% jstests/noPassthroughWithMongod/
+  21.5% src/mongo/db/storage/
+  40.2% src/mongo/db/
+   3.6% src/mongo/
+
+a932b12ac03366e9336ffc92e7710ddb5c3b3a39
+
+ 100.0% src/mongo/db/storage/
+
+984bd847c0459d729e86d176ff6839e8801e7864
+
+ 100.0% src/third_party/snappy/
+
+7556a05d67e1cb53503e7087e2a8c3b49a1a1503
+
+ 100.0% src/mongo/db/
+
+0822fa2908d02d7154c9a1378526dbca97238608
+
+  12.9% src/mongo/db/storage/kv/
+  29.7% src/mongo/db/storage/wiredtiger/
+  57.2% src/mongo/db/
+
+0b2aa4d52ed162d35a414afa215aea708f0cfd6a
+
+ 100.0% jstests/noPassthroughWithMongod/
+
+546bf9a6d7b2c53e81d6a31b652cef15ec103570
+
+  19.3% jstests/core/
+  80.6% src/mongo/db/catalog/
+
+e7091e53396d7c9ea0b9a74af253a68ac0c0d234
+
+ 100.0% src/mongo/db/
+
+fe58da2ed6a48493399d1d336162e6574e3cc712
+
+   0.6% src/mongo/db/storage/devnull/
+  99.3% src/mongo/db/storage/kv/
+
+4949daa51bbd5104d666082e968e6dd81c22f2bd
+
+  55.0% src/mongo/db/auth/
+  44.9% src/mongo/db/commands/
+
+716cfde34adf0e1c4a92c4e8fc1960a50d3cbc50
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+7511e515211e64612c666b1bcebe358e98f9259c
+
+ 100.0% src/mongo/db/
+
+21286be1a1d0d4c4c8e41567c185819144dd91b5
+
+ 100.0% src/mongo/db/storage/kv/
+
+cf1c4bb5a9da98ec831ff0a30ae78abe81e1d1b0
+
+  43.7% jstests/noPassthrough/
+  56.2% src/mongo/db/
+
+72975ae9051ff89ce1ac34c6f58f67a3afd7cb5c
+
+   7.4% jstests/disk/
+   1.2% jstests/libs/config_files/
+  91.3% src/mongo/db/
+
+0212412257d8c9118a44a8fba5776a9841c1f8e5
+
+ 100.0% src/mongo/util/options_parser/
+
+da18489108f7c94f67533bb52b600ed1efbf6dc9
+
+   0.5% src/mongo/db/catalog/
+   3.3% src/mongo/db/storage/mmap_v1/catalog/
+  59.9% src/mongo/db/storage/mmap_v1/
+  31.4% src/mongo/db/
+   4.8% src/mongo/dbtests/
+Author:Charlie Swanson,
+224b7bf55bbe8faf80a089298b5a4dc51b396423
+
+ 100.0% jstests/replsets/
+Author:Dan Pasette,
+68f1a779e1a3063ef04f07be460d370e7fd82a93
+
+   9.6% jstests/core/
+  11.0% jstests/mmap_v1/
+   7.1% src/mongo/db/storage/wiredtiger/
+  72.2% src/mongo/db/storage/
+
+e4329ae5e7bfb56ef9b63a8388285b70b7ec9634
+
+  57.1% rpm/
+  24.1% src/mongo/util/
+
+c8171e7f969519af8b87a43425ae291ee69a0191
+
+  57.1% rpm/
+  24.1% src/mongo/util/
+
+1b8545eb64b7aa260cc281ea2624504c1ee86d23
+
+ 100.0% src/mongo/db/
+
+dec3111d8bf4d6661be5b08f75d30a9fbe0c18ff
+
+  57.1% rpm/
+  24.1% src/mongo/util/
+
+534263f1d83cdeb142c27f0ea5a1ecffc5b7526a
+
+ 100.0% src/mongo/db/storage/
+
+59487e24591a505acb8eb03d5c5d0652098e0841
+
+  23.2% jstests/core/
+  23.2% jstests/mmap_v1/
+   2.3% src/mongo/base/
+  16.0% src/mongo/db/commands/
+  23.1% src/mongo/db/storage/wiredtiger/
+  11.9% src/mongo/db/storage/
+
+aa435e0f1303cd618b1df78ab086d5e06a52b1d3
+
+ 100.0% jstests/slow2/
+
+b6c4e2491c1442b05a160acda0d78001f56a2ade
+
+  56.0% rpm/
+  24.9% src/mongo/util/
+
+c6e8e3d868660dc66b3bbd438cdc135df6356c5a
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+5b5445d78f8f0cf83c3aaf90b645310bafae3da0
+
+ 100.0% src/mongo/db/storage/heap1/
+
+1b446f240856cf93b32fcc62e1980d9cc2f42f87
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+ec899cc692d4edfe128130fa5fc7d778e494dee7
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+18c94ba44d37ef8e430f1e04633c0ae32efddae4
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+496c16aa50b8f4d6ef21cfc5fee55c6ffa80bc86
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+abf39b71c7217adf9380f93c596dd433b0471f68
+
+   0.7% jstests/auth/
+  99.2% jstests/sharding/
+
+4519206ce6ecf4aa54c62ce38b6035cf7df46595
+
+  32.5% jstests/auth/
+  67.4% jstests/sharding/
+
+06a641278afd58caad4a8ecb368aaefb17a0eec1
+
+  43.7% jstests/noPassthrough/
+  56.2% src/mongo/db/
+Author:David Percy,
+e1fa60e4d8b3f525575b4602b208f2a1ef353735
+
+   3.1% src/mongo/db/storage/heap1/
+  96.8% src/mongo/dbtests/
+Author:David Storch,
+22871dbd76bfab1a7cb8d63d944f8f2c449e26a2
+
+  82.0% jstests/replsets/
+  11.3% src/mongo/db/commands/
+   6.5% src/mongo/s/commands/
+
+b32c91b8cb3a6bd214f31a962a6ef4556225bfc4
+
+  50.7% src/mongo/db/commands/write_commands/
+  37.6% src/mongo/db/query/
+  11.6% src/mongo/s/
+
+2de05fd1e465a2889c0f1035709710da8b0ad041
+
+  56.3% jstests/multiVersion/
+  16.0% src/mongo/s/
+  27.5% src/mongo/shell/
+
+8f6c27d5200352d3e26cbefeac627c0b77654aa5
+
+ 100.0% src/mongo/client/
+
+af66bbba9dc6fdfce07168e0b3cd02d160c29e09
+
+ 100.0% src/mongo/db/exec/
+
+52db1600fcde4a5b6bd25ed83802d02bde64538c
+
+   2.4% src/mongo/db/exec/
+  97.5% src/mongo/dbtests/
+
+fdc16e8d1d2346ca152528b71538942efb3ce4db
+
+  34.6% jstests/core/
+  14.1% src/mongo/db/commands/write_commands/
+   6.0% src/mongo/db/exec/
+  26.2% src/mongo/db/ops/
+  14.0% src/mongo/db/query/
+   4.8% src/mongo/dbtests/
+
+578c5c5bdbf43378da11f706be0d9a54daba0929
+
+  51.0% jstests/core/
+  48.9% src/mongo/shell/
+
+866d3851fcb7a6b230cb2fde7b2a6253ba32eeb5
+
+ 100.0% src/mongo/db/query/
+
+af18d6ce5f2a2325a4f25a507c3080fc353fd690
+
+   4.4% src/mongo/db/storage/wiredtiger/
+  95.5% src/mongo/db/storage/
+
+4294049c9f414cca43825cd7e60ec2462f944bed
+
+  19.4% src/mongo/db/exec/
+  51.5% src/mongo/db/query/
+  20.9% src/mongo/db/storage/mmap_v1/
+   8.0% src/mongo/db/storage/
+
+39ded947b914652032fb5a9b3ee991c00e173664
+
+  75.5% src/mongo/db/exec/
+  24.4% src/mongo/db/query/
+
+2e0e00ee5606d1ea36f96b7ab2015b6db7e3d05f
+
+ 100.0% src/mongo/db/exec/
+
+c8012ebc991cd4db85e63c4c61883aef3b793498
+
+   2.3% src/mongo/db/catalog/
+   1.6% src/mongo/db/concurrency/
+  67.8% src/mongo/db/exec/
+   7.6% src/mongo/db/query/
+  12.5% src/mongo/db/storage/mmap_v1/
+   7.9% src/mongo/db/storage/
+
+dcb68b25fe7351888385cc435f339ada8e8b5e9e
+
+ 100.0% src/mongo/db/query/
+
+1c8267751f86ff74e350dad67cec018f4f9a7851
+
+ 100.0% src/mongo/db/exec/
+Author:Eliot Horowitz,
+ed023a2b488a74807334e8c0d3db57cf9552cf2c
+
+ 100.0% src/mongo/shell/
+
+edb2a9a1a5d13c3d11381a4f4370584d00bad883
+
+ 100.0% src/mongo/db/
+
+3f21939b70236eb5af9e0561357d74c0f65329ea
+
+  16.5% jstests/noPassthrough/
+  83.4% src/mongo/db/storage/devnull/
+
+fe363010e4b2b953c9876608861c02df4c8662ec
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+d36eac67be457c8a4e11373b0332e2d8d54975e1
+
+ 100.0% src/mongo/db/stats/
+
+4e53ba220a73a28a9bd50347c66c347ae97e8b11
+
+ 100.0% src/mongo/db/stats/
+
+04cfca149d3fcfac9c74cf13287be70942ca1ada
+
+  71.6% src/mongo/db/storage/wiredtiger/
+  28.3% src/mongo/util/
+
+447520acdac717d88037019d46e2d1c4eb997272
+
+ 100.0% src/mongo/db/storage/kv/
+
+bddcc15df9736883f8b94e18a8718b24079b1c94
+
+  13.1% src/mongo/db/commands/write_commands/
+  70.2% src/mongo/db/concurrency/
+  15.1% src/mongo/db/
+   1.4% src/mongo/
+
+d6ac44b4ac2f20c9a3145f575e72ebe2528db3c6
+
+  42.3% jstests/core/
+  25.4% src/mongo/db/storage/wiredtiger/
+  32.1% src/mongo/shell/
+
+05a80c840a7389ee182e82d3724032ac874b3c74
+
+   4.9% src/mongo/db/storage/devnull/
+  11.7% src/mongo/db/storage/in_memory/
+  65.0% src/mongo/db/storage/kv/
+  18.2% src/mongo/db/storage/wiredtiger/
+
+085feab6152583399cdf885f245e631d7a2a9ef6
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+81bb3e94b06d85f9aac2b014040b81ca7fc5c5bb
+
+ 100.0% src/mongo/dbtests/
+
+a5148c29d3c47f11afc6d28cd3430b13b162d949
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+b5ec9f42599386a348a5d6b6ae1b17156380050c
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+7bdca162807d6436d469a352a129226252cb451d
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+187df06762cb2154bde8b9ff154f3ea611154192
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+a0e10fe111f69881da9fc153a722bcced9ef79d1
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+1a3746fa510000d147650036dabfdf60430378bb
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+fbb583f7025d6a04ee9d1b499cbe18f6b06ab4df
+
+  19.9% src/mongo/db/commands/write_commands/
+  30.6% src/mongo/db/concurrency/
+  49.4% src/mongo/db/
+
+ceb4722aea73de640c12d2d25b96cf330190e0f3
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+cab2c1533f495e0760e871b0229bfb762aa2979e
+
+ 100.0% src/mongo/db/commands/write_commands/
+
+a03b727e8432985db011ec029442212a9e1e1950
+
+ 100.0% src/mongo/db/exec/
+
+bcd704764ef9b7cfe8ae86c50dd34410df314e7b
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+dd5b2d7f5cd96b4ca8acd01d15c5ac369c4f50f2
+
+   0.8% jstests/replsets/
+  25.6% src/mongo/db/repl/
+  71.5% src/mongo/db/storage/wiredtiger/
+   1.9% src/mongo/db/storage/
+
+cdb864a8276b3e0f6c8b99fe68fc17989fbb15a4
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+c686f5a1949339ba9390e6efc01ef8421867c692
+
+   3.5% jstests/replsets/
+  96.4% src/mongo/db/repl/
+
+4ab029e3e68ea5f7aa89b90a47fd814d17b142bf
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+b0d74105634a3a2040743061c53b0e5b4eff919d
+
+  97.9% src/mongo/db/storage/wiredtiger/
+   0.1% src/mongo/
+   0.6% src/third_party/
+
+5ca2daf551a2c631a5f573cb054406f5d49fbef5
+
+   0.7% src/third_party/wiredtiger/api/leveldb/basho/
+   0.1% src/third_party/wiredtiger/api/leveldb/hyperleveldb/
+   0.6% src/third_party/wiredtiger/api/leveldb/leveldb/db/
+   1.5% src/third_party/wiredtiger/api/leveldb/leveldb/include/leveldb/
+   0.0% src/third_party/wiredtiger/api/leveldb/leveldb/port/
+   1.2% src/third_party/wiredtiger/api/leveldb/leveldb/util/
+   0.0% src/third_party/wiredtiger/api/leveldb/leveldb/
+   0.3% src/third_party/wiredtiger/api/leveldb/rocksdb/
+   1.8% src/third_party/wiredtiger/api/leveldb/
+   1.1% src/third_party/wiredtiger/bench/wtperf/runners/
+   2.9% src/third_party/wiredtiger/bench/wtperf/
+   0.1% src/third_party/wiredtiger/build_darwin/
+   0.1% src/third_party/wiredtiger/build_freebsd/
+   0.1% src/third_party/wiredtiger/build_linux/
+   1.2% src/third_party/wiredtiger/build_posix/aclocal/
+   0.2% src/third_party/wiredtiger/build_posix/
+   0.1% src/third_party/wiredtiger/build_solaris/
+   0.1% src/third_party/wiredtiger/build_win/
+   0.0% src/third_party/wiredtiger/dist/package/debian/source/
+   0.1% src/third_party/wiredtiger/dist/package/debian/
+   0.0% src/third_party/wiredtiger/dist/package/
+   3.9% src/third_party/wiredtiger/dist/
+   3.3% src/third_party/wiredtiger/examples/c/
+   2.5% src/third_party/wiredtiger/examples/java/com/wiredtiger/examples/
+   0.0% src/third_party/wiredtiger/examples/java/
+   0.0% src/third_party/wiredtiger/examples/python/
+   0.0% src/third_party/wiredtiger/ext/collators/reverse/
+   0.2% src/third_party/wiredtiger/ext/compressors/bzip2/
+   0.1% src/third_party/wiredtiger/ext/compressors/nop/
+   0.1% src/third_party/wiredtiger/ext/compressors/snappy/
+   0.3% src/third_party/wiredtiger/ext/compressors/zlib/
+   2.4% src/third_party/wiredtiger/ext/datasources/helium/
+   0.9% src/third_party/wiredtiger/lang/java/src/com/wiredtiger/db/
+   1.4% src/third_party/wiredtiger/lang/java/
+   0.4% src/third_party/wiredtiger/lang/python/wiredtiger/
+   0.8% src/third_party/wiredtiger/lang/python/
+   0.9% src/third_party/wiredtiger/src/async/
+   3.6% src/third_party/wiredtiger/src/block/
+   0.2% src/third_party/wiredtiger/src/bloom/
+  17.0% src/third_party/wiredtiger/src/btree/
+   2.0% src/third_party/wiredtiger/src/config/
+   3.4% src/third_party/wiredtiger/src/conn/
+   4.2% src/third_party/wiredtiger/src/cursor/
+  14.2% src/third_party/wiredtiger/src/include/
+   1.4% src/third_party/wiredtiger/src/log/
+   3.8% src/third_party/wiredtiger/src/lsm/
+   1.0% src/third_party/wiredtiger/src/meta/
+   1.3% src/third_party/wiredtiger/src/os_posix/
+   0.8% src/third_party/wiredtiger/src/os_win/
+   0.2% src/third_party/wiredtiger/src/packing/
+   2.2% src/third_party/wiredtiger/src/schema/
+   1.3% src/third_party/wiredtiger/src/session/
+   4.5% src/third_party/wiredtiger/src/support/
+   1.8% src/third_party/wiredtiger/src/txn/
+   2.3% src/third_party/wiredtiger/src/utilities/
+   0.8% src/third_party/wiredtiger/tools/
+   2.1% src/third_party/wiredtiger/
+
+11235f26f7a6063860f8252766f2e28042fad1a9
+
+ 100.0% jstests/parallel/
+
+b8a215b51246448c2a2cafd715466e4a90319a9a
+
+ 100.0% src/mongo/db/commands/
+
+64461753cda653080e101bab2264ed7c1bd9657e
+
+  80.8% src/mongo/db/catalog/
+  19.1% src/mongo/db/commands/
+
+e189cb6dbb04b0f01f6024bcd9593ade1cd50e1f
+
+ 100.0% src/mongo/db/exec/
+
+a69c4001dd891bf5d9b2862455d743d5d438cc96
+
+ 100.0% src/mongo/db/
+
+aa67a4e69eeb73fedc64f9a9588c2fa24cf8c6ab
+
+   1.0% src/mongo/base/
+  12.9% src/mongo/db/commands/write_commands/
+  64.3% src/mongo/db/concurrency/
+   6.9% src/mongo/db/exec/
+  14.7% src/mongo/db/
+
+ac3c439b9605bf01776c84ad8ed57a1dc60cae54
+
+  50.1% src/mongo/db/commands/write_commands/
+  49.8% src/mongo/db/
+
+998c4fd5faad88eea7cd24a81945c2d8d91ad5ae
+
+ 100.0% src/mongo/db/storage/kv/
+
+9b96c72ec4b8adb65480f33f752fd43b333414f0
+
+  51.2% src/mongo/db/concurrency/
+  48.7% src/mongo/db/
+
+ab7a1d27f130d0f920651181eafe19316c247b13
+
+ 100.0% src/mongo/db/storage/kv/
+
+1537472fc8ce3068671f826fde6ca6c934165d15
+
+ 100.0% src/mongo/db/
+
+0e0441723f325469f7ed582a9ba90cb9b3a002b1
+
+ 100.0% src/mongo/dbtests/
+Author:Eric Milkie,
+fdb0c2b3b6d42da84acc2748662246e18ae8ecde
+
+ 100.0% jstests/replsets/
+
+ba6a6919605104afac5153279f7c3a7ef80d66b0
+
+ 100.0% jstests/replsets/
+
+442d1dc06fd8d04e27a2838995f1eef8bf87d27a
+
+ 100.0% src/mongo/db/repl/
+
+eac11632002de066d03936b5246d1d6162e7d240
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+65ab6bcc319d1d4a1fe2f19615e646cac6dd3f7e
+
+   0.1% jstests/replsets/
+  99.8% src/mongo/db/repl/
+
+0f8898e95d6096b306fe655ef7141a01f1e71100
+
+ 100.0% src/mongo/db/storage/kv/
+
+f27fba8fddbb50d0e7ad2522a0a3b766b456b29d
+
+ 100.0% src/mongo/db/
+
+7d108f46694302f962c0efb60106e703fb8cceff
+
+ 100.0% src/mongo/db/repl/
+
+e1c58c47536d0eb430878ddefc47ccdb332ddd23
+
+   2.6% src/mongo/client/
+   2.7% src/mongo/db/commands/
+  75.2% src/mongo/db/
+   5.3% src/mongo/s/
+   2.8% src/mongo/shell/
+   2.8% src/mongo/unittest/
+   8.2% src/mongo/util/
+
+5e06026b4b72cc252a7168569ffd78f8e9811d23
+
+ 100.0% jstests/noPassthroughWithMongod/
+
+d80aba43b2abf97944e149c78af2799c498a83b0
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+d104ebb0fda8c75dc519f6f07078e9a884de59e2
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+bc00750755e46d278f2702810738adbda3a45d64
+
+   0.3% src/mongo/db/catalog/
+  88.8% src/mongo/db/concurrency/
+   1.5% src/mongo/db/repl/
+   9.2% src/mongo/util/
+
+57d2b478a3e6f58538bf0a0c5a8d5a0134b4bf13
+
+ 100.0% src/mongo/db/concurrency/
+
+cbd81db53096bbffb9c1d74df75cc227626f81ad
+
+ 100.0% src/mongo/db/concurrency/
+
+9e05a9fb1b2b89244ec5eace0b4ac8a9a6bf3819
+
+ 100.0% src/mongo/db/repl/
+
+93aaab7e2ca64e330959c403b36d50fdb609e86e
+
+  51.1% jstests/core/
+  48.8% jstests/noPassthroughWithMongod/
+
+e765b6a3544b325b52c270c3743827fa963b0d10
+
+  50.6% jstests/replsets/
+  23.7% src/mongo/db/commands/
+  25.6% src/mongo/db/
+
+0549652e913b4c39dc00ec10bd1895c085b27bf3
+
+ 100.0% src/third_party/wiredtiger/src/os_win/
+
+7490a1cb8affe30edc89f42cb7720099eb195c70
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+29ccb93a6709d52371464a2a2bfa179c7cc370bc
+
+  83.1% jstests/noPassthroughWithMongod/
+   5.2% src/mongo/db/catalog/
+   8.2% src/mongo/db/commands/write_commands/
+   3.3% src/mongo/db/storage/kv/
+
+ca0d6d5d907ebe39437b4032ccb4795946573183
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+ecd562289fa27fcd50fb63c3d1cfb0925c5ae2f9
+
+ 100.0% src/mongo/db/
+
+ee9a858adb7e399085975072f60a3f2d63cdda7a
+
+ 100.0% src/mongo/s/
+
+6d0405b1d94e1dd05ffba500f0c3a071202fd1d4
+
+   5.8% jstests/multiVersion/libs/
+  49.6% jstests/multiVersion/
+  44.5% jstests/replsets/
+
+7113774b5bb3d421afcc94a89534d81785a77018
+
+ 100.0% src/mongo/db/concurrency/
+
+f91d3efd69a154d46a73caf2e6b5a5f632b56061
+
+ 100.0% src/mongo/db/
+
+23b96d4da3444d260eee24d7217a8054f3aacfa3
+
+ 100.0% src/mongo/db/commands/
+
+b259bbfca77d2ef3453288a80b82dddb16750c64
+
+  20.7% jstests/noPassthrough/
+   4.0% src/mongo/db/catalog/
+  46.5% src/mongo/db/commands/
+  26.1% src/mongo/db/repl/
+   2.4% src/mongo/dbtests/
+
+afce8c3ca626f8fddcd24c7c86de93fd081227cd
+
+  74.8% src/mongo/db/catalog/
+  11.1% src/mongo/db/repl/
+  14.0% src/mongo/db/
+
+df567c92f07eeb2c2dc92580121703274ac6fc88
+
+  36.8% jstests/noPassthrough/
+   0.8% src/mongo/base/
+  15.5% src/mongo/db/catalog/
+   6.2% src/mongo/db/index/
+   2.7% src/mongo/db/query/
+  37.8% src/mongo/db/storage/mmap_v1/btree/
+Author:Ernie Hershey,
+0a02891e3f155e5a187ee14c774d42cbdb290652
+
+  57.1% rpm/
+  24.1% src/mongo/util/
+
+489690cfbccc24cf69b6ae7848581303ec8f4b0e
+
+  86.4% buildscripts/
+  13.5% src/mongo/shell/
+
+43b83d0a3885b919efe3fe13631c39ed7c1f88e7
+
+ 100.0% buildscripts/
+
+be5c5eb936844926384c53ca0b5be0cd83438dc9
+
+  80.1% buildscripts/
+  19.8% src/mongo/shell/
+
+6950e9ffe4823e65403bd118f44688bc25caaf7c
+
+  57.1% rpm/
+  24.1% src/mongo/util/
+
+d1cf07e73bc127c9214a902cbf2f6a0cf173e5ad
+
+ 100.0% rpm/
+
+0bb84c4860d39833a2f65c94ece29d3bc7655add
+
+ 100.0% jstests/ssl/
+
+8240b32d3d274ab30ced457de542d6c7457d5850
+
+Author:Geert Bosch,
+e7f6c56327afa51847a95d9d5bc6399209856c10
+
+   0.5% src/mongo/db/catalog/
+   2.1% src/mongo/db/commands/write_commands/
+  17.2% src/mongo/db/commands/
+   0.6% src/mongo/db/exec/
+   0.6% src/mongo/db/ops/
+  19.6% src/mongo/db/repl/
+   0.6% src/mongo/db/storage/mmap_v1/
+  29.0% src/mongo/db/
+  19.9% src/mongo/dbtests/
+   9.4% src/mongo/s/
+
+9a0cb0d0ba72bc499c1761487422b72904e951a7
+
+ 100.0% src/mongo/db/concurrency/
+
+6604c0aca8c0ca8eb289c53ebf1e890c7321bae5
+
+  59.7% src/mongo/db/catalog/
+  40.2% src/mongo/db/storage/mmap_v1/
+
+78923a5dd969e9b9f46d3fe9bdd969ab0d0a3ca2
+
+ 100.0% src/mongo/db/concurrency/
+
+3d754a25fb3a14c4ddd47b5257b86e775fb17091
+
+ 100.0% src/mongo/db/concurrency/
+
+0c1c8e9e31bfe24aaf4ad77090dd835eae125265
+
+ 100.0% src/mongo/db/query/
+
+e0f8376cf7e3496af394df5ce6132f9b0cfb3af3
+
+ 100.0% jstests/parallel/
+
+e35ccbf0d56ae9ced083c558faa9359ca53e9bc0
+
+ 100.0% jstests/parallel/
+
+0f3ef4550c44a21aa7658586789c97505adf51a6
+
+   1.4% src/mongo/db/catalog/
+  20.1% src/mongo/db/commands/write_commands/
+  15.0% src/mongo/db/concurrency/
+   2.7% src/mongo/db/repl/
+  60.5% src/mongo/db/
+Author:Greg Studer,
+813a2908ed3f35e1e395179983e0f09b0fee8fe5
+
+ 100.0% src/mongo/s/
+
+eedc5e87ff9d33a6976de1fd1f606ab7435069d5
+
+  92.5% src/mongo/s/write_ops/
+   7.4% src/mongo/s/
+
+5b032a9c80e483b6e28a2d6727cbc990de203cd4
+
+ 100.0% src/mongo/client/
+
+4f740ca4fcfee9f0ec1c0a502e138ff749d5248d
+
+ 100.0% src/mongo/db/
+
+002c8f028ac27701a530db139a72cbc504c94f35
+
+  66.2% src/mongo/client/
+  14.7% src/mongo/db/commands/
+  19.0% src/mongo/db/
+
+6b73c5c63de972ebd39ab85c93f81e7040fe6950
+
+  18.9% jstests/sharding/
+  14.2% src/mongo/client/
+  66.8% src/mongo/s/
+
+001d34a6a7bc13c3d6d159d7149417f5e6571359
+
+ 100.0% jstests/sharding/
+
+be3bb1821242a7704ca1c6f6621bdd6abc4acfb4
+
+  66.6% src/mongo/db/commands/write_commands/
+  33.3% src/mongo/db/exec/
+Author:Ian Whalen,
+386a8f28bb8cc830b8ff9a311f56fab06677e209
+
+ 100.0% jstests/replsets/
+Author:Jason Rassi,
+cf8bb50e5a8a22205e344e0536646f1ca6bc81e4
+
+  25.2% jstests/core/
+  40.1% src/mongo/db/
+  34.6% src/mongo/dbtests/
+
+8f0d423946be1873d0af5c6db488d2bee9629899
+
+ 100.0% src/mongo/db/
+
+a4d077c775d8322c9e59313c3618fe73ac85e925
+
+ 100.0% src/mongo/db/commands/
+
+5c9b4a636753e98de0ba7d9d518bfb6516f843d7
+
+ 100.0% src/mongo/db/exec/
+
+4c221b5ce50c3eaabc0348432b6df6c41aeabee5
+
+   4.5% src/mongo/db/catalog/
+  65.2% src/mongo/db/exec/
+   3.9% src/mongo/db/query/
+  25.0% src/mongo/dbtests/
+   1.1% src/mongo/s/
+
+429dc5819eb37e21d9e5c4573aae8421efd50ed7
+
+   7.9% src/mongo/db/commands/write_commands/
+   2.4% src/mongo/db/commands/
+  13.5% src/mongo/db/exec/
+  48.6% src/mongo/db/ops/
+   4.4% src/mongo/db/query/
+   9.2% src/mongo/db/repl/
+   8.9% src/mongo/db/
+   4.7% src/mongo/dbtests/
+
+acc09c2ec26b27c6d201f5f98a2a9c7b4215b1ae
+
+ 100.0% src/mongo/db/matcher/
+
+20c218d3d3df17c820b9cd3e6399a2dec6755d94
+
+ 100.0% src/mongo/db/matcher/
+
+7f96d80fa8fcad7fb59bebae7e83db1a9f0120ad
+
+ 100.0% src/mongo/db/storage/kv/
+
+bec3fc4b1374fb9eff9e4cc82ada7b8d5f43de45
+
+ 100.0% src/mongo/db/commands/
+
+e8437d34eee926e5c6bb3eac4a74f8a1fdf19448
+
+ 100.0% src/mongo/db/query/
+
+2783e323051eb5eeaedee4a607934974177f74c2
+
+  94.4% src/mongo/db/query/
+   5.5% src/mongo/dbtests/
+
+de6b53385a04dba79572254e1231bd274000323a
+
+ 100.0% src/mongo/db/
+
+92d967e8cd4d32f3b3348c89320f238df47a1454
+
+ 100.0% jstests/core/
+
+4da5ebab3d27b20508fb73179cd2f3799b6ee607
+
+ 100.0% jstests/slow2/
+
+7849434abe5c8c24c7dd6dc7e664ebf1069c2557
+
+   2.8% src/mongo/db/commands/
+   0.7% src/mongo/db/query/
+  15.0% src/mongo/db/repl/
+   4.9% src/mongo/db/
+  76.3% src/mongo/dbtests/
+
+8951f434615f7444cac1630cc628269a839a6118
+
+ 100.0% src/mongo/dbtests/
+Author:John Esmet,
+8f1f165734da24f5b44ae468a59b0cb9746dfec7
+
+ 100.0% src/mongo/db/storage/kv/
+Author:Kaloian Manassiev,
+45790039049d7375beafe122622363d35ce990c2
+
+ 100.0% src/mongo/db/catalog/
+
+4429df3a6c2e03f9b406fe27aa98caa660506d73
+
+  30.4% src/mongo/db/commands/
+  15.5% src/mongo/db/repl/
+  10.3% src/mongo/db/stats/
+  12.5% src/mongo/db/storage/mmap_v1/
+  12.8% src/mongo/db/storage/wiredtiger/
+   6.0% src/mongo/db/storage/
+   3.3% src/mongo/db/
+   8.9% src/mongo/util/
+
+20f830b37613ca1804775d85303074d5c4eb1bd4
+
+ 100.0% src/mongo/shell/
+
+0ad070c47135f205c638b47e217d46d7da9fd329
+
+ 100.0% src/mongo/db/catalog/
+
+58e49b2726807b7e7c2f0309607ffa454befbff6
+
+ 100.0% src/mongo/db/catalog/
+
+5f54b41eb7ab23f1594610aa6950d07b666f0deb
+
+  60.8% src/mongo/db/concurrency/
+  37.2% src/mongo/db/storage/kv/
+   1.9% src/mongo/db/storage/mmap_v1/
+
+b452b55fd032a4e63d9ed25c60ecc5781e0a2b27
+
+ 100.0% src/mongo/db/concurrency/
+
+5bcaa163b3fb6054cbedca1c20bd4ce98ddf1eed
+
+ 100.0% src/mongo/db/concurrency/
+
+f56ea73672e1eebde4d2e9cef2f8fca0d84f0956
+
+ 100.0% jstests/disk/
+
+fe6cc50395b76494cae644c98cbc9ec265cf78b1
+
+ 100.0% src/mongo/db/repl/
+
+2304904687c5d29e228d86da95244682dc62caa1
+
+ 100.0% src/mongo/db/concurrency/
+
+2bf87c388c8c2d2956cd8e1b81cdd84ca285fa50
+
+ 100.0% src/mongo/db/concurrency/
+
+d6427045827b5ae5dc1fea9917cba3c1dcf0d341
+
+ 100.0% src/mongo/db/concurrency/
+
+d12f3728b725615cb62b89396efbd3c8c059524f
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+6334d8898369773c99be56ec1a4363ae5ee0e54d
+
+ 100.0% src/mongo/dbtests/
+
+0962abcb99b52b6a9d4d03e7980569a7933394b3
+
+ 100.0% src/mongo/db/concurrency/
+
+60bde0565d251463b50cee23b49a025d78e2278d
+
+  20.9% jstests/core/
+  79.0% src/mongo/db/concurrency/
+
+284f942a45b877f0baecd19cbf17fc2a4e246a79
+
+   0.8% src/mongo/db/commands/
+   1.6% src/mongo/db/index/
+   1.0% src/mongo/db/repl/
+   7.1% src/mongo/db/storage/mmap_v1/
+  70.1% src/mongo/db/
+  19.0% src/mongo/s/
+
+df09ff06181a690bc504356a8a82c71163022127
+
+ 100.0% src/mongo/db/concurrency/
+
+d6184ee7b6a365852adeb7d2ad084f288418f717
+
+ 100.0% src/mongo/db/concurrency/
+
+88ef4861b03af893e59e7339297eea4b9a14bea5
+
+ 100.0% src/mongo/db/concurrency/
+
+068eca37eb5b42671a651d24309b052edb1e0473
+
+ 100.0% src/mongo/db/concurrency/
+
+fc3154713b4e7127a0fa9a32930f29423576b037
+
+ 100.0% src/mongo/db/concurrency/
+
+8ee12731c9f31add89a08d8a391e9d88299aaa55
+
+  49.8% src/mongo/db/concurrency/
+  50.1% src/mongo/db/query/
+
+072190514e64dca8e6fd36ecbb636d16b4b41263
+
+ 100.0% src/mongo/db/matcher/
+
+e6b62717c8f36c1a12829b21ee6d03d8193098a7
+
+   0.8% src/mongo/db/commands/
+  57.8% src/mongo/db/concurrency/
+   0.2% src/mongo/db/matcher/
+  40.9% src/mongo/db/
+
+34bf558b24911143d3615f0af1a2f76d0ce238d0
+
+   0.8% src/mongo/db/commands/
+  57.9% src/mongo/db/concurrency/
+   0.2% src/mongo/db/matcher/
+  40.8% src/mongo/db/
+
+1ae3facefbfdb05d3369576611eb96fb1a303815
+
+   0.8% src/mongo/db/commands/
+  57.9% src/mongo/db/concurrency/
+   0.2% src/mongo/db/matcher/
+  40.8% src/mongo/db/
+
+a1cc3274956e0bc1a0fc7b7fb98724eb04423a03
+
+  99.7% src/mongo/db/
+   0.2% src/mongo/dbtests/
+
+319b9319fed8dfbafe6d3f23512f12a17fb0ed9a
+
+  88.8% src/mongo/db/concurrency/
+  11.1% src/mongo/db/
+
+023ed947f498f7b09fd4134bd1fe3152d381eed8
+
+ 100.0% src/mongo/db/concurrency/
+
+9a1d9a2ccea25f8d221408e136bae96906b5c7f0
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+Author:Luke Lovett,
+159c1ed111216d2aa0ccc7fca4bba07f2058997b
+
+ 100.0% jstests/ssl/
+Author:Mark Benvenuto,
+48ae7bda6e2d063d1ec195e54a46c9628eca2103
+
+
+4df4b1066735e3806fa2efb4ff6d6c6b277ab6b1
+
+  27.2% jstests/core/
+  23.4% src/mongo/db/concurrency/
+  49.3% src/mongo/db/
+
+2c7b356511a70c8e822a526f39a2ca9ad649e180
+
+ 100.0% src/mongo/db/
+
+5aedc94e6539773606c8276d192d5342665b7a59
+
+  27.8% jstests/noPassthroughWithMongod/
+  72.1% src/mongo/db/storage/wiredtiger/
+
+7ec1120f79778344a57a6c65fa57cdf6480857ef
+
+  19.2% jstests/noPassthroughWithMongod/
+  80.7% src/mongo/db/storage/wiredtiger/
+
+cf00df557a4ba4e313458838766c649edcba3258
+
+ 100.0% src/mongo/util/
+
+cc9365f57436d53360238d2353b05f6dc06d1dcc
+
+  20.8% src/mongo/db/catalog/
+  79.1% src/mongo/util/
+
+a227b9ef0ed691a85786f9d2ca3862aadc4e9369
+
+ 100.0% src/mongo/db/
+
+08e15d0ea10a9445cb356b14c29c1a0499b35337
+
+ 100.0% src/mongo/db/
+
+483f69dbd4a8af17c09f21484c2f66f754f418fb
+
+   7.6% src/third_party/wiredtiger/dist/
+  13.4% src/third_party/wiredtiger/src/include/
+  22.0% src/third_party/wiredtiger/src/log/
+  44.8% src/third_party/wiredtiger/src/os_win/
+  11.9% src/third_party/wiredtiger/src/support/
+
+1f741358bc48543349619d9e5d86d6c46b57abd7
+
+   0.2% src/mongo/db/storage/wiredtiger/
+  35.6% src/third_party/wiredtiger/dist/
+   8.6% src/third_party/wiredtiger/examples/c/
+   0.2% src/third_party/wiredtiger/ext/datasources/helium/
+   0.8% src/third_party/wiredtiger/src/btree/
+   1.1% src/third_party/wiredtiger/src/config/
+   6.4% src/third_party/wiredtiger/src/conn/
+   5.4% src/third_party/wiredtiger/src/cursor/
+  11.2% src/third_party/wiredtiger/src/include/
+   0.0% src/third_party/wiredtiger/src/lsm/
+   1.1% src/third_party/wiredtiger/src/meta/
+   2.9% src/third_party/wiredtiger/src/os_win/
+   7.3% src/third_party/wiredtiger/src/schema/
+   1.1% src/third_party/wiredtiger/src/session/
+   7.7% src/third_party/wiredtiger/src/support/
+   0.1% src/third_party/wiredtiger/src/txn/
+   2.3% src/third_party/wiredtiger/src/utilities/
+   1.9% src/third_party/wiredtiger/tools/
+   5.2% src/third_party/wiredtiger/
+
+0b4bc21e287c5e3dcdce38fc31714dd335f7a107
+
+   0.2% distsrc/
+   0.0% src/mongo/db/storage/wiredtiger/
+   0.0% src/third_party/wiredtiger/
+  99.4% src/third_party/zlib-1.2.8/
+   0.2% src/third_party/
+
+a186f6756c4e80fef5d0c3dd2a458a1af3e0d226
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+93c0e9db34e32c708527886ea923bda98ef3236b
+
+ 100.0% src/mongo/shell/
+Author:Mathias Stearn,
+16a8ef7ad60d498b69bdc0ad5cbca44757d16fd8
+
+   6.2% src/mongo/db/catalog/
+   0.1% src/mongo/db/commands/write_commands/
+   0.2% src/mongo/db/commands/
+  17.1% src/mongo/db/exec/
+   3.6% src/mongo/db/index/
+   1.3% src/mongo/db/query/
+   0.4% src/mongo/db/repl/
+   1.2% src/mongo/db/storage/devnull/
+   7.2% src/mongo/db/storage/in_memory/
+   1.2% src/mongo/db/storage/kv/
+   0.3% src/mongo/db/storage/mmap_v1/btree/
+   0.9% src/mongo/db/storage/mmap_v1/
+   6.5% src/mongo/db/storage/rocks/
+  14.3% src/mongo/db/storage/wiredtiger/
+  29.6% src/mongo/db/storage/
+   1.4% src/mongo/db/
+   7.0% src/mongo/dbtests/
+   0.6% src/mongo/s/
+
+cb5cab88761d9aca75e064665cce89f579c69e36
+
+   1.6% src/mongo/db/catalog/
+   6.7% src/mongo/db/exec/
+   1.4% src/mongo/db/index/
+   0.2% src/mongo/db/repl/
+   0.2% src/mongo/db/storage/in_memory/
+   0.2% src/mongo/db/storage/kv/
+   1.4% src/mongo/db/storage/mmap_v1/btree/
+   1.1% src/mongo/db/storage/mmap_v1/catalog/
+  39.1% src/mongo/db/storage/mmap_v1/
+   0.2% src/mongo/db/storage/wiredtiger/
+   3.9% src/mongo/db/storage/
+  42.8% src/mongo/db/
+   0.2% src/mongo/dbtests/
+   0.2% src/mongo/
+
+41024fa4a63255a8502732257ba1642b8d445087
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+8e0e873320a0962460c7a8e821495a325efe176b
+
+   8.0% src/mongo/client/
+  28.0% src/mongo/db/storage/wiredtiger/
+  63.8% src/mongo/util/
+
+217151b66aefddca0a62e92aa095bb4f27dba574
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+cf589f12e49136cfaa694a3f0eb61bca6fe987e7
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+4b8502bd7b6b4bc675be98768644de5c25f5f94a
+
+ 100.0% src/mongo/shell/
+
+ec3eecbf43af93e63a86f4ccda539328aa967fef
+
+  21.4% src/mongo/db/exec/
+  78.5% src/mongo/db/storage/wiredtiger/
+
+a6bba2cd699581aa610c636cd25042f2b45c8093
+
+  40.0% src/mongo/base/
+  25.5% src/mongo/db/storage/mmap_v1/
+  34.4% src/mongo/db/storage/wiredtiger/
+
+debe7c741f6f21587003fc3be4ccda5147b7e27b
+
+  23.1% src/mongo/db/storage/mmap_v1/btree/
+  76.8% src/mongo/db/
+
+3336204de27b1fdfc7554cc60597dd0e10d738af
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+eb0141484346be4f2831c15cabcc8204724f8bd8
+
+  14.2% src/mongo/db/catalog/
+  18.0% src/mongo/db/storage/mmap_v1/btree/
+  67.7% src/mongo/dbtests/
+
+1a81817c9e82d421c52ea575a29dd16168902800
+
+ 100.0% src/mongo/db/concurrency/
+
+04869a65202864514e6066ef77798a39c7c4920d
+
+ 100.0% src/mongo/db/concurrency/
+
+7fa44159b371c106cd9742174ff13a22aab5ce21
+
+  27.3% src/mongo/bson/
+   2.2% src/mongo/db/catalog/
+   1.3% src/mongo/db/exec/
+   0.9% src/mongo/db/storage/kv/
+   7.4% src/mongo/db/storage/rocks/
+   2.8% src/mongo/db/storage/wiredtiger/
+  12.1% src/mongo/db/storage/
+  45.7% src/mongo/util/
+
+a29dc744d4259897a37a8cf71f531c7cd045041e
+
+   2.7% src/mongo/db/storage/devnull/
+   2.7% src/mongo/db/storage/heap1/
+  38.5% src/mongo/db/storage/kv/
+   2.7% src/mongo/db/storage/rocks/
+  53.2% src/mongo/db/storage/wiredtiger/
+
+7e2937e75e84c8cb27a22488a202cf4411977c6a
+
+   0.3% src/mongo/db/catalog/
+  88.8% src/mongo/db/concurrency/
+   1.5% src/mongo/db/repl/
+   9.2% src/mongo/util/
+
+a1fc18243a20cc8c5fd4ef7ee3e9f2078b4139d7
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+1bbfd09914ac6b9095224162470271211cf56343
+
+ 100.0% src/mongo/db/catalog/
+
+379d94936e80ff006dd4d1e150b4524a5bf3a0a4
+
+ 100.0% src/mongo/db/storage/kv/
+
+1a98399b8c518e2d2f346bfae58ceee5ff808579
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+cc00f648f2cc51994d91dc6c24df9d93a7c3c4ba
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+a07b925d350b125daf6bfc0e3c514c55a493a1fb
+
+ 100.0% src/mongo/db/storage/mmap_v1/
+
+96352b10e79c6fee04cd666756889cffcda86113
+
+ 100.0% src/mongo/s/
+
+ff61cb160b2be922f8e91675d1f8135b71233ad3
+
+ 100.0% src/mongo/util/
+
+100be46dd67ca36e90c281952295ec044929ff18
+
+ 100.0% jstests/slow2/
+
+39032e1e57c9426f057147ffb785ab8822ec5530
+
+ 100.0% src/mongo/db/
+
+4731939510292ac460decd503e7b0e984c09a569
+
+ 100.0% src/mongo/db/storage/
+
+d5f6eb21a94a39bd39c3c7a7b0ac107aca33a7e4
+
+  26.9% jstests/core/
+   3.1% jstests/repl/
+   2.1% src/mongo/db/commands/
+  27.5% src/mongo/db/query/
+  21.9% src/mongo/db/storage/heap1/
+   4.1% src/mongo/db/storage/mmap_v1/btree/
+   6.0% src/mongo/db/storage/
+   8.0% src/mongo/db/
+
+f0bafc7c171217b7541d337723c6390a793be359
+
+ 100.0% jstests/replsets/
+Author:matt dannenberg,
+d6d10d0c21ad2118dce9e3d6c5efcc6bef965d58
+
+ 100.0% src/mongo/db/repl/
+
+4a5d53cc94bc5ddb72ecfc5dd038b0ede12b27aa
+
+ 100.0% src/mongo/db/repl/
+
+e8c4f9b33b1b1b8b500e94da331a8eb9e0b9ad05
+
+ 100.0% jstests/replsets/
+
+9ae1dd37b3fa0a0325d65dc1b6c8101902c1c2a3
+
+ 100.0% src/mongo/db/repl/
+
+74cd9523a6b9d81dc60bdf6af05f6fa2e8739159
+
+ 100.0% src/mongo/db/repl/
+
+d0cd11123e114ea8cea33e37d06d1cf43c41727b
+
+  43.8% src/mongo/client/
+  16.8% src/mongo/db/commands/
+  23.6% src/mongo/db/repl/
+  15.6% src/mongo/shell/
+
+b73c76f266a5427bfbab913e437ecda9aba34fda
+
+   3.1% src/mongo/base/
+  96.8% src/mongo/db/repl/
+
+d56a2b6bc566489899033275fd9dbb3ab5d4eb02
+
+  90.5% src/mongo/db/repl/
+   9.4% src/mongo/db/
+
+7ad98f86d290ffc00849f701b93e7a0aaa0c5be9
+
+ 100.0% jstests/replsets/
+
+f10ba2d36f36c01a8cc463d84b7c2f3a5d8af879
+
+ 100.0% src/mongo/db/repl/
+
+be6b276f8367b2165133599d631cec0c9813afab
+
+ 100.0% src/mongo/db/repl/
+
+9a9b844828cdba0689484a6c18d9f04e8b5f950c
+
+ 100.0% src/mongo/db/repl/
+
+a38dbb08df9b4bafc94a54da07746950048a4e41
+
+ 100.0% jstests/replsets/
+
+188694e853873f0ab564e5b49f53e7b7e7bbcd42
+
+ 100.0% jstests/replsets/
+
+6c0c1df12e3c6366f410f4b3137de7b16854bda1
+
+ 100.0% jstests/replsets/
+
+2b320ff2801f6a124b157e7e9edf46df2d18992c
+
+ 100.0% jstests/replsets/
+
+869bb778dd79d3cc199523bda40671be7cb92aae
+
+ 100.0% src/mongo/db/repl/
+
+017704acdfc7517efadb3fab167bba06c025c01a
+
+  94.6% jstests/replsets/
+   5.3% src/mongo/db/repl/
+
+d01714904e04ef12cfb7d98caefc6f487e37efad
+
+ 100.0% jstests/replsets/
+
+8de98e198650d1e3eb261c3526b5e5df93527c97
+
+   9.1% jstests/gle/
+   2.2% jstests/replsets/
+  88.5% src/mongo/db/repl/
+Author:Matt Kangas,
+9abf77b84056003cf64ea9c69ae5e85bbd135ce0
+
+ 100.0% src/mongo/db/storage/kv/
+
+1ca93ea38fe42f885c5c198d9f46335ff1294136
+
+  50.0% jstests/noPassthrough/
+  50.0% jstests/noPassthroughWithMongod/
+
+36435059ccc4b9c49316cd93510d1cdb6f0ab7f1
+
+ 100.0% jstests/noPassthroughWithMongod/
+
+601e10a7a3a7c86a9b44455f0358f199176db2a4
+
+
+35079a95ebc591dee47ecca5e0f22eb7a7381fd0
+
+ 100.0% docs/
+
+792f66beb03f0c0293b56e9aad16f94ad718357a
+
+  25.7% src/third_party/wiredtiger/src/btree/
+  21.4% src/third_party/wiredtiger/src/conn/
+   7.4% src/third_party/wiredtiger/src/cursor/
+   3.9% src/third_party/wiredtiger/src/include/
+  22.6% src/third_party/wiredtiger/src/lsm/
+   6.0% src/third_party/wiredtiger/src/meta/
+  10.7% src/third_party/wiredtiger/src/session/
+   1.8% src/third_party/wiredtiger/src/txn/
+
+def8f54bf6162317cc8b345e81c6e698d618ad96
+
+   1.0% src/third_party/wiredtiger/dist/
+  15.8% src/third_party/wiredtiger/src/btree/
+   0.7% src/third_party/wiredtiger/src/conn/
+  17.5% src/third_party/wiredtiger/src/cursor/
+  36.5% src/third_party/wiredtiger/src/include/
+  25.3% src/third_party/wiredtiger/src/lsm/
+   2.9% src/third_party/wiredtiger/src/session/
+
+b1be46d80c999a4a583dd55dff5da42b28480f15
+
+   0.6% src/third_party/wiredtiger/dist/
+   0.1% src/third_party/wiredtiger/src/block/
+   0.3% src/third_party/wiredtiger/src/bloom/
+   1.1% src/third_party/wiredtiger/src/btree/
+   0.8% src/third_party/wiredtiger/src/config/
+  23.6% src/third_party/wiredtiger/src/conn/
+  11.0% src/third_party/wiredtiger/src/cursor/
+  13.4% src/third_party/wiredtiger/src/include/
+   1.2% src/third_party/wiredtiger/src/log/
+   8.0% src/third_party/wiredtiger/src/lsm/
+   3.3% src/third_party/wiredtiger/src/meta/
+  14.0% src/third_party/wiredtiger/src/os_posix/
+   0.1% src/third_party/wiredtiger/src/os_win/
+   5.4% src/third_party/wiredtiger/src/schema/
+   7.9% src/third_party/wiredtiger/src/session/
+   0.6% src/third_party/wiredtiger/src/support/
+   7.4% src/third_party/wiredtiger/src/txn/
+   0.2% src/third_party/wiredtiger/src/utilities/
+
+42d25fc0fd25d59fb2b2f29f79f09cb4f7f623c6
+
+ 100.0% buildscripts/
+
+c0a623cf2bba01c4fbb78bda4a7b2e67c1c8d2d8
+
+  59.1% jstests/core/
+   4.2% jstests/libs/config_files/
+   4.8% jstests/noPassthrough/
+  31.7% jstests/noPassthroughWithMongod/
+
+8987c8005e54430c0934c02b2cb62d8545028e89
+
+ 100.0% src/mongo/logger/
+
+107a8a87e50f4e625c6a4f0c533db0f75f037093
+
+   2.8% src/mongo/db/commands/write_commands/
+   2.8% src/mongo/db/concurrency/
+   5.7% src/mongo/db/exec/
+  11.4% src/mongo/db/ops/
+  38.7% src/mongo/db/
+  38.2% src/mongo/logger/
+
+9efe8f1e1d37239cf77e8b5de57bce42dc43e8e1
+
+  15.3% src/mongo/db/storage/mmap_v1/
+   3.4% src/mongo/db/
+  81.2% src/mongo/logger/
+
+af8fdf9102f60fc731ef64c8ad5cb2b19745dc4e
+
+  15.4% src/mongo/client/
+   1.9% src/mongo/db/repl/
+  40.9% src/mongo/db/
+  30.0% src/mongo/logger/
+  11.6% src/mongo/util/net/
+
+6704a4548ae6b5c310991e4d5d82509999cef306
+
+  35.2% src/mongo/db/catalog/
+  13.8% src/mongo/db/index/
+   2.7% src/mongo/db/storage/mmap_v1/btree/
+   5.5% src/mongo/db/storage/mmap_v1/catalog/
+   8.3% src/mongo/db/
+  34.2% src/mongo/logger/
+
+f88237b9afdf56989adb5113890646d931d520cc
+
+  29.7% src/mongo/db/commands/
+   3.9% src/mongo/db/fts/
+   1.9% src/mongo/db/repl/
+  11.9% src/mongo/db/
+   1.9% src/mongo/dbtests/
+  42.4% src/mongo/logger/
+   1.9% src/mongo/s/commands/
+   3.9% src/mongo/s/
+   1.9% src/mongo/util/
+
+27e1526d49b169f5086ad88c15903143cb1906b7
+
+ 100.0% src/mongo/logger/
+
+d41f98bd0fdc3d392fc19aadfdc62a020d17fede
+
+  59.3% src/mongo/db/commands/
+  11.0% src/mongo/db/geo/
+  29.5% src/mongo/db/
+
+80102d2ba97e5c35587bbba618e9501debb0d268
+
+ 100.0% src/mongo/db/
+
+f31a38be3ce39267382e59b4fe74be1129b96679
+
+   0.0% src/third_party/wiredtiger/bench/wtperf/
+   0.0% src/third_party/wiredtiger/dist/package/debian/source/
+   1.7% src/third_party/wiredtiger/dist/package/debian/
+   0.5% src/third_party/wiredtiger/dist/package/
+   0.2% src/third_party/wiredtiger/dist/
+  53.4% src/third_party/wiredtiger/examples/c/
+  38.0% src/third_party/wiredtiger/examples/java/com/wiredtiger/examples/
+   0.2% src/third_party/wiredtiger/examples/java/
+   0.6% src/third_party/wiredtiger/examples/python/
+   0.1% src/third_party/wiredtiger/lang/python/wiredtiger/
+   0.1% src/third_party/wiredtiger/src/conn/
+   1.5% src/third_party/wiredtiger/src/include/
+   2.3% src/third_party/wiredtiger/src/lsm/
+   0.0% src/third_party/wiredtiger/src/session/
+   0.1% src/third_party/wiredtiger/src/support/
+   0.3% src/third_party/wiredtiger/src/txn/
+   0.3% src/third_party/wiredtiger/tools/
+
+a6be8c0d9cee8c3a87a26f3d5e0fb6f58632bf43
+
+ 100.0% buildscripts/
+
+8c8d039ad7db78593f5e96e1deddf52bcb01bbd1
+
+ 100.0% src/mongo/db/
+
+aed9203f383619406705119cdf62c6f28c33c4e0
+
+   0.5% src/third_party/wiredtiger/dist/
+   3.4% src/third_party/wiredtiger/examples/c/
+   5.5% src/third_party/wiredtiger/ext/datasources/helium/
+   7.0% src/third_party/wiredtiger/src/btree/
+  32.2% src/third_party/wiredtiger/src/conn/
+   8.7% src/third_party/wiredtiger/src/cursor/
+   5.9% src/third_party/wiredtiger/src/include/
+  16.5% src/third_party/wiredtiger/src/lsm/
+  19.8% src/third_party/wiredtiger/tools/
+
+20ad93b09352b317302f6b713bacaedab757c93b
+
+ 100.0% buildscripts/
+
+4d7a2c7dd8c29059a2f8b7f6c74aec9817e02de7
+
+   0.9% src/third_party/wiredtiger/build_posix/aclocal/
+   0.1% src/third_party/wiredtiger/dist/package/
+   0.3% src/third_party/wiredtiger/dist/
+  19.6% src/third_party/wiredtiger/lang/java/
+   3.0% src/third_party/wiredtiger/src/async/
+   2.0% src/third_party/wiredtiger/src/block/
+  10.4% src/third_party/wiredtiger/src/btree/
+   0.5% src/third_party/wiredtiger/src/config/
+   4.3% src/third_party/wiredtiger/src/conn/
+   2.7% src/third_party/wiredtiger/src/cursor/
+   8.7% src/third_party/wiredtiger/src/include/
+  15.1% src/third_party/wiredtiger/src/log/
+   1.0% src/third_party/wiredtiger/src/lsm/
+  16.5% src/third_party/wiredtiger/src/os_posix/
+   2.3% src/third_party/wiredtiger/src/os_win/
+   0.1% src/third_party/wiredtiger/src/schema/
+   1.0% src/third_party/wiredtiger/src/support/
+   9.0% src/third_party/wiredtiger/src/txn/
+   1.7% src/third_party/wiredtiger/
+
+9458c394cf6daa30608544526f94fb856663941b
+
+ 100.0% distsrc/
+
+30668a6d4e2f0b264acf45d3bf6ca92b76fbe1c7
+
+  11.1% src/third_party/wiredtiger/api/leveldb/basho/
+   1.6% src/third_party/wiredtiger/api/leveldb/hyperleveldb/
+   9.5% src/third_party/wiredtiger/api/leveldb/leveldb/db/
+  24.3% src/third_party/wiredtiger/api/leveldb/leveldb/include/leveldb/
+   0.5% src/third_party/wiredtiger/api/leveldb/leveldb/port/
+  19.3% src/third_party/wiredtiger/api/leveldb/leveldb/util/
+   0.6% src/third_party/wiredtiger/api/leveldb/leveldb/
+   4.7% src/third_party/wiredtiger/api/leveldb/rocksdb/
+  27.9% src/third_party/wiredtiger/api/leveldb/
+
+7c3cfac300cfcca4f73f1c3b18457f0f8fae3f69
+
+ 100.0% buildscripts/
+
+75b1c0c1c0a27a3c73e52425526521ddd65e4b60
+
+ 100.0% buildscripts/
+
+10c497c51f5738c1ebe42903f8d6bfd0f018240a
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+
+c1374695b9fef835b40b16461be659feb8d9b604
+
+ 100.0% src/mongo/db/storage/wiredtiger/
+Author:Max Hirschhorn,
+113fb30b65cded6ece1160c962d64fa232440b7d
+
+ 100.0% jstests/parallel/
+
+8bfae19e291e6ee6e963d2ccc8aa2535ff7c86c4
+
+   3.0% jstests/noPassthroughWithMongod/
+   2.3% src/mongo/db/storage/devnull/
+   2.5% src/mongo/db/storage/in_memory/
+   2.2% src/mongo/db/storage/mmap_v1/
+   2.4% src/mongo/db/storage/rocks/
+  77.6% src/mongo/db/storage/wiredtiger/
+   6.3% src/mongo/db/storage/
+   3.3% src/mongo/db/
+
+365cca0c47566d192ca847f0b077cedef4b3430e
+
+   1.5% jstests/libs/
+  50.9% jstests/parallel/fsm_libs/
+   0.7% jstests/parallel/fsm_workload_helpers/
+  27.3% jstests/parallel/fsm_workloads/
+  12.9% jstests/parallel/
+   6.4% src/mongo/scripting/
+
+09d04e84e71651a5af7fa738c4614a6dd4dfb848
+
+ 100.0% src/mongo/scripting/
+
+43e606715e80d43696eeb7048b33017f14a49eb3
+
+  49.2% src/mongo/db/storage/heap1/
+  50.0% src/mongo/db/storage/in_memory/
+   0.5% src/mongo/db/storage/
+   0.1% src/mongo/
+Author:Michael Ivanov,
+a57241b5823968515be18614b1358e4bd7db5acc
+
+  24.5% jstests/core/
+  75.4% src/mongo/db/query/
+Author:mike o'brien,
+609a1492d2895ea55a9202815590636d1934a9ca
+
+ 100.0% jstests/tool/
+Author:Randolph Tan,
+239e712c955c862565a559ae607e0fdaeee52075
+
+ 100.0% jstests/multiVersion/
+
+8deddb065c6124f31346d5f96efe8734da98d125
+
+   1.8% buildscripts/
+  11.6% jstests/sharding/
+  17.7% src/mongo/client/
+  42.8% src/mongo/db/
+  25.8% src/mongo/s/
+
+02077a6e7d7215af65cfd88beda865672d45a442
+
+ 100.0% src/mongo/db/commands/
+
+3abc8d35f91605641b3e694c10ad987f64a84d31
+
+  33.0% jstests/multiVersion/
+   3.1% jstests/sharding/
+  53.6% src/mongo/db/commands/
+   9.3% src/mongo/s/
+   0.7% src/mongo/
+
+c281a315cea3f6c5b54d9d6e4b8755d3fce55fd3
+
+ 100.0% src/mongo/client/
+
+cf132ed1034fb7db8280f1d6d72b0799c4152d5d
+
+ 100.0% jstests/noPassthroughWithMongod/
+Author:Scott Hernandez,
+e5644e2ca12a60df677cb8e8dfc70f19a9423b0a
+
+ 100.0% src/mongo/db/repl/
+
+2e2091d502d959f52640de209470ecd3180d7269
+
+ 100.0% src/mongo/db/repl/
+
+f4c67e1f3e5c0a63567539a5b97c32b22cb693f7
+
+ 100.0% src/mongo/db/repl/
+
+086893fa1ae5d561992be80ab4e85e34d37572c3
+
+ 100.0% src/mongo/db/repl/
+
+279587c470f1571b518f7a4b7fba923cf0909a09
+
+ 100.0% src/mongo/db/repl/
+
+764b53c3432c0b01f8d44fe3cea1a5f6d07d805b
+
+ 100.0% src/mongo/db/repl/
+
+3660339e223ce36e864e983ef3e4b419738e54c4
+
+ 100.0% src/mongo/db/repl/
+
+4169b355bcfa6c57f0dd8f5fbb8db4d823cb3c86
+
+ 100.0% src/mongo/db/
+
+47d13ec4b8f19973cd7242ea2cba2ec882073a5e
+
+ 100.0% src/mongo/db/repl/
+
+f49039888f598207b315592da43a266fbf9f179d
+
+ 100.0% src/mongo/db/repl/
+
+7dc63fa1a8d6937e9dd2c029da002a7a99372b57
+
+ 100.0% src/mongo/db/repl/
+
+44461e50ac7124b76564a400948ed7b9173504b4
+
+ 100.0% src/mongo/db/repl/
+
+c1dc2b6ec7c72bcabf97ea4033b6877c09ebe8c8
+
+ 100.0% src/mongo/db/repl/
+
+2a6de7b46d008d76e3cbc5485d15638e133d27b9
+
+ 100.0% src/mongo/db/repl/
+
+38de3485ec850c8e21fcfab94e9c378ac73d6346
+
+  53.8% src/mongo/db/repl/
+   7.3% src/mongo/db/
+  38.7% src/mongo/util/concurrency/
+Author:sdong,
+e6ff142766cf8cbfa04a9c6acc5cb8ced3ea9fb3
+
+ 100.0% src/mongo/db/storage/rocks/
+
+45f21d67bb9cf17d1804f04e1e98cf171ae1b6e7
+
+ 100.0% src/mongo/db/storage/rocks/
+
+12a5ee7a57884bd227aa2a6b41bf56fd9f92eeb2
+
+ 100.0% src/mongo/db/storage/rocks/
+
+dbc8bd10eefc7ceb6791d9179935f0a4c184d009
+
+ 100.0% src/mongo/db/storage/rocks/
+
+28dc332e17c20a045785b8ed9abbb9509d5c0815
+
+ 100.0% src/mongo/db/storage/rocks/
+Author:Siyuan Zhou,
+abb646af87f18ff222eb9684bd4e04ccf61987b8
+
+ 100.0% src/third_party/s2/base/
+
+9fa536a4134e55359b13b3f6975f5fe497505777
+
+ 100.0% jstests/core/
+
+b53c39c05d6f0ed60ce64e6e3c385095989ed347
+
+ 100.0% jstests/core/
+Author:Spencer T Brody,
+725c657adc955aed8f832641553861162b448d18
+
+   4.7% jstests/replsets/
+  95.2% src/mongo/db/repl/
+
+5d1f0d27992da53eb1c546f413e5b34e78d8c439
+
+ 100.0% src/mongo/db/
+
+5d53a26ce33320b5b91ff5a8fcd2b69be1367367
+
+ 100.0% src/mongo/db/repl/
+
+4dda322fdb688a53c243fe7c0df778f5b3f0a0cd
+
+  63.1% jstests/replsets/
+  36.8% src/mongo/db/repl/
+
+1b204eba0dc80f4007cb88b995b761a8bc0987fc
+
+ 100.0% src/mongo/db/repl/
+
+2ac3b5b8c79726c73e08bdac732f8f09d846d72f
+
+ 100.0% src/mongo/db/repl/
+
+10cf936a3635a72ee61714631050cf54466410eb
+
+   0.0% src/mongo/db/commands/
+  99.3% src/mongo/db/repl/
+   0.2% src/mongo/db/
+   0.0% src/mongo/s/
+   0.2% src/mongo/
+
+13577a48b51202aabd2e55ef95404439aaa4a0c3
+
+  25.8% src/mongo/client/
+  31.8% src/mongo/dbtests/mock/
+  41.5% src/mongo/dbtests/
+   0.7% src/mongo/
+
+42d802af32f99663bc1c66456b2d57749010bed5
+
+ 100.0% src/mongo/db/repl/
+
+3a8c58f22a02fca264932802596a223b4e49efcb
+
+ 100.0% src/mongo/db/repl/
+
+d1cba25b72f41a2374eae4f74e12299196149580
+
+ 100.0% src/mongo/db/repl/
+
+622bb23dca571100644c8dd927bd844a3ceae19e
+
+ 100.0% src/mongo/db/repl/
+
+5016268d94a5fef8a229911c45e6fd6679a7d2f9
+
+ 100.0% src/mongo/shell/
+
+b2ffa0b51be6e75fdd2eed15b2d79c3e5010f0af
+
+  29.6% src/mongo/db/repl/
+  70.3% src/mongo/db/
+
+6e7f0bd5b2b36f292fc2e3ee72f4b4b0ee504a06
+
+ 100.0% src/mongo/db/repl/
+
+af31dc7ba520145df053e72232647556e467dd00
+
+ 100.0% src/mongo/db/repl/
+
+d2ab711c0e57271f9584602329c50dd84e32c4bb
+
+ 100.0% jstests/gle/
+
+3f02fd962b26014f9fcb21e0ab91462d9fc690b6
+
+ 100.0% jstests/replsets/
+
+918663879caa0e6345d2e37d25bbe27bab1cc504
+
+ 100.0% src/mongo/db/repl/
+
+ba0068e794ab281fdcb347467f23070879ecf8cb
+
+ 100.0% src/mongo/db/repl/
+
+d204985463cd731d16190fd79621e227850d9c84
+
+ 100.0% src/mongo/db/repl/
+
+d7e6e0be8f54cfa0b57a6515306c56a38dcdf0d1
+
+  22.3% src/mongo/db/repl/
+  77.6% src/mongo/util/net/
+
+1bb29da08f761b4ed79c8bb1cacb74aaec702530
+
+ 100.0% jstests/replsets/
+Author:Stephen Lin,
+fc9c035d91ccbe16bd0d4412742d5d3352f3eeec
+
+ 100.0% src/mongo/db/auth/
